@@ -1,26 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <g fill="#FFFFFF">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120">
+  <g fill="#000000">
     <!-- Head -->
-    <circle cx="50" cy="20" r="8"/>
-    <!-- Body -->
-    <rect x="46" y="28" width="8" height="20" rx="2"/>
-    <!-- Arms with binoculars -->
-    <path d="M46,32 L38,36 L35,34" stroke="#FFFFFF" stroke-width="2" fill="none"/>
-    <path d="M54,32 L62,36 L65,34" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+    <ellipse cx="50" cy="20" rx="10" ry="12"/>
+
+    <!-- Neck -->
+    <rect x="47" y="30" width="6" height="5"/>
+
+    <!-- Body/Torso -->
+    <path d="M42,35 L42,65 L48,65 L48,35 Z"/>
+    <path d="M52,35 L52,65 L58,65 L58,35 Z"/>
+
+    <!-- Arms holding binoculars up -->
+    <path d="M42,40 L32,35 L30,38 L40,43 Z"/>
+    <path d="M58,40 L68,35 L70,38 L60,43 Z"/>
+
     <!-- Binoculars -->
-    <g transform="translate(50,36)">
-      <circle cx="-5" cy="0" r="4" opacity="0.9"/>
-      <circle cx="5" cy="0" r="4" opacity="0.9"/>
-      <rect x="-1.5" y="-2" width="3" height="4" rx="1"/>
-      <!-- Lenses -->
-      <circle cx="-5" cy="0" r="2.5" fill="#87CEEB" opacity="0.6"/>
-      <circle cx="5" cy="0" r="2.5" fill="#87CEEB" opacity="0.6"/>
+    <g>
+      <!-- Left cylinder -->
+      <ellipse cx="42" cy="32" rx="5" ry="7" opacity="0.9"/>
+      <!-- Right cylinder -->
+      <ellipse cx="58" cy="32" rx="5" ry="7" opacity="0.9"/>
+      <!-- Bridge -->
+      <rect x="45" y="30" width="10" height="4" rx="2"/>
+      <!-- Left lens glass -->
+      <ellipse cx="42" cy="30" rx="3" ry="4" fill="#333"/>
+      <!-- Right lens glass -->
+      <ellipse cx="58" cy="30" rx="3" ry="4" fill="#333"/>
     </g>
+
     <!-- Legs -->
-    <path d="M46,48 L42,65" stroke="#FFFFFF" stroke-width="3" fill="none"/>
-    <path d="M54,48 L58,65" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+    <path d="M44,65 L40,95 L36,95 L40,65 Z"/>
+    <path d="M56,65 L60,95 L64,95 L60,65 Z"/>
+
     <!-- Feet -->
-    <line x1="42" y1="65" x2="38" y2="65" stroke="#FFFFFF" stroke-width="2"/>
-    <line x1="58" y1="65" x2="62" y2="65" stroke="#FFFFFF" stroke-width="2"/>
+    <ellipse cx="38" cy="96" rx="5" ry="3"/>
+    <ellipse cx="62" cy="96" rx="5" ry="3"/>
   </g>
 </svg>
