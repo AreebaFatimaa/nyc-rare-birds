@@ -7,18 +7,16 @@ An automated, interactive map displaying rare bird sightings in New York City. U
 - **Interactive Map**: Explore rare bird sightings across all five NYC boroughs
 - **Daily Updates**: Automatically refreshes at 4am EST via GitHub Actions
 - **Rich Information**: Click any bird marker to see photos and descriptions
-- **Heat Map**: Visual density gradient shows areas with more rare bird activity
 - **Clustering**: Markers group together at zoomed-out views for clarity
 - **No API Keys Required**: (for viewing - deployment requires eBird API key)
 
 ## Live Demo
 
-Visit the live site at: `https://[your-username].github.io/nyc-rare-birds`
+Visit the live site at: `https://areebafatimaa.github.io/nyc-rare-birds`
 
 ## How It Works
 
 1. **Data Collection**: Python scraper fetches notable bird sightings from eBird API
-2. **Enrichment**: Retrieves bird photos and descriptions from Wikipedia
 3. **Storage**: Saves data to JSON file in the repository
 4. **Visualization**: Leaflet.js displays sightings on an interactive map
 5. **Automation**: GitHub Actions runs the scraper daily at 4am EST
@@ -28,7 +26,6 @@ Visit the live site at: `https://[your-username].github.io/nyc-rare-birds`
 ### Prerequisites
 
 - GitHub account
-- eBird API key (free - get it at https://ebird.org/api/keygen)
 
 ### Deployment Steps
 
@@ -38,32 +35,19 @@ Visit the live site at: `https://[your-username].github.io/nyc-rare-birds`
    cd nyc-rare-birds
    ```
 
-2. **Get Your eBird API Key**
-   - Visit https://ebird.org/api/keygen
-   - Create an eBird account if you don't have one
-   - Request an API key (instant approval)
-
-3. **Add API Key to GitHub Secrets**
-   - Go to your repository on GitHub
-   - Navigate to Settings > Secrets and variables > Actions
-   - Click "New repository secret"
-   - Name: `EBIRD_API_KEY`
-   - Value: [paste your eBird API key]
-   - Click "Add secret"
-
-4. **Enable GitHub Pages**
+2. **Enable GitHub Pages**
    - Go to Settings > Pages
    - Source: Deploy from a branch
    - Branch: `main` / `root`
    - Click Save
 
-5. **Run the Scraper Manually (First Time)**
+3. **Run the Scraper Manually (First Time)**
    - Go to Actions tab
    - Click "Update Bird Sightings" workflow
    - Click "Run workflow" > "Run workflow"
    - Wait for it to complete (~2-5 minutes)
 
-6. **Visit Your Site**
+4. **Visit Your Site**
    - Your site will be live at: `https://[your-username].github.io/nyc-rare-birds`
    - It may take a few minutes for GitHub Pages to deploy
 
@@ -133,7 +117,6 @@ nyc-rare-birds/
 - **Frontend**: HTML, CSS, JavaScript (vanilla)
 - **Map Library**: [Leaflet.js](https://leafletjs.com)
 - **Clustering**: Leaflet.markercluster
-- **Heat Map**: Leaflet.heat
 - **Backend**: Python 3.11
 - **Automation**: GitHub Actions
 - **Hosting**: GitHub Pages
@@ -214,10 +197,6 @@ This project is open source and available under the MIT License.
 - Map tiles from [OpenStreetMap](https://openstreetmap.org)
 - Built with [Leaflet.js](https://leafletjs.com)
 
-## Contact
-
-For questions or issues, please open an issue on GitHub.
-
 ---
 
-**Note**: This project is for educational purposes. Please respect eBird's API usage guidelines and rate limits.
+**Note**: This project is for educational purposes. 
