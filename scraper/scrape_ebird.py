@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 eBird Public Page Scraper for NYC Rare Bird Alerts
-Scrapes publicly available data from eBird alert pages.
+Scrapes ONLY from the public eBird website - NO API
 """
 
 import requests
@@ -10,7 +10,6 @@ import json
 import os
 from datetime import datetime
 from fetch_wikipedia import fetch_bird_info
-from geocode import geocode_address
 import time
 import re
 
@@ -22,43 +21,66 @@ def scrape_ebird_alerts():
     Scrape bird sightings from eBird public alert page.
     Returns list of raw sightings.
     """
-    print(f"Fetching data from {EBIRD_ALERT_URL}...")
+    print(f"Scraping data from {EBIRD_ALERT_URL}...")
 
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.5',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
         'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Cache-Control': 'max-age=0',
     }
 
-    try:
-        session = requests.Session()
-        response = session.get(EBIRD_ALERT_URL, headers=headers, timeout=15, allow_redirects=True)
+    session = requests.Session()
 
-        if response.status_code != 200:
-            print(f"Error: Received status code {response.status_code}")
-            print("The page may require authentication.")
-            print("Falling back to eBird API...")
-            return scrape_with_api_fallback()
+    try:
+        # First request to get any cookies
+        print("Making initial request...")
+        response = session.get(EBIRD_ALERT_URL, headers=headers, timeout=30, allow_redirects=True)
+
+        print(f"Status code: {response.status_code}")
+        print(f"Final URL: {response.url}")
+
+        # Save the HTML for debugging
+        with open('/tmp/ebird_page.html', 'w', encoding='utf-8') as f:
+            f.write(response.text)
+        print("Saved page to /tmp/ebird_page.html for inspection")
 
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        # Look for observations using the structure you provided
+        # Look for observations using the exact structure you provided
         obs_elements = soup.find_all('div', class_='Observation')
 
         if not obs_elements:
-            print("Could not find observation elements on page.")
-            print("Page may require login or structure has changed.")
-            print("Falling back to eBird API...")
-            return scrape_with_api_fallback()
+            print(f"\nERROR: Could not find any observation elements!")
+            print(f"Page title: {soup.title.string if soup.title else 'No title'}")
+            print(f"Looking for alternative structures...")
 
-        print(f"Found {len(obs_elements)} observations on page")
+            # Try to find ANY div that might contain observations
+            all_divs = soup.find_all('div')
+            print(f"Total divs found: {len(all_divs)}")
+
+            # Look for common eBird class names
+            for class_name in ['observation', 'sighting', 'result', 'checklist']:
+                elements = soup.find_all(class_=re.compile(class_name, re.I))
+                if elements:
+                    print(f"Found {len(elements)} elements with class containing '{class_name}'")
+
+            print("\nThe page might require login. Check /tmp/ebird_page.html")
+            return []
+
+        print(f"\n✓ Found {len(obs_elements)} observations!")
 
         sightings = []
 
-        for obs in obs_elements:
+        for i, obs in enumerate(obs_elements, 1):
             try:
-                # Extract bird species name
+                # Extract bird species name - EXACT structure from your HTML
                 species_elem = obs.find('span', class_='Heading-main')
                 species = species_elem.get_text(strip=True) if species_elem else None
 
@@ -66,7 +88,7 @@ def scrape_ebird_alerts():
                 sci_elem = obs.find('span', class_='Heading-sub--sci')
                 scientific_name = sci_elem.get_text(strip=True) if sci_elem else ''
 
-                # Extract date and time
+                # Extract date and time - look for checklist link
                 date_elem = obs.find('a', href=lambda x: x and '/checklist/' in x)
                 date_str = date_elem.get_text(strip=True) if date_elem else None
 
@@ -78,30 +100,34 @@ def scrape_ebird_alerts():
 
                 if location_elem:
                     location = location_elem.get_text(strip=True)
-                    # Extract coordinates from the href
+                    # Extract coordinates from href
                     href = location_elem.get('href', '')
                     coords_match = re.search(r'query=([-\d.]+),([-\d.]+)', href)
                     if coords_match:
                         lat = float(coords_match.group(1))
                         lng = float(coords_match.group(2))
 
-                # Extract observer name - look for the specific structure
+                # Extract observer name - EXACT structure from your HTML
                 observer = "Anonymous"
-                # Find the observer section
-                meta_divs = obs.find_all('div', class_='GridFlex-cell')
-                for div in meta_divs:
-                    # Look for the observer icon
-                    icon = div.find('svg', class_='Icon--user')
-                    if icon:
-                        # The observer name should be in a span in the same parent
-                        parent = div.parent
-                        if parent:
-                            observer_spans = parent.find_all('span')
-                            for span in observer_spans:
-                                text = span.get_text(strip=True)
-                                if text and text != 'Observer:' and not span.get('class') or 'is-visuallyHidden' not in span.get('class', []):
-                                    observer = text
-                                    break
+
+                # Look for the GridFlex structure
+                grid_cells = obs.find_all('div', class_='GridFlex-cell')
+                for cell in grid_cells:
+                    # Find the user icon
+                    user_icon = cell.find('svg', class_='Icon--user')
+                    if user_icon:
+                        # Get the next cell which should contain the observer name
+                        next_div = cell.find_next_sibling('div', class_='GridFlex-cell')
+                        if next_div:
+                            # Get all spans in this div
+                            spans = next_div.find_all('span')
+                            for span in spans:
+                                # Skip the "Observer: " label
+                                if 'is-visuallyHidden' not in span.get('class', []):
+                                    observer_text = span.get_text(strip=True)
+                                    if observer_text and observer_text != 'Observer:':
+                                        observer = observer_text
+                                        break
 
                 if species and location and lat and lng:
                     sightings.append({
@@ -113,76 +139,33 @@ def scrape_ebird_alerts():
                         'date': date_str,
                         'observer': observer
                     })
-                    print(f"  ✓ {species} by {observer} at {location}")
+                    print(f"  {i}. {species} - {observer} at {location}")
+                else:
+                    missing = []
+                    if not species: missing.append("species")
+                    if not location: missing.append("location")
+                    if not lat or not lng: missing.append("coordinates")
+                    print(f"  {i}. Skipped (missing: {', '.join(missing)})")
 
             except Exception as e:
-                print(f"Error parsing observation: {e}")
+                print(f"  {i}. Error: {e}")
                 continue
 
-        if not sightings:
-            print("No valid sightings extracted, falling back to API...")
-            return scrape_with_api_fallback()
+        print(f"\n{'='*50}")
+        print(f"Successfully extracted {len(sightings)} sightings!")
+        print(f"{'='*50}\n")
 
         return sightings
 
     except Exception as e:
-        print(f"Error fetching page: {e}")
-        print("Falling back to eBird API...")
-        return scrape_with_api_fallback()
-
-def scrape_with_api_fallback():
-    """
-    Fallback to eBird API if web scraping fails.
-    """
-    api_key = os.environ.get('EBIRD_API_KEY', '')
-
-    if not api_key:
-        print("ERROR: Cannot scrape page (requires login) and no EBIRD_API_KEY provided")
-        print("Please either:")
-        print("1. Get an eBird API key from https://ebird.org/api/keygen")
-        print("2. Set EBIRD_API_KEY environment variable")
+        print(f"\nFATAL ERROR: {e}")
+        import traceback
+        traceback.print_exc()
         return []
-
-    print(f"Using eBird API with key: {api_key[:8]}...")
-
-    # New York State region code (to get all sightings from the state)
-    region = 'US-NY'
-
-    all_sightings = []
-    base_url = "https://api.ebird.org/v2/data/obs"
-    headers = {'X-eBirdApiToken': api_key}
-
-    try:
-        url = f"{base_url}/{region}/recent/notable"
-        params = {'back': 7, 'detail': 'full', 'maxResults': 200}
-        response = requests.get(url, params=params, headers=headers, timeout=15)
-
-        if response.status_code == 200:
-            data = response.json()
-            print(f"Found {len(data)} notable sightings in {region}")
-
-            for obs in data:
-                all_sightings.append({
-                    'species': obs.get('comName', 'Unknown'),
-                    'scientific_name': obs.get('sciName', ''),
-                    'location': obs.get('locName', 'Unknown'),
-                    'date': obs.get('obsDt', ''),
-                    'observer': obs.get('userDisplayName', 'Anonymous'),
-                    'lat': obs.get('lat'),
-                    'lng': obs.get('lng')
-                })
-
-        else:
-            print(f"API error: {response.status_code}")
-
-    except Exception as e:
-        print(f"Error fetching from API: {e}")
-
-    return all_sightings
 
 def process_sighting(sighting):
     """
-    Process a single sighting and enrich with location data.
+    Process a single sighting and enrich with Wikipedia data.
     """
     try:
         species = sighting.get('species', 'Unknown')
@@ -190,20 +173,8 @@ def process_sighting(sighting):
         location_name = sighting.get('location', 'Unknown location')
         date_str = sighting.get('date', '')
         observer = sighting.get('observer', 'Anonymous')
-
-        # Get coordinates
         lat = sighting.get('lat')
         lng = sighting.get('lng')
-
-        if not lat or not lng:
-            print(f"Geocoding location: {location_name}")
-            coords = geocode_address(f"{location_name}, NY")
-            if coords:
-                lat = coords['lat']
-                lng = coords['lng']
-            else:
-                print(f"Warning: Could not geocode {location_name}, skipping")
-                return None
 
         # Fetch Wikipedia info for bird image
         print(f"Fetching Wikipedia info for {species}...")
@@ -218,7 +189,7 @@ def process_sighting(sighting):
 
         # Format the sighting
         formatted = {
-            'id': f"{species}_{location_name}_{date_str}".replace(' ', '_').replace(',', '').replace(':', ''),
+            'id': f"{species}_{location_name}_{date_str}".replace(' ', '_').replace(',', '').replace(':', '').replace('-', ''),
             'species': species,
             'scientific_name': scientific_name,
             'location': {
@@ -254,42 +225,42 @@ def save_birds_data(sightings):
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"Saved {len(sightings)} sightings to {output_file}")
+    print(f"\n✓ Saved {len(sightings)} sightings to {output_file}")
 
 def main():
     """
-    Main scraper function.
+    Main scraper function - ONLY scrapes website, NO API
     """
-    print("Starting eBird scraper for New York rare birds...")
-    print("=" * 50)
+    print("="*60)
+    print("eBird Web Scraper - NEW YORK RARE BIRDS")
+    print("="*60)
 
     # Scrape the alert page
     raw_sightings = scrape_ebird_alerts()
 
     if not raw_sightings:
-        print("No sightings found.")
+        print("\n❌ No sightings found or scraping failed.")
+        print("Check the page HTML at /tmp/ebird_page.html")
         return
 
-    print(f"\nFound {len(raw_sightings)} raw sightings")
-    print("Processing sightings...")
+    print(f"\nProcessing {len(raw_sightings)} sightings...")
+    print("-"*60)
 
     processed_sightings = []
 
     for raw in raw_sightings:
         processed = process_sighting(raw)
         if processed:
-            # Avoid duplicates
-            if not any(s['id'] == processed['id'] for s in processed_sightings):
-                processed_sightings.append(processed)
+            processed_sightings.append(processed)
 
-        time.sleep(0.5)  # Be nice to APIs
+        time.sleep(0.3)  # Be nice to Wikipedia
 
-    print(f"\n=== Total unique sightings: {len(processed_sightings)} ===")
+    print("\n" + "="*60)
+    print(f"✓ COMPLETE: {len(processed_sightings)} sightings saved!")
+    print("="*60)
 
     # Save to JSON
     save_birds_data(processed_sightings)
-
-    print("\nScraping complete!")
 
 if __name__ == "__main__":
     main()
