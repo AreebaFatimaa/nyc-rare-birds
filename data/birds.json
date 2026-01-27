@@ -14,7 +14,7 @@
       "observer": "Donald Dixon",
       "wikipedia": {
         "summary": "The snow goose is a species of goose native to North America. Both white and dark morphs exist, the latter often known as blue goose. Its name derives from the typically white plumage.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/snow-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Snow_goose"
       }
     },
@@ -31,7 +31,7 @@
       "observer": "Rebecca Ploeger",
       "wikipedia": {
         "summary": "The snow goose is a species of goose native to North America. Both white and dark morphs exist, the latter often known as blue goose. Its name derives from the typically white plumage.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/snow-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Snow_goose"
       }
     },
@@ -48,7 +48,7 @@
       "observer": "Kevin Rybczynski",
       "wikipedia": {
         "summary": "The snow goose is a species of goose native to North America. Both white and dark morphs exist, the latter often known as blue goose. Its name derives from the typically white plumage.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/snow-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Snow_goose"
       }
     },
@@ -65,7 +65,7 @@
       "observer": "Rick Thomas",
       "wikipedia": {
         "summary": "The snow goose is a species of goose native to North America. Both white and dark morphs exist, the latter often known as blue goose. Its name derives from the typically white plumage.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/snow-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Snow_goose"
       }
     },
@@ -82,7 +82,7 @@
       "observer": "Karen Lee Lewis",
       "wikipedia": {
         "summary": "The snow goose is a species of goose native to North America. Both white and dark morphs exist, the latter often known as blue goose. Its name derives from the typically white plumage.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/snow-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Snow_goose"
       }
     },
@@ -99,7 +99,7 @@
       "observer": "Deanna Conners",
       "wikipedia": {
         "summary": "The snow goose is a species of goose native to North America. Both white and dark morphs exist, the latter often known as blue goose. Its name derives from the typically white plumage.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/snow-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Snow_goose"
       }
     },
@@ -116,16 +116,16 @@
       "observer": "Gordon Crock",
       "wikipedia": {
         "summary": "The snow goose is a species of goose native to North America. Both white and dark morphs exist, the latter often known as blue goose. Its name derives from the typically white plumage.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/snow-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Snow_goose"
       }
     },
     {
-      "id": "Ross's_Goose_191–199_Farm_Ct_Sagaponack_USNY_40.93729_72.27617_Suffolk_New_York_United_States_Jan_24_2026_1218",
+      "id": "Ross's_Goose_191\u2013199_Farm_Ct_Sagaponack_USNY_40.93729_72.27617_Suffolk_New_York_United_States_Jan_24_2026_1218",
       "species": "Ross's Goose",
       "scientific_name": "Anser rossii",
       "location": {
-        "name": "191–199 Farm Ct, Sagaponack US-NY 40.93729, -72.27617, Suffolk, New York, United States",
+        "name": "191\u2013199 Farm Ct, Sagaponack US-NY 40.93729, -72.27617, Suffolk, New York, United States",
         "lat": 40.937293,
         "lng": -72.276166
       },
@@ -133,7 +133,7 @@
       "observer": "Trish Bonadonna",
       "wikipedia": {
         "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
@@ -150,16 +150,16 @@
       "observer": "Tucker Marder",
       "wikipedia": {
         "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
     {
-      "id": "Ross's_Goose_3289–3291_Montauk_Hwy_Sagaponack_USNY_40.94214_72.27299_Suffolk_New_York_United_States_Jan_23_2026_1423",
+      "id": "Ross's_Goose_3289\u20133291_Montauk_Hwy_Sagaponack_USNY_40.94214_72.27299_Suffolk_New_York_United_States_Jan_23_2026_1423",
       "species": "Ross's Goose",
       "scientific_name": "Anser rossii",
       "location": {
-        "name": "3289–3291 Montauk Hwy, Sagaponack US-NY 40.94214, -72.27299, Suffolk, New York, United States",
+        "name": "3289\u20133291 Montauk Hwy, Sagaponack US-NY 40.94214, -72.27299, Suffolk, New York, United States",
         "lat": 40.942138,
         "lng": -72.272985
       },
@@ -167,7 +167,7 @@
       "observer": "Joel Milton",
       "wikipedia": {
         "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
@@ -184,7 +184,7 @@
       "observer": "Richard Haimes",
       "wikipedia": {
         "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
@@ -201,7 +201,7 @@
       "observer": "Richard Haimes",
       "wikipedia": {
         "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
@@ -218,7 +218,7 @@
       "observer": "Dick Cartwright",
       "wikipedia": {
         "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
@@ -235,7 +235,7 @@
       "observer": "Mark Miller",
       "wikipedia": {
         "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
@@ -252,7 +252,7 @@
       "observer": "Patricia Lindsay",
       "wikipedia": {
         "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
@@ -269,7 +269,7 @@
       "observer": "Shai Mitra",
       "wikipedia": {
         "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
@@ -286,7 +286,7 @@
       "observer": "Mica Marder",
       "wikipedia": {
         "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
@@ -303,7 +303,7 @@
       "observer": "Richard Haimes",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -320,7 +320,7 @@
       "observer": "Kathleen Coyle",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -337,7 +337,7 @@
       "observer": "Sue Bernstein",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -354,7 +354,7 @@
       "observer": "Gail Benson",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -371,7 +371,7 @@
       "observer": "Ginger Bernardin",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -388,7 +388,7 @@
       "observer": "Gail Benson",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -405,7 +405,7 @@
       "observer": "Oliver Flores",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -422,7 +422,7 @@
       "observer": "Rosemary Valente",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -439,7 +439,7 @@
       "observer": "Patricia Lindsay",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -456,7 +456,7 @@
       "observer": "Shai Mitra",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -473,7 +473,7 @@
       "observer": "Richard Haimes",
       "wikipedia": {
         "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
@@ -490,7 +490,7 @@
       "observer": "George Young",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -507,7 +507,7 @@
       "observer": "Brian Moore",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -524,7 +524,7 @@
       "observer": "Brent Bomkamp",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -575,7 +575,7 @@
       "observer": "Madeeha Hanif",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -592,7 +592,7 @@
       "observer": "Forrest Almasi",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -609,7 +609,7 @@
       "observer": "Mark Wulfe",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -626,7 +626,7 @@
       "observer": "terence zahner",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -643,7 +643,7 @@
       "observer": "leo wexler-mann",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -711,7 +711,7 @@
       "observer": "Alexander Tepper",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -779,7 +779,7 @@
       "observer": "Sue Bernstein",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -813,7 +813,7 @@
       "observer": "Derek Green",
       "wikipedia": {
         "summary": "The cackling goose is a species of goose found in North America and East Asia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Cackling_goose"
       }
     },
@@ -830,7 +830,7 @@
       "observer": "Jay McGowan",
       "wikipedia": {
         "summary": "The mute swan is a species of swan and a member of the waterfowl family Anatidae. It is native to much of Europe and parts of Asia and the far north of Africa. It is an introduced species in North America, home to the largest populations outside of its native range, with additional smaller introductions in Australasia and Southern Africa.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/mute-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Mute_swan"
       }
     },
@@ -847,7 +847,7 @@
       "observer": "Lyndon Yoder",
       "wikipedia": {
         "summary": "The mute swan is a species of swan and a member of the waterfowl family Anatidae. It is native to much of Europe and parts of Asia and the far north of Africa. It is an introduced species in North America, home to the largest populations outside of its native range, with additional smaller introductions in Australasia and Southern Africa.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/mute-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Mute_swan"
       }
     },
@@ -864,7 +864,7 @@
       "observer": "Tim Healy",
       "wikipedia": {
         "summary": "The mute swan is a species of swan and a member of the waterfowl family Anatidae. It is native to much of Europe and parts of Asia and the far north of Africa. It is an introduced species in North America, home to the largest populations outside of its native range, with additional smaller introductions in Australasia and Southern Africa.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/mute-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Mute_swan"
       }
     },
@@ -881,7 +881,7 @@
       "observer": "Adam Cunningham",
       "wikipedia": {
         "summary": "The mute swan is a species of swan and a member of the waterfowl family Anatidae. It is native to much of Europe and parts of Asia and the far north of Africa. It is an introduced species in North America, home to the largest populations outside of its native range, with additional smaller introductions in Australasia and Southern Africa.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/mute-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Mute_swan"
       }
     },
@@ -898,7 +898,7 @@
       "observer": "Lane Theander",
       "wikipedia": {
         "summary": "The mute swan is a species of swan and a member of the waterfowl family Anatidae. It is native to much of Europe and parts of Asia and the far north of Africa. It is an introduced species in North America, home to the largest populations outside of its native range, with additional smaller introductions in Australasia and Southern Africa.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/mute-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Mute_swan"
       }
     },
@@ -915,7 +915,7 @@
       "observer": "Birding Spouses",
       "wikipedia": {
         "summary": "The mute swan is a species of swan and a member of the waterfowl family Anatidae. It is native to much of Europe and parts of Asia and the far north of Africa. It is an introduced species in North America, home to the largest populations outside of its native range, with additional smaller introductions in Australasia and Southern Africa.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/mute-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Mute_swan"
       }
     },
@@ -931,8 +931,8 @@
       "date": "Jan 24, 2026 14:26",
       "observer": "Michael Rizzo",
       "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8\u00a0cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
       }
     },
@@ -948,8 +948,8 @@
       "date": "Jan 24, 2026 14:26",
       "observer": "Mary Jane Pelton",
       "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8\u00a0cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
       }
     },
@@ -965,8 +965,8 @@
       "date": "Jan 25, 2026 09:50",
       "observer": "Erin Shannon",
       "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8\u00a0cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
       }
     },
@@ -982,8 +982,8 @@
       "date": "Jan 24, 2026 16:14",
       "observer": "Susan Roberts",
       "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8\u00a0cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
       }
     },
@@ -999,8 +999,8 @@
       "date": "Jan 24, 2026 16:14",
       "observer": "Kent Millham",
       "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8\u00a0cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
       }
     },
@@ -1016,8 +1016,8 @@
       "date": "Jan 22, 2026 17:13",
       "observer": "Greg Lawrence",
       "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8\u00a0cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
       }
     },
@@ -1033,8 +1033,8 @@
       "date": "Jan 22, 2026 15:03",
       "observer": "Robin M",
       "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8\u00a0cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
       }
     },
@@ -1050,8 +1050,8 @@
       "date": "Jan 22, 2026 14:20",
       "observer": "Deborah Kral",
       "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8\u00a0cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
       }
     },
@@ -1067,8 +1067,8 @@
       "date": "Jan 22, 2026 14:19",
       "observer": "Patricia Aitken",
       "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8\u00a0cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
       }
     },
@@ -1084,8 +1084,8 @@
       "date": "Jan 22, 2026 14:19",
       "observer": "Tom Moran",
       "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8\u00a0cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
         "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
       }
     },
@@ -1102,7 +1102,7 @@
       "observer": "Matthew Brown",
       "wikipedia": {
         "summary": "The blue-winged teal is a species of bird in the duck, goose, and swan family Anatidae. One of the smaller members of the dabbling duck group, it occurs in North America, where it breeds from southern Alaska to Nova Scotia, and south to northern Texas. It winters along the Pacific and Atlantic coasts and south into the Caribbean islands and Central America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/blue-winged-teal.jpg",
         "source": "https://en.wikipedia.org/wiki/Blue-winged_teal"
       }
     },
@@ -1119,7 +1119,7 @@
       "observer": "Mickey Scilingo",
       "wikipedia": {
         "summary": "The blue-winged teal is a species of bird in the duck, goose, and swan family Anatidae. One of the smaller members of the dabbling duck group, it occurs in North America, where it breeds from southern Alaska to Nova Scotia, and south to northern Texas. It winters along the Pacific and Atlantic coasts and south into the Caribbean islands and Central America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/blue-winged-teal.jpg",
         "source": "https://en.wikipedia.org/wiki/Blue-winged_teal"
       }
     },
@@ -1136,7 +1136,7 @@
       "observer": "Patricia Lindsay",
       "wikipedia": {
         "summary": "The blue-winged teal is a species of bird in the duck, goose, and swan family Anatidae. One of the smaller members of the dabbling duck group, it occurs in North America, where it breeds from southern Alaska to Nova Scotia, and south to northern Texas. It winters along the Pacific and Atlantic coasts and south into the Caribbean islands and Central America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/blue-winged-teal.jpg",
         "source": "https://en.wikipedia.org/wiki/Blue-winged_teal"
       }
     },
@@ -1153,7 +1153,7 @@
       "observer": "Patricia Lindsay",
       "wikipedia": {
         "summary": "The blue-winged teal is a species of bird in the duck, goose, and swan family Anatidae. One of the smaller members of the dabbling duck group, it occurs in North America, where it breeds from southern Alaska to Nova Scotia, and south to northern Texas. It winters along the Pacific and Atlantic coasts and south into the Caribbean islands and Central America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/blue-winged-teal.jpg",
         "source": "https://en.wikipedia.org/wiki/Blue-winged_teal"
       }
     },
@@ -1170,7 +1170,7 @@
       "observer": "Shai Mitra",
       "wikipedia": {
         "summary": "The blue-winged teal is a species of bird in the duck, goose, and swan family Anatidae. One of the smaller members of the dabbling duck group, it occurs in North America, where it breeds from southern Alaska to Nova Scotia, and south to northern Texas. It winters along the Pacific and Atlantic coasts and south into the Caribbean islands and Central America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/blue-winged-teal.jpg",
         "source": "https://en.wikipedia.org/wiki/Blue-winged_teal"
       }
     },
@@ -1187,7 +1187,7 @@
       "observer": "Ken Thompson",
       "wikipedia": {
         "summary": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eurasian-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
       }
     },
@@ -1204,7 +1204,7 @@
       "observer": "Trish Bonadonna",
       "wikipedia": {
         "summary": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eurasian-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
       }
     },
@@ -1221,7 +1221,7 @@
       "observer": "Dennis Elder",
       "wikipedia": {
         "summary": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eurasian-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
       }
     },
@@ -1238,7 +1238,7 @@
       "observer": "Patricia Lindsay",
       "wikipedia": {
         "summary": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eurasian-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
       }
     },
@@ -1255,7 +1255,7 @@
       "observer": "Lisa Wollerstein",
       "wikipedia": {
         "summary": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eurasian-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
       }
     },
@@ -1272,7 +1272,7 @@
       "observer": "Brenda Bull",
       "wikipedia": {
         "summary": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eurasian-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
       }
     },
@@ -1289,7 +1289,7 @@
       "observer": "Dick Cartwright",
       "wikipedia": {
         "summary": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eurasian-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
       }
     },
@@ -1306,7 +1306,7 @@
       "observer": "Patricia Aitken",
       "wikipedia": {
         "summary": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eurasian-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
       }
     },
@@ -1323,7 +1323,7 @@
       "observer": "Lisa Nasta",
       "wikipedia": {
         "summary": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eurasian-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
       }
     },
@@ -1340,7 +1340,7 @@
       "observer": "Mary Beth Kooper",
       "wikipedia": {
         "summary": "The American wigeon, also known as the baldpate, is a species of dabbling duck found in North America. Formerly assigned to Anas, this species is classified with the other wigeons in the dabbling duck genus Mareca. It is the New World counterpart of the Eurasian wigeon.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/american-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/American_wigeon"
       }
     },
@@ -1357,7 +1357,7 @@
       "observer": "Adam Cunningham",
       "wikipedia": {
         "summary": "The American wigeon, also known as the baldpate, is a species of dabbling duck found in North America. Formerly assigned to Anas, this species is classified with the other wigeons in the dabbling duck genus Mareca. It is the New World counterpart of the Eurasian wigeon.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/american-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/American_wigeon"
       }
     },
@@ -1374,7 +1374,7 @@
       "observer": "Tim Healy",
       "wikipedia": {
         "summary": "The American wigeon, also known as the baldpate, is a species of dabbling duck found in North America. Formerly assigned to Anas, this species is classified with the other wigeons in the dabbling duck genus Mareca. It is the New World counterpart of the Eurasian wigeon.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/american-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/American_wigeon"
       }
     },
@@ -1391,7 +1391,7 @@
       "observer": "Birding Spouses",
       "wikipedia": {
         "summary": "The American wigeon, also known as the baldpate, is a species of dabbling duck found in North America. Formerly assigned to Anas, this species is classified with the other wigeons in the dabbling duck genus Mareca. It is the New World counterpart of the Eurasian wigeon.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/american-wigeon.jpg",
         "source": "https://en.wikipedia.org/wiki/American_wigeon"
       }
     },
@@ -1408,7 +1408,7 @@
       "observer": "Daniel Baldassarre",
       "wikipedia": {
         "summary": "The pintail or northern pintail is a duck species with wide geographic distribution that breeds in the northern areas of Europe and across the Palearctic and North America. It is migratory and winters south of its breeding range as far as the equator. Unusually for a bird with such a large range, it has no geographical subspecies, although the possibly conspecific duck Eaton's pintail is considered to be a separate species.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/northern-pintail.jpg",
         "source": "https://en.wikipedia.org/wiki/Northern_pintail"
       }
     },
@@ -1425,7 +1425,7 @@
       "observer": "Mickey Scilingo",
       "wikipedia": {
         "summary": "The pintail or northern pintail is a duck species with wide geographic distribution that breeds in the northern areas of Europe and across the Palearctic and North America. It is migratory and winters south of its breeding range as far as the equator. Unusually for a bird with such a large range, it has no geographical subspecies, although the possibly conspecific duck Eaton's pintail is considered to be a separate species.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/northern-pintail.jpg",
         "source": "https://en.wikipedia.org/wiki/Northern_pintail"
       }
     },
@@ -1442,7 +1442,7 @@
       "observer": "Derek Green",
       "wikipedia": {
         "summary": "The pintail or northern pintail is a duck species with wide geographic distribution that breeds in the northern areas of Europe and across the Palearctic and North America. It is migratory and winters south of its breeding range as far as the equator. Unusually for a bird with such a large range, it has no geographical subspecies, although the possibly conspecific duck Eaton's pintail is considered to be a separate species.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/northern-pintail.jpg",
         "source": "https://en.wikipedia.org/wiki/Northern_pintail"
       }
     },
@@ -1473,10 +1473,10 @@
         "lng": -73.8377866
       },
       "date": "Jan 24, 2026 10:19",
-      "observer": "🦉Richard Aracil🦅",
+      "observer": "\ud83e\udd89Richard Aracil\ud83e\udd85",
       "wikipedia": {
         "summary": "The canvasback is a species of diving duck, the largest found in North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/canvasback.jpg",
         "source": "https://en.wikipedia.org/wiki/Canvasback"
       }
     },
@@ -1493,7 +1493,7 @@
       "observer": "Timothy Graves",
       "wikipedia": {
         "summary": "The canvasback is a species of diving duck, the largest found in North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/canvasback.jpg",
         "source": "https://en.wikipedia.org/wiki/Canvasback"
       }
     },
@@ -1509,8 +1509,8 @@
       "date": "Jan 20, 2026 16:45",
       "observer": "Junko Suzuki",
       "wikipedia": {
-        "summary": "Red hair, also known as ginger hair, is a human hair color found in 2–6% of people of Northern or Northwestern European ancestry and smaller amounts in other populations. It is most common in individuals homozygous for a recessive allele on chromosome 16 that produces an altered version of the MC1R protein.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "Red hair, also known as ginger hair, is a human hair color found in 2\u20136% of people of Northern or Northwestern European ancestry and smaller amounts in other populations. It is most common in individuals homozygous for a recessive allele on chromosome 16 that produces an altered version of the MC1R protein.",
+        "image_url": "assets/cache/wikipedia-images/redhead.jpg",
         "source": "https://en.wikipedia.org/wiki/Red_hair"
       }
     },
@@ -1526,8 +1526,8 @@
       "date": "Jan 20, 2026 15:00",
       "observer": "Alan Drogin",
       "wikipedia": {
-        "summary": "Red hair, also known as ginger hair, is a human hair color found in 2–6% of people of Northern or Northwestern European ancestry and smaller amounts in other populations. It is most common in individuals homozygous for a recessive allele on chromosome 16 that produces an altered version of the MC1R protein.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "Red hair, also known as ginger hair, is a human hair color found in 2\u20136% of people of Northern or Northwestern European ancestry and smaller amounts in other populations. It is most common in individuals homozygous for a recessive allele on chromosome 16 that produces an altered version of the MC1R protein.",
+        "image_url": "assets/cache/wikipedia-images/redhead.jpg",
         "source": "https://en.wikipedia.org/wiki/Red_hair"
       }
     },
@@ -1543,8 +1543,8 @@
       "date": "Jan 20, 2026 17:05",
       "observer": "Birding Spouses",
       "wikipedia": {
-        "summary": "Red hair, also known as ginger hair, is a human hair color found in 2–6% of people of Northern or Northwestern European ancestry and smaller amounts in other populations. It is most common in individuals homozygous for a recessive allele on chromosome 16 that produces an altered version of the MC1R protein.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "Red hair, also known as ginger hair, is a human hair color found in 2\u20136% of people of Northern or Northwestern European ancestry and smaller amounts in other populations. It is most common in individuals homozygous for a recessive allele on chromosome 16 that produces an altered version of the MC1R protein.",
+        "image_url": "assets/cache/wikipedia-images/redhead.jpg",
         "source": "https://en.wikipedia.org/wiki/Red_hair"
       }
     },
@@ -1560,8 +1560,8 @@
       "date": "Jan 21, 2026 09:18",
       "observer": "John McKay",
       "wikipedia": {
-        "summary": "Red hair, also known as ginger hair, is a human hair color found in 2–6% of people of Northern or Northwestern European ancestry and smaller amounts in other populations. It is most common in individuals homozygous for a recessive allele on chromosome 16 that produces an altered version of the MC1R protein.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "Red hair, also known as ginger hair, is a human hair color found in 2\u20136% of people of Northern or Northwestern European ancestry and smaller amounts in other populations. It is most common in individuals homozygous for a recessive allele on chromosome 16 that produces an altered version of the MC1R protein.",
+        "image_url": "assets/cache/wikipedia-images/redhead.jpg",
         "source": "https://en.wikipedia.org/wiki/Red_hair"
       }
     },
@@ -1646,7 +1646,7 @@
       "observer": "Chris Wood",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1663,7 +1663,7 @@
       "observer": "Jay McGowan",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1680,7 +1680,7 @@
       "observer": "James Kennerley",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1697,7 +1697,7 @@
       "observer": "Ryan Zucker",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1714,7 +1714,7 @@
       "observer": "Jay McGowan",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1731,7 +1731,7 @@
       "observer": "David Benvent",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1748,7 +1748,7 @@
       "observer": "Jeremy Thorp",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1765,7 +1765,7 @@
       "observer": "Ryan Mandelbaum",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1782,7 +1782,7 @@
       "observer": "Max Epstein",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1799,7 +1799,7 @@
       "observer": "MI YU",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1816,7 +1816,7 @@
       "observer": "Rebecca Bauer",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Tufted_duck"
       }
     },
@@ -1833,7 +1833,7 @@
       "observer": "Kelsey Lagunas Sanchez",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_scaup"
       }
     },
@@ -1850,7 +1850,7 @@
       "observer": "Loyan Beausoleil",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_scaup"
       }
     },
@@ -1867,7 +1867,7 @@
       "observer": "Enrico Leonardi",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_scaup"
       }
     },
@@ -1884,7 +1884,7 @@
       "observer": "Mary Beth Kooper",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_scaup"
       }
     },
@@ -1901,7 +1901,7 @@
       "observer": "Lane Theander",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_scaup"
       }
     },
@@ -1918,7 +1918,7 @@
       "observer": "Junko Suzuki",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_scaup"
       }
     },
@@ -1935,7 +1935,7 @@
       "observer": "Birding Spouses",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_scaup"
       }
     },
@@ -1952,7 +1952,7 @@
       "observer": "Tim Healy",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_scaup"
       }
     },
@@ -1969,7 +1969,7 @@
       "observer": "Adam Cunningham",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Greater_scaup"
       }
     },
@@ -1985,8 +1985,8 @@
       "date": "Jan 24, 2026 07:42",
       "observer": "Adam Cunningham",
       "wikipedia": {
-        "summary": "The lesser scaup is a small North American diving duck that migrates south as far as Central America in winter. It is colloquially known as the little bluebill or broadbill because of its distinctive blue bill. The origin of the name scaup may stem from the bird's preference for feeding on scalp—the Scottish word for clams, oysters, and mussels; however, some credit it to the female's discordant scaup call as the name's source.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The lesser scaup is a small North American diving duck that migrates south as far as Central America in winter. It is colloquially known as the little bluebill or broadbill because of its distinctive blue bill. The origin of the name scaup may stem from the bird's preference for feeding on scalp\u2014the Scottish word for clams, oysters, and mussels; however, some credit it to the female's discordant scaup call as the name's source.",
+        "image_url": "assets/cache/wikipedia-images/lesser-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Lesser_scaup"
       }
     },
@@ -2002,8 +2002,8 @@
       "date": "Jan 24, 2026 07:42",
       "observer": "Tim Healy",
       "wikipedia": {
-        "summary": "The lesser scaup is a small North American diving duck that migrates south as far as Central America in winter. It is colloquially known as the little bluebill or broadbill because of its distinctive blue bill. The origin of the name scaup may stem from the bird's preference for feeding on scalp—the Scottish word for clams, oysters, and mussels; however, some credit it to the female's discordant scaup call as the name's source.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "summary": "The lesser scaup is a small North American diving duck that migrates south as far as Central America in winter. It is colloquially known as the little bluebill or broadbill because of its distinctive blue bill. The origin of the name scaup may stem from the bird's preference for feeding on scalp\u2014the Scottish word for clams, oysters, and mussels; however, some credit it to the female's discordant scaup call as the name's source.",
+        "image_url": "assets/cache/wikipedia-images/lesser-scaup.jpg",
         "source": "https://en.wikipedia.org/wiki/Lesser_scaup"
       }
     },
@@ -2020,7 +2020,7 @@
       "observer": "Colby Baker",
       "wikipedia": {
         "summary": "The common eider, also called St. Cuthbert's duck or Cuddy's duck, is a large sea-duck that is distributed over the northern coasts of Europe, North America and eastern Siberia. It breeds in Arctic and some northern temperate regions, but winters somewhat farther south in temperate zones, when it can form large flocks on coastal waters.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/common-eider.jpg",
         "source": "https://en.wikipedia.org/wiki/Common_eider"
       }
     },
@@ -2037,7 +2037,7 @@
       "observer": "Jake Cheyne",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2054,7 +2054,7 @@
       "observer": "Darlene Massey",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2071,7 +2071,7 @@
       "observer": "Scott Whitmore",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2088,7 +2088,7 @@
       "observer": "Lisa Wollerstein",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2105,7 +2105,7 @@
       "observer": "Lisa Wollerstein",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2122,7 +2122,7 @@
       "observer": "Jay Rand",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2139,7 +2139,7 @@
       "observer": "Peggy Lauber",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2156,7 +2156,7 @@
       "observer": "Jay Rand",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2173,7 +2173,7 @@
       "observer": "Rebecca Ploeger",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2190,7 +2190,7 @@
       "observer": "Kevin Rybczynski",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2207,7 +2207,7 @@
       "observer": "Rick Thomas",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
         "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
       }
     },
@@ -2223,7 +2223,7 @@
       "date": "Jan 24, 2026 11:38",
       "observer": "Jim McNamee",
       "wikipedia": {
-        "summary": "The white-winged scoter is a large sea duck. The genus name is derived from Ancient Greek melas \"black\" and netta \"duck\". The species name commemorates French ornithologist Côme-Damien Degland.",
+        "summary": "The white-winged scoter is a large sea duck. The genus name is derived from Ancient Greek melas \"black\" and netta \"duck\". The species name commemorates French ornithologist C\u00f4me-Damien Degland.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/White-winged_scoter"
       }
@@ -2240,7 +2240,7 @@
       "date": "Jan 26, 2026 09:18",
       "observer": "Peter Paul",
       "wikipedia": {
-        "summary": "The white-winged scoter is a large sea duck. The genus name is derived from Ancient Greek melas \"black\" and netta \"duck\". The species name commemorates French ornithologist Côme-Damien Degland.",
+        "summary": "The white-winged scoter is a large sea duck. The genus name is derived from Ancient Greek melas \"black\" and netta \"duck\". The species name commemorates French ornithologist C\u00f4me-Damien Degland.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/White-winged_scoter"
       }
@@ -2257,7 +2257,7 @@
       "date": "Jan 24, 2026 07:35",
       "observer": "Elle Auklet",
       "wikipedia": {
-        "summary": "The white-winged scoter is a large sea duck. The genus name is derived from Ancient Greek melas \"black\" and netta \"duck\". The species name commemorates French ornithologist Côme-Damien Degland.",
+        "summary": "The white-winged scoter is a large sea duck. The genus name is derived from Ancient Greek melas \"black\" and netta \"duck\". The species name commemorates French ornithologist C\u00f4me-Damien Degland.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/White-winged_scoter"
       }
@@ -2275,7 +2275,7 @@
       "observer": "Adam Cunningham",
       "wikipedia": {
         "summary": "The common goldeneye or simply goldeneye is a medium-sized sea duck of the genus Bucephala, the goldeneyes. Its closest relative is the similar Barrow's goldeneye. The genus name is derived from the Ancient Greek boukephalos, a reference to the bulbous head shape of the bufflehead.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/common-goldeneye.jpg",
         "source": "https://en.wikipedia.org/wiki/Common_goldeneye"
       }
     },
@@ -2292,7 +2292,7 @@
       "observer": "Tim Healy",
       "wikipedia": {
         "summary": "The common goldeneye or simply goldeneye is a medium-sized sea duck of the genus Bucephala, the goldeneyes. Its closest relative is the similar Barrow's goldeneye. The genus name is derived from the Ancient Greek boukephalos, a reference to the bulbous head shape of the bufflehead.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/common-goldeneye.jpg",
         "source": "https://en.wikipedia.org/wiki/Common_goldeneye"
       }
     },
@@ -2309,7 +2309,7 @@
       "observer": "Birding Spouses",
       "wikipedia": {
         "summary": "The common goldeneye or simply goldeneye is a medium-sized sea duck of the genus Bucephala, the goldeneyes. Its closest relative is the similar Barrow's goldeneye. The genus name is derived from the Ancient Greek boukephalos, a reference to the bulbous head shape of the bufflehead.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/common-goldeneye.jpg",
         "source": "https://en.wikipedia.org/wiki/Common_goldeneye"
       }
     },
@@ -2918,7 +2918,7 @@
         "lng": -73.8377866
       },
       "date": "Jan 24, 2026 10:19",
-      "observer": "🦉Richard Aracil🦅",
+      "observer": "\ud83e\udd89Richard Aracil\ud83e\udd85",
       "wikipedia": {
         "summary": "The killdeer is a large plover found in the Americas. Its shrill, two-syllable call is often heard, sounding like \"kill deer\". It was described and given its current scientific name in 1758 by Carl Linnaeus in the 10th edition of his Systema Naturae.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -2952,7 +2952,7 @@
         "lng": -73.7853384
       },
       "date": "Jan 23, 2026 12:54",
-      "observer": "🦉Richard Aracil🦅",
+      "observer": "\ud83e\udd89Richard Aracil\ud83e\udd85",
       "wikipedia": {
         "summary": "The killdeer is a large plover found in the Americas. Its shrill, two-syllable call is often heard, sounding like \"kill deer\". It was described and given its current scientific name in 1758 by Carl Linnaeus in the 10th edition of his Systema Naturae.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -2986,7 +2986,7 @@
         "lng": -73.7853384
       },
       "date": "Jan 21, 2026 15:59",
-      "observer": "🦉Richard Aracil🦅",
+      "observer": "\ud83e\udd89Richard Aracil\ud83e\udd85",
       "wikipedia": {
         "summary": "The killdeer is a large plover found in the Americas. Its shrill, two-syllable call is often heard, sounding like \"kill deer\". It was described and given its current scientific name in 1758 by Carl Linnaeus in the 10th edition of his Systema Naturae.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -3396,7 +3396,7 @@
       "date": "Jan 24, 2026 15:29",
       "observer": "Anthony V. Ciancimino",
       "wikipedia": {
-        "summary": "The thick-billed murre or Brünnich's guillemot is a bird in the auk family (Alcidae). This bird is named after the Danish zoologist Morten Thrane Brünnich. The very deeply black North Pacific subspecies Uria lomvia arra is also called Pallas' murre after its describer.",
+        "summary": "The thick-billed murre or Br\u00fcnnich's guillemot is a bird in the auk family (Alcidae). This bird is named after the Danish zoologist Morten Thrane Br\u00fcnnich. The very deeply black North Pacific subspecies Uria lomvia arra is also called Pallas' murre after its describer.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Thick-billed_murre"
       }
@@ -3413,7 +3413,7 @@
       "date": "Jan 24, 2026 15:30",
       "observer": "Matthew Brown",
       "wikipedia": {
-        "summary": "The thick-billed murre or Brünnich's guillemot is a bird in the auk family (Alcidae). This bird is named after the Danish zoologist Morten Thrane Brünnich. The very deeply black North Pacific subspecies Uria lomvia arra is also called Pallas' murre after its describer.",
+        "summary": "The thick-billed murre or Br\u00fcnnich's guillemot is a bird in the auk family (Alcidae). This bird is named after the Danish zoologist Morten Thrane Br\u00fcnnich. The very deeply black North Pacific subspecies Uria lomvia arra is also called Pallas' murre after its describer.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Thick-billed_murre"
       }
@@ -3430,7 +3430,7 @@
       "date": "Jan 23, 2026 15:39",
       "observer": "Trevor Dudley",
       "wikipedia": {
-        "summary": "The thick-billed murre or Brünnich's guillemot is a bird in the auk family (Alcidae). This bird is named after the Danish zoologist Morten Thrane Brünnich. The very deeply black North Pacific subspecies Uria lomvia arra is also called Pallas' murre after its describer.",
+        "summary": "The thick-billed murre or Br\u00fcnnich's guillemot is a bird in the auk family (Alcidae). This bird is named after the Danish zoologist Morten Thrane Br\u00fcnnich. The very deeply black North Pacific subspecies Uria lomvia arra is also called Pallas' murre after its describer.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Thick-billed_murre"
       }
@@ -3447,7 +3447,7 @@
       "date": "Jan 22, 2026 10:20",
       "observer": "Edward Johnson",
       "wikipedia": {
-        "summary": "The thick-billed murre or Brünnich's guillemot is a bird in the auk family (Alcidae). This bird is named after the Danish zoologist Morten Thrane Brünnich. The very deeply black North Pacific subspecies Uria lomvia arra is also called Pallas' murre after its describer.",
+        "summary": "The thick-billed murre or Br\u00fcnnich's guillemot is a bird in the auk family (Alcidae). This bird is named after the Danish zoologist Morten Thrane Br\u00fcnnich. The very deeply black North Pacific subspecies Uria lomvia arra is also called Pallas' murre after its describer.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Thick-billed_murre"
       }
@@ -3464,7 +3464,7 @@
       "date": "Jan 24, 2026 12:04",
       "observer": "Anthony V. Ciancimino",
       "wikipedia": {
-        "summary": "The thick-billed murre or Brünnich's guillemot is a bird in the auk family (Alcidae). This bird is named after the Danish zoologist Morten Thrane Brünnich. The very deeply black North Pacific subspecies Uria lomvia arra is also called Pallas' murre after its describer.",
+        "summary": "The thick-billed murre or Br\u00fcnnich's guillemot is a bird in the auk family (Alcidae). This bird is named after the Danish zoologist Morten Thrane Br\u00fcnnich. The very deeply black North Pacific subspecies Uria lomvia arra is also called Pallas' murre after its describer.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Thick-billed_murre"
       }
@@ -3481,7 +3481,7 @@
       "date": "Jan 21, 2026 15:02",
       "observer": "Eric Hopson",
       "wikipedia": {
-        "summary": "Bonaparte's gull is a member of the gull family Laridae found mainly in northern North America. At 28 to 38 cm in length, it is one of the smallest species of gull. Its plumage is mainly white with grey upperparts.",
+        "summary": "Bonaparte's gull is a member of the gull family Laridae found mainly in northern North America. At 28 to 38\u00a0cm in length, it is one of the smallest species of gull. Its plumage is mainly white with grey upperparts.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Bonaparte's_gull"
       }
@@ -3972,7 +3972,7 @@
         "lng": -74.0017768
       },
       "date": "Jan 21, 2026 14:41",
-      "observer": "¶ W",
+      "observer": "\u00b6 W",
       "wikipedia": {
         "summary": "The Iceland gull is a medium-sized gull that breeds in the Arctic regions of Canada and Greenland, but not in Iceland, where it is only seen during winter. The genus name is from Latin larus, which appears to have referred to a gull or other large seabird. The specific name glaucoides denotes its resemblance to Larus glaucus, a synonym of Larus hyperboreus, the glaucous gull; -oides is Ancient Greek and means \"resembling\".",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -4179,7 +4179,7 @@
       "observer": "Gail Benson",
       "wikipedia": {
         "summary": "The black-crowned night heron or black-capped night heron, commonly shortened to just night heron in Eurasia, is a medium-sized heron found throughout a large part of the world, including parts of Europe, Asia, and North and South America. In Australasia it is replaced by the closely related Nankeen night heron, with which it has hybridised in the area of contact.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/black-crowned-night-heron.jpg",
         "source": "https://en.wikipedia.org/wiki/Black-crowned_night_heron"
       }
     },
@@ -4196,7 +4196,7 @@
       "observer": "Gail Benson",
       "wikipedia": {
         "summary": "The black-crowned night heron or black-capped night heron, commonly shortened to just night heron in Eurasia, is a medium-sized heron found throughout a large part of the world, including parts of Europe, Asia, and North and South America. In Australasia it is replaced by the closely related Nankeen night heron, with which it has hybridised in the area of contact.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/black-crowned-night-heron.jpg",
         "source": "https://en.wikipedia.org/wiki/Black-crowned_night_heron"
       }
     },
@@ -4405,11 +4405,11 @@
       }
     },
     {
-      "id": "Golden_Eagle_Harlem_Valley_Rail_Trail—Copake_NE_Columbia_New_York_United_States_Jan_23_2026_1430",
+      "id": "Golden_Eagle_Harlem_Valley_Rail_Trail\u2014Copake_NE_Columbia_New_York_United_States_Jan_23_2026_1430",
       "species": "Golden Eagle",
       "scientific_name": "Aquila chrysaetos",
       "location": {
-        "name": "Harlem Valley Rail Trail—Copake NE, Columbia, New York, United States",
+        "name": "Harlem Valley Rail Trail\u2014Copake NE, Columbia, New York, United States",
         "lat": 42.1039016,
         "lng": -73.5276656
       },
@@ -4434,7 +4434,7 @@
       "observer": "Casey Ferio",
       "wikipedia": {
         "summary": "The American goshawk is a species of raptor in the family Accipitridae. It was first described by Alexander Wilson in 1812. The American goshawk was previously considered conspecific with the Eurasian goshawk but was assigned to a separate species in 2023 based on differences in morphology, vocalizations, and genetic divergence.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/american-goshawk.jpg",
         "source": "https://en.wikipedia.org/wiki/American_goshawk"
       }
     },
@@ -4451,7 +4451,7 @@
       "observer": "Catherine Parker",
       "wikipedia": {
         "summary": "The American goshawk is a species of raptor in the family Accipitridae. It was first described by Alexander Wilson in 1812. The American goshawk was previously considered conspecific with the Eurasian goshawk but was assigned to a separate species in 2023 based on differences in morphology, vocalizations, and genetic divergence.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/american-goshawk.jpg",
         "source": "https://en.wikipedia.org/wiki/American_goshawk"
       }
     },
@@ -4468,7 +4468,7 @@
       "observer": "Stella M.",
       "wikipedia": {
         "summary": "The American goshawk is a species of raptor in the family Accipitridae. It was first described by Alexander Wilson in 1812. The American goshawk was previously considered conspecific with the Eurasian goshawk but was assigned to a separate species in 2023 based on differences in morphology, vocalizations, and genetic divergence.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/american-goshawk.jpg",
         "source": "https://en.wikipedia.org/wiki/American_goshawk"
       }
     },
@@ -4485,7 +4485,7 @@
       "observer": "David Cameron",
       "wikipedia": {
         "summary": "The bald eagle is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle, which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/bald-eagle.jpg",
         "source": "https://en.wikipedia.org/wiki/Bald_eagle"
       }
     },
@@ -4502,7 +4502,7 @@
       "observer": "Corey Finger",
       "wikipedia": {
         "summary": "The bald eagle is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle, which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/bald-eagle.jpg",
         "source": "https://en.wikipedia.org/wiki/Bald_eagle"
       }
     },
@@ -4519,7 +4519,7 @@
       "observer": "Tzvi Deutsch",
       "wikipedia": {
         "summary": "The bald eagle is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle, which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/bald-eagle.jpg",
         "source": "https://en.wikipedia.org/wiki/Bald_eagle"
       }
     },
@@ -4536,7 +4536,7 @@
       "observer": "E R",
       "wikipedia": {
         "summary": "The bald eagle is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle, which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/bald-eagle.jpg",
         "source": "https://en.wikipedia.org/wiki/Bald_eagle"
       }
     },
@@ -4553,7 +4553,7 @@
       "observer": "Casey Ferio",
       "wikipedia": {
         "summary": "The bald eagle is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle, which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/bald-eagle.jpg",
         "source": "https://en.wikipedia.org/wiki/Bald_eagle"
       }
     },
@@ -4570,7 +4570,7 @@
       "observer": "MCHL ____",
       "wikipedia": {
         "summary": "The bald eagle is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle, which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/bald-eagle.jpg",
         "source": "https://en.wikipedia.org/wiki/Bald_eagle"
       }
     },
@@ -4587,7 +4587,7 @@
       "observer": "Elle Auklet",
       "wikipedia": {
         "summary": "The bald eagle is a bird of prey found in North America. A sea eagle, it has two known subspecies and forms a species pair with the white-tailed eagle, which occupies the same niche as the bald eagle in the Palearctic. Its range includes most of Canada and Alaska, all of the contiguous United States, and northern Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/bald-eagle.jpg",
         "source": "https://en.wikipedia.org/wiki/Bald_eagle"
       }
     },
@@ -4910,7 +4910,7 @@
       "observer": "Eliot Gann",
       "wikipedia": {
         "summary": "The short-eared owl is a widespread grassland species in the family Strigidae. Owls belonging to genus Asio are known as the eared owls, as they have tufts of feathers resembling mammalian ears. These \"ear\" tufts may or may not be visible.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/short-eared-owl.jpg",
         "source": "https://en.wikipedia.org/wiki/Short-eared_owl"
       }
     },
@@ -4927,7 +4927,7 @@
       "observer": "Jason Brown",
       "wikipedia": {
         "summary": "The short-eared owl is a widespread grassland species in the family Strigidae. Owls belonging to genus Asio are known as the eared owls, as they have tufts of feathers resembling mammalian ears. These \"ear\" tufts may or may not be visible.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/short-eared-owl.jpg",
         "source": "https://en.wikipedia.org/wiki/Short-eared_owl"
       }
     },
@@ -4944,7 +4944,7 @@
       "observer": "Rosemary Valente",
       "wikipedia": {
         "summary": "The short-eared owl is a widespread grassland species in the family Strigidae. Owls belonging to genus Asio are known as the eared owls, as they have tufts of feathers resembling mammalian ears. These \"ear\" tufts may or may not be visible.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/short-eared-owl.jpg",
         "source": "https://en.wikipedia.org/wiki/Short-eared_owl"
       }
     },
@@ -5255,11 +5255,11 @@
       }
     },
     {
-      "id": "Northern_Shrike_100–180_Silk_Rd_Fulton_USNY_43.34365_76.37825_Oswego_New_York_United_States_Jan_21_2026_1107",
+      "id": "Northern_Shrike_100\u2013180_Silk_Rd_Fulton_USNY_43.34365_76.37825_Oswego_New_York_United_States_Jan_21_2026_1107",
       "species": "Northern Shrike",
       "scientific_name": "Lanius borealis",
       "location": {
-        "name": "100–180 Silk Rd, Fulton US-NY 43.34365, -76.37825, Oswego, New York, United States",
+        "name": "100\u2013180 Silk Rd, Fulton US-NY 43.34365, -76.37825, Oswego, New York, United States",
         "lat": 43.343654,
         "lng": -76.378249
       },
@@ -5658,16 +5658,16 @@
       "observer": "Leora Ferrari",
       "wikipedia": {
         "summary": "The brown thrasher, sometimes erroneously called the brown thrush or fox-coloured thrush, is a bird in the family Mimidae, which also includes the New World catbirds and mockingbirds. The brown thrasher is abundant throughout the eastern and central United States and southern and central Canada, and it is the only thrasher to live primarily east of the Rockies and central Texas. It is the state bird of Georgia.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/brown-thrasher.jpg",
         "source": "https://en.wikipedia.org/wiki/Brown_thrasher"
       }
     },
     {
-      "id": "Northern_Mockingbird_Yando’s_Parking_Lot_Clinton_New_York_United_States_Jan_21_2026_1255",
+      "id": "Northern_Mockingbird_Yando\u2019s_Parking_Lot_Clinton_New_York_United_States_Jan_21_2026_1255",
       "species": "Northern Mockingbird",
       "scientific_name": "Mimus polyglottos",
       "location": {
-        "name": "Yando’s Parking Lot, Clinton, New York, United States",
+        "name": "Yando\u2019s Parking Lot, Clinton, New York, United States",
         "lat": 44.681627,
         "lng": -73.448399
       },
@@ -6428,11 +6428,11 @@
       }
     },
     {
-      "id": "Red_Crossbill_7834–7894_Shackham_Rd_Fabius_USNY_42.78552_76.01172_Onondaga_New_York_United_States_Jan_21_2026_1143",
+      "id": "Red_Crossbill_7834\u20137894_Shackham_Rd_Fabius_USNY_42.78552_76.01172_Onondaga_New_York_United_States_Jan_21_2026_1143",
       "species": "Red Crossbill",
       "scientific_name": "Loxia curvirostra",
       "location": {
-        "name": "7834–7894 Shackham Rd, Fabius US-NY 42.78552, -76.01172, Onondaga, New York, United States",
+        "name": "7834\u20137894 Shackham Rd, Fabius US-NY 42.78552, -76.01172, Onondaga, New York, United States",
         "lat": 42.785522,
         "lng": -76.011723
       },
@@ -6542,7 +6542,7 @@
       "observer": "Ed Bouchane",
       "wikipedia": {
         "summary": "The two-barred crossbill or white-winged crossbill is a small passerine bird in the finch family Fringillidae. It breeds in the coniferous forests of North America and the Palearctic.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/white-winged-crossbill.jpg",
         "source": "https://en.wikipedia.org/wiki/Two-barred_crossbill"
       }
     },
@@ -7051,7 +7051,7 @@
       "date": "Jan 24, 2026 07:42",
       "observer": "Tim Healy",
       "wikipedia": {
-        "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140 mm (6 in) long and weighs about 12.5 g (0.4 oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
+        "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140\u00a0mm (6\u00a0in) long and weighs about 12.5\u00a0g (0.4\u00a0oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Field_sparrow"
       }
@@ -7068,7 +7068,7 @@
       "date": "Jan 24, 2026 07:42",
       "observer": "Adam Cunningham",
       "wikipedia": {
-        "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140 mm (6 in) long and weighs about 12.5 g (0.4 oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
+        "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140\u00a0mm (6\u00a0in) long and weighs about 12.5\u00a0g (0.4\u00a0oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Field_sparrow"
       }
@@ -7085,7 +7085,7 @@
       "date": "Jan 24, 2026 12:15",
       "observer": "Birding Spouses",
       "wikipedia": {
-        "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140 mm (6 in) long and weighs about 12.5 g (0.4 oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
+        "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140\u00a0mm (6\u00a0in) long and weighs about 12.5\u00a0g (0.4\u00a0oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Field_sparrow"
       }
@@ -7358,7 +7358,7 @@
       "observer": "Benjamin Varnas",
       "wikipedia": {
         "summary": "The white-crowned sparrow is a species of passerine bird native to North America. A medium-sized member of the New World sparrow family, this species is marked by a grey face and black and white streaking on the upper head. It breeds in brushy areas in the taiga and tundra of the northernmost parts of the continent and in the Rocky Mountains and Pacific coast.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/white-crowned-sparrow.jpg",
         "source": "https://en.wikipedia.org/wiki/White-crowned_sparrow"
       }
     },
