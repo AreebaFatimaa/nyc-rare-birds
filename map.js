@@ -7,15 +7,6 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19
 }).addTo(map);
 
-// Create marker cluster group
-const markers = L.markerClusterGroup({
-    showCoverageOnHover: false,
-    maxClusterRadius: 50
-});
-
-// Store heat data
-let heatData = [];
-
 // Custom icon for bird markers
 const birdIcon = L.divIcon({
     className: 'bird-marker',
@@ -23,26 +14,6 @@ const birdIcon = L.divIcon({
     iconAnchor: [10, 10],
     popupAnchor: [0, -10]
 });
-
-// Show loading indicator
-function showLoading() {
-    const loadingDiv = document.createElement('div');
-    loadingDiv.className = 'loading';
-    loadingDiv.id = 'loading';
-    loadingDiv.innerHTML = `
-        <div class="loading-spinner"></div>
-        <p>Loading rare bird sightings...</p>
-    `;
-    document.body.appendChild(loadingDiv);
-}
-
-// Hide loading indicator
-function hideLoading() {
-    const loadingDiv = document.getElementById('loading');
-    if (loadingDiv) {
-        loadingDiv.remove();
-    }
-}
 
 // Format date for display
 function formatDate(dateString) {
@@ -62,26 +33,47 @@ function formatDate(dateString) {
     }
 }
 
-// Create popup content for a bird sighting
-function createPopupContent(bird) {
+// Create popup content for a bird sighting with hover format
+function createHoverPopup(bird) {
+    // Create Google Maps link for location
+    const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${bird.location.lat},${bird.location.lng}`;
+
     return `
-        <div class="bird-popup">
-            <img src="${bird.wikipedia.image_url}"
-                 alt="${bird.species}"
-                 onerror="this.src='assets/images/placeholder-bird.svg'">
-            <div class="bird-popup-content">
-                <h3>${bird.species}</h3>
-                <div class="scientific-name">${bird.scientific_name}</div>
-                <p>${bird.wikipedia.summary || 'No description available.'}</p>
-                <div class="metadata">
-                    <div><strong>Location:</strong> ${bird.location.name}</div>
-                    <div><strong>Date:</strong> ${formatDate(bird.date)}</div>
-                    <div><strong>Observer:</strong> ${bird.observer}</div>
-                    ${bird.count ? `<div><strong>Count:</strong> ${bird.count}</div>` : ''}
+        <div class="bird-hover-popup">
+            <div class="bird-name">${bird.species}</div>
+            <div class="sighting-info">
+                <div class="info-row">
+                    <strong>Last sighted by:</strong> ${bird.observer}
+                </div>
+                <div class="info-row">
+                    <strong>Date and time:</strong> ${formatDate(bird.date)}
+                </div>
+                <div class="info-row">
+                    <strong>Location:</strong> <a href="${mapsUrl}" target="_blank" class="location-link">${bird.location.name}</a>
                 </div>
             </div>
         </div>
     `;
+}
+
+// Show loading indicator
+function showLoading() {
+    const loadingDiv = document.createElement('div');
+    loadingDiv.className = 'loading';
+    loadingDiv.id = 'loading';
+    loadingDiv.innerHTML = `
+        <div class="loading-spinner"></div>
+        <p>Loading rare bird sightings...</p>
+    `;
+    document.body.appendChild(loadingDiv);
+}
+
+// Hide loading indicator
+function hideLoading() {
+    const loadingDiv = document.getElementById('loading');
+    if (loadingDiv) {
+        loadingDiv.remove();
+    }
 }
 
 // Load and display bird data
@@ -114,36 +106,32 @@ async function loadBirdData() {
                 { icon: birdIcon }
             );
 
-            // Add popup
-            marker.bindPopup(createPopupContent(bird), {
-                maxWidth: 300,
-                className: 'bird-popup-wrapper'
+            // Create popup
+            const popup = L.popup({
+                closeButton: false,
+                className: 'hover-popup'
+            }).setContent(createHoverPopup(bird));
+
+            // Bind popup to marker
+            marker.bindPopup(popup);
+
+            // Show popup on hover instead of click
+            marker.on('mouseover', function() {
+                this.openPopup();
             });
 
-            // Add to cluster group
-            markers.addLayer(marker);
+            marker.on('mouseout', function() {
+                this.closePopup();
+            });
 
-            // Add to heat map data
-            heatData.push([bird.location.lat, bird.location.lng, 0.5]);
+            // Also allow click to keep popup open
+            marker.on('click', function() {
+                this.openPopup();
+            });
+
+            // Add marker to map
+            marker.addTo(map);
         });
-
-        // Add markers to map
-        map.addLayer(markers);
-
-        // Add heat layer
-        if (heatData.length > 0) {
-            const heat = L.heatLayer(heatData, {
-                radius: 25,
-                blur: 35,
-                maxZoom: 13,
-                max: 1.0,
-                gradient: {
-                    0.0: '#3498db',
-                    0.5: '#f39c12',
-                    1.0: '#e74c3c'
-                }
-            }).addTo(map);
-        }
 
         // Update last updated time
         updateLastUpdated(data.last_updated);

@@ -1,103 +1,184 @@
 #!/usr/bin/env python3
 """
-eBird Rare Bird Scraper for NYC
-Uses eBird API 2.0 to fetch notable bird sightings in NYC region.
+eBird Public Page Scraper for NYC Rare Bird Alerts
+Scrapes publicly available data from eBird alert pages.
 """
 
 import requests
+from bs4 import BeautifulSoup
 import json
 import os
-from datetime import datetime, timedelta
-from pathlib import Path
-
-# Try to load .env file for local development
-try:
-    from dotenv import load_dotenv
-    env_path = Path(__file__).parent.parent / '.env'
-    if env_path.exists():
-        load_dotenv(env_path)
-        print(f"Loaded environment from {env_path}")
-except ImportError:
-    # python-dotenv not installed, use system environment
-    pass
-
+from datetime import datetime
 from fetch_wikipedia import fetch_bird_info
 from geocode import geocode_address
+import time
 
-# eBird API configuration
-EBIRD_API_BASE = "https://api.ebird.org/v2"
-EBIRD_API_KEY = os.environ.get('EBIRD_API_KEY', '')
+# eBird alert URL for NYC
+EBIRD_ALERT_URL = "https://ebird.org/alert/summary?sid=SN35466"
 
-# NYC region codes (can use multiple)
-NYC_REGIONS = [
-    'US-NY-061',  # New York County (Manhattan)
-    'US-NY-047',  # Kings County (Brooklyn)
-    'US-NY-081',  # Queens County
-    'US-NY-005',  # Bronx County
-    'US-NY-085',  # Richmond County (Staten Island)
-]
-
-# Alternative: use broader region
-NYC_REGION_BROAD = 'US-NY'
-
-def fetch_notable_sightings(region_code, days_back=7):
+def scrape_ebird_alerts():
     """
-    Fetch notable (rare) bird sightings from eBird API.
-    Returns list of sightings.
+    Scrape bird sightings from eBird public alert page.
+    Returns list of raw sightings.
     """
-    url = f"{EBIRD_API_BASE}/data/obs/{region_code}/recent/notable"
-    params = {
-        'back': days_back,  # Days to look back
-        'detail': 'full',   # Get full details
-    }
+    print(f"Fetching data from {EBIRD_ALERT_URL}...")
+
     headers = {
-        'X-eBirdApiToken': EBIRD_API_KEY
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
     }
 
     try:
-        response = requests.get(url, params=params, headers=headers, timeout=15)
+        session = requests.Session()
+        response = session.get(EBIRD_ALERT_URL, headers=headers, timeout=15)
 
-        if response.status_code == 200:
-            return response.json()
-        else:
-            print(f"eBird API error for {region_code}: {response.status_code}")
-            print(f"Response: {response.text}")
-            return []
+        if response.status_code != 200:
+            print(f"Error: Received status code {response.status_code}")
+            print("The page may require authentication.")
+            print("Falling back to eBird API...")
+            return scrape_with_api_fallback()
+
+        soup = BeautifulSoup(response.content, 'html.parser')
+
+        # Try to find sightings in common eBird HTML structures
+        sightings = []
+
+        # Look for observation cards or rows
+        obs_elements = soup.find_all(['div', 'tr'], class_=lambda x: x and ('observation' in x.lower() or 'sighting' in x.lower() or 'result' in x.lower()))
+
+        if not obs_elements:
+            # Try alternative selectors
+            obs_elements = soup.find_all('div', class_='Observation')
+
+        if not obs_elements:
+            print("Could not find observation elements on page.")
+            print("Page may require login or structure has changed.")
+            print("Falling back to eBird API...")
+            return scrape_with_api_fallback()
+
+        print(f"Found {len(obs_elements)} potential observation elements")
+
+        for elem in obs_elements:
+            try:
+                # Extract bird name
+                species_elem = elem.find(['a', 'span'], class_=lambda x: x and 'species' in x.lower())
+                if not species_elem:
+                    species_elem = elem.find('a', href=lambda x: x and '/species/' in x)
+
+                species = species_elem.get_text(strip=True) if species_elem else None
+
+                # Extract location
+                loc_elem = elem.find(['a', 'span'], class_=lambda x: x and 'location' in x.lower())
+                if not loc_elem:
+                    loc_elem = elem.find('a', href=lambda x: x and '/hotspot/' in x)
+
+                location = loc_elem.get_text(strip=True) if loc_elem else None
+
+                # Extract date/time
+                date_elem = elem.find(['time', 'span'], class_=lambda x: x and ('date' in x.lower() or 'time' in x.lower()))
+                date_str = date_elem.get_text(strip=True) if date_elem else None
+
+                # Extract observer
+                observer_elem = elem.find(['a', 'span'], class_=lambda x: x and 'observer' in x.lower())
+                if not observer_elem:
+                    observer_elem = elem.find('a', href=lambda x: x and '/profile/' in x)
+
+                observer = observer_elem.get_text(strip=True) if observer_elem else "Anonymous"
+
+                if species and location:
+                    sightings.append({
+                        'species': species,
+                        'location': location,
+                        'date': date_str,
+                        'observer': observer
+                    })
+
+            except Exception as e:
+                print(f"Error parsing observation: {e}")
+                continue
+
+        return sightings
 
     except Exception as e:
-        print(f"Error fetching sightings for {region_code}: {e}")
+        print(f"Error fetching page: {e}")
+        print("Falling back to eBird API...")
+        return scrape_with_api_fallback()
+
+def scrape_with_api_fallback():
+    """
+    Fallback to eBird API if web scraping fails.
+    """
+    api_key = os.environ.get('EBIRD_API_KEY', '')
+
+    if not api_key:
+        print("ERROR: Cannot scrape page (requires login) and no EBIRD_API_KEY provided")
+        print("Please either:")
+        print("1. Get an eBird API key from https://ebird.org/api/keygen")
+        print("2. Set EBIRD_API_KEY environment variable")
         return []
+
+    print(f"Using eBird API with key: {api_key[:8]}...")
+
+    # NYC region codes
+    regions = ['US-NY-061', 'US-NY-047', 'US-NY-081', 'US-NY-005', 'US-NY-085']
+
+    all_sightings = []
+    base_url = "https://api.ebird.org/v2/data/obs"
+    headers = {'X-eBirdApiToken': api_key}
+
+    for region in regions:
+        try:
+            url = f"{base_url}/{region}/recent/notable"
+            params = {'back': 7, 'detail': 'full'}
+            response = requests.get(url, params=params, headers=headers, timeout=15)
+
+            if response.status_code == 200:
+                data = response.json()
+                print(f"Found {len(data)} sightings in {region}")
+
+                for obs in data:
+                    all_sightings.append({
+                        'species': obs.get('comName', 'Unknown'),
+                        'location': obs.get('locName', 'Unknown'),
+                        'date': obs.get('obsDt', ''),
+                        'observer': obs.get('userDisplayName', 'Anonymous'),
+                        'lat': obs.get('lat'),
+                        'lng': obs.get('lng')
+                    })
+
+        except Exception as e:
+            print(f"Error fetching from API for {region}: {e}")
+
+    return all_sightings
 
 def process_sighting(sighting):
     """
-    Process a single sighting and enrich with Wikipedia data.
-    Returns formatted sighting dict.
+    Process a single sighting and enrich with location data.
     """
     try:
-        species = sighting.get('comName', 'Unknown')
-        scientific_name = sighting.get('sciName', '')
+        species = sighting.get('species', 'Unknown')
+        location_name = sighting.get('location', 'Unknown location')
+        date_str = sighting.get('date', '')
+        observer = sighting.get('observer', 'Anonymous')
 
-        # Extract location info
-        location_name = sighting.get('locName', 'Unknown location')
+        # Get coordinates
         lat = sighting.get('lat')
         lng = sighting.get('lng')
 
-        # If no coordinates, try to geocode the location name
         if not lat or not lng:
+            print(f"Geocoding location: {location_name}")
             coords = geocode_address(f"{location_name}, NYC, NY")
             if coords:
                 lat = coords['lat']
                 lng = coords['lng']
             else:
-                print(f"Warning: No coordinates for {location_name}, skipping")
+                print(f"Warning: Could not geocode {location_name}, skipping")
                 return None
 
-        # Fetch Wikipedia info
+        # Fetch Wikipedia info for bird image
         print(f"Fetching Wikipedia info for {species}...")
         wikipedia_info = fetch_bird_info(species)
 
         if not wikipedia_info:
-            # Use default if Wikipedia lookup fails
             wikipedia_info = {
                 'summary': f'{species} observed in NYC area.',
                 'image_url': 'assets/images/placeholder-bird.svg',
@@ -106,17 +187,15 @@ def process_sighting(sighting):
 
         # Format the sighting
         formatted = {
-            'id': sighting.get('subId', '') + '_' + sighting.get('speciesCode', ''),
+            'id': f"{species}_{location_name}_{date_str}".replace(' ', '_').replace(',', ''),
             'species': species,
-            'scientific_name': scientific_name,
             'location': {
                 'name': location_name,
                 'lat': float(lat),
                 'lng': float(lng)
             },
-            'date': sighting.get('obsDt', ''),
-            'observer': sighting.get('userDisplayName', 'Anonymous'),
-            'count': sighting.get('howMany', 1),
+            'date': date_str,
+            'observer': observer,
             'wikipedia': wikipedia_info
         }
 
@@ -130,7 +209,6 @@ def save_birds_data(sightings):
     """
     Save processed sightings to JSON file.
     """
-    # Determine correct path (works both locally and in GitHub Actions)
     data_dir = os.path.join('..', 'data') if os.path.exists(os.path.join('..', 'data')) else 'data'
     os.makedirs(data_dir, exist_ok=True)
 
@@ -150,34 +228,34 @@ def main():
     """
     Main scraper function.
     """
-    if not EBIRD_API_KEY:
-        print("ERROR: EBIRD_API_KEY environment variable not set!")
-        print("Get your API key from: https://ebird.org/api/keygen")
+    print("Starting eBird scraper for NYC rare birds...")
+    print("=" * 50)
+
+    # Scrape the alert page
+    raw_sightings = scrape_ebird_alerts()
+
+    if not raw_sightings:
+        print("No sightings found.")
         return
 
-    print("Starting eBird scraper for NYC rare birds...")
-    print(f"Using API key: {EBIRD_API_KEY[:8]}...")
+    print(f"\nFound {len(raw_sightings)} raw sightings")
+    print("Processing sightings...")
 
-    all_sightings = []
+    processed_sightings = []
 
-    # Fetch from all NYC regions
-    for region in NYC_REGIONS:
-        print(f"\nFetching notable sightings from {region}...")
-        raw_sightings = fetch_notable_sightings(region, days_back=7)
-        print(f"Found {len(raw_sightings)} notable sightings in {region}")
+    for raw in raw_sightings:
+        processed = process_sighting(raw)
+        if processed:
+            # Avoid duplicates
+            if not any(s['id'] == processed['id'] for s in processed_sightings):
+                processed_sightings.append(processed)
 
-        # Process each sighting
-        for raw_sighting in raw_sightings:
-            processed = process_sighting(raw_sighting)
-            if processed:
-                # Avoid duplicates
-                if not any(s['id'] == processed['id'] for s in all_sightings):
-                    all_sightings.append(processed)
+        time.sleep(0.5)  # Be nice to APIs
 
-    print(f"\n=== Total unique sightings: {len(all_sightings)} ===")
+    print(f"\n=== Total unique sightings: {len(processed_sightings)} ===")
 
     # Save to JSON
-    save_birds_data(all_sightings)
+    save_birds_data(processed_sightings)
 
     print("\nScraping complete!")
 
