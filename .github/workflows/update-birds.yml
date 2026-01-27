@@ -27,9 +27,7 @@ jobs:
           cd scraper
           pip install -r requirements.txt
 
-      - name: Run scraper
-        env:
-          EBIRD_API_KEY: ${{ secrets.EBIRD_API_KEY }}
+      - name: Run scraper (NO API - scrapes website directly)
         run: |
           cd scraper
           python scrape_ebird.py
