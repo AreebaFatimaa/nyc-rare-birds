@@ -1,29 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <!-- Head -->
-  <circle cx="50" cy="20" r="10" fill="#000000"/>
-
-  <!-- Body -->
-  <rect x="45" y="30" width="10" height="25" fill="#000000"/>
-
-  <!-- Arms holding binoculars -->
-  <path d="M 45 35 L 35 40 L 30 38" stroke="#000000" stroke-width="3" fill="none"/>
-  <path d="M 55 35 L 65 40 L 70 38" stroke="#000000" stroke-width="3" fill="none"/>
-
-  <!-- Binoculars -->
-  <g transform="translate(50, 40)">
-    <!-- Left lens -->
-    <circle cx="-8" cy="0" r="6" fill="#000000" stroke="#333" stroke-width="1"/>
-    <circle cx="-8" cy="0" r="4" fill="#4a90e2" opacity="0.5"/>
-
-    <!-- Right lens -->
-    <circle cx="8" cy="0" r="6" fill="#000000" stroke="#333" stroke-width="1"/>
-    <circle cx="8" cy="0" r="4" fill="#4a90e2" opacity="0.5"/>
-
-    <!-- Bridge -->
-    <rect x="-2" y="-2" width="4" height="4" fill="#000000"/>
+  <g fill="#FFFFFF">
+    <!-- Head -->
+    <circle cx="50" cy="20" r="8"/>
+    <!-- Body -->
+    <rect x="46" y="28" width="8" height="20" rx="2"/>
+    <!-- Arms with binoculars -->
+    <path d="M46,32 L38,36 L35,34" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+    <path d="M54,32 L62,36 L65,34" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+    <!-- Binoculars -->
+    <g transform="translate(50,36)">
+      <circle cx="-5" cy="0" r="4" opacity="0.9"/>
+      <circle cx="5" cy="0" r="4" opacity="0.9"/>
+      <rect x="-1.5" y="-2" width="3" height="4" rx="1"/>
+      <!-- Lenses -->
+      <circle cx="-5" cy="0" r="2.5" fill="#87CEEB" opacity="0.6"/>
+      <circle cx="5" cy="0" r="2.5" fill="#87CEEB" opacity="0.6"/>
+    </g>
+    <!-- Legs -->
+    <path d="M46,48 L42,65" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+    <path d="M54,48 L58,65" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+    <!-- Feet -->
+    <line x1="42" y1="65" x2="38" y2="65" stroke="#FFFFFF" stroke-width="2"/>
+    <line x1="58" y1="65" x2="62" y2="65" stroke="#FFFFFF" stroke-width="2"/>
   </g>
-
-  <!-- Legs -->
-  <path d="M 45 55 L 40 75" stroke="#000000" stroke-width="3" fill="none"/>
-  <path d="M 55 55 L 60 75" stroke="#000000" stroke-width="3" fill="none"/>
 </svg>
