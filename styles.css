@@ -97,24 +97,37 @@ footer a:hover {
     border-radius: 8px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     padding: 0;
+    overflow: hidden;
 }
 
 .hover-popup .leaflet-popup-content {
     margin: 0;
-    min-width: 250px;
+    min-width: 280px;
+    max-width: 320px;
 }
 
 .bird-hover-popup {
-    padding: 1rem;
+    padding: 0;
+}
+
+.bird-hover-popup .bird-photo {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
 }
 
 .bird-hover-popup .bird-name {
     font-size: 1.2rem;
     font-weight: 700;
     color: #2c3e50;
-    margin-bottom: 0.75rem;
+    margin: 0.75rem 1rem 0.75rem 1rem;
     border-bottom: 2px solid #667eea;
     padding-bottom: 0.5rem;
+}
+
+.bird-hover-popup .sighting-info {
+    padding: 0 1rem 1rem 1rem;
 }
 
 .bird-hover-popup .sighting-info {

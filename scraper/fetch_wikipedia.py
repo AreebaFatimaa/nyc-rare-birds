@@ -10,11 +10,15 @@ def fetch_bird_info(species_name):
     """
     try:
         # Clean up species name for Wikipedia search
-        search_name = species_name.strip()
+        search_name = species_name.strip().replace(' ', '_')
 
-        # Try Wikipedia API
+        # Try Wikipedia API with proper headers
         api_url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{search_name}"
-        response = requests.get(api_url, timeout=10)
+        headers = {
+            'User-Agent': 'NYC-Rare-Birds/1.0 (Educational Project; contact@example.com)',
+            'Accept': 'application/json'
+        }
+        response = requests.get(api_url, headers=headers, timeout=15)
 
         if response.status_code != 200:
             print(f"Wikipedia API returned {response.status_code} for {species_name}")
@@ -63,7 +67,7 @@ def download_image(image_url, species_name):
 
         # Get file extension from URL
         ext = image_url.split('.')[-1].split('?')[0]
-        if ext not in ['jpg', 'jpeg', 'png', 'gif', 'svg']:
+        if ext not in ['jpg', 'jpeg', 'png', 'gif', 'svg', 'webp']:
             ext = 'jpg'
 
         filename = f"{safe_name}.{ext}"
@@ -81,15 +85,19 @@ def download_image(image_url, species_name):
 
         # Check if already cached
         if os.path.exists(filepath):
+            print(f"Using cached image for {species_name}")
             # Return path relative to project root
             return f"assets/cache/wikipedia-images/{filename}"
 
-        # Download image
-        response = requests.get(image_url, timeout=10)
+        # Download image with User-Agent header
+        headers = {
+            'User-Agent': 'NYC-Rare-Birds/1.0 (Educational Project; noreply@example.com)'
+        }
+        response = requests.get(image_url, headers=headers, timeout=15)
         if response.status_code == 200:
             with open(filepath, 'wb') as f:
                 f.write(response.content)
-            print(f"Downloaded image for {species_name}")
+            print(f"✓ Downloaded image for {species_name}")
             return f"assets/cache/wikipedia-images/{filename}"
         else:
             print(f"Failed to download image for {species_name}: {response.status_code}")

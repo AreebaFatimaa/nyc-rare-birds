@@ -1,5 +1,8 @@
-// Initialize map centered on NYC
-const map = L.map('map').setView([40.7128, -74.0060], 11);
+// Initialize map centered on NYC with restricted bounds to show only NY state
+const map = L.map('map', {
+    maxBounds: [[40.0, -75.0], [41.5, -73.0]], // Bounds for NYC area
+    maxBoundsViscosity: 1.0
+}).setView([40.7128, -74.0060], 10);
 
 // Add OpenStreetMap tiles
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -33,13 +36,17 @@ function formatDate(dateString) {
     }
 }
 
-// Create popup content for a bird sighting with hover format
+// Create popup content for a bird sighting with hover format including photo
 function createHoverPopup(bird) {
     // Create Google Maps link for location
     const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${bird.location.lat},${bird.location.lng}`;
 
+    // Get bird image - either from wikipedia cache or placeholder
+    const birdImage = bird.wikipedia && bird.wikipedia.image_url ? bird.wikipedia.image_url : 'assets/images/placeholder-bird.svg';
+
     return `
         <div class="bird-hover-popup">
+            <img src="${birdImage}" alt="${bird.species}" class="bird-photo" onerror="this.src='assets/images/placeholder-bird.svg'">
             <div class="bird-name">${bird.species}</div>
             <div class="sighting-info">
                 <div class="info-row">
