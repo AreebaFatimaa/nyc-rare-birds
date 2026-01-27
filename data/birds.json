@@ -1,0 +1,59 @@
+{
+  "last_updated": "2026-01-26T00:00:00Z",
+  "sightings": [
+    {
+      "id": "sample_1",
+      "species": "Snowy Owl",
+      "scientific_name": "Bubo scandiacus",
+      "location": {
+        "name": "Central Park",
+        "lat": 40.7829,
+        "lng": -73.9654
+      },
+      "date": "2026-01-25T14:30:00",
+      "observer": "Sample Observer",
+      "count": 1,
+      "wikipedia": {
+        "summary": "The snowy owl is a large, white owl of the true owl family. Males are almost all white, while females have more flecks of black plumage. It is a nomadic bird, rarely breeding at the same locations or with the same mates on an annual basis.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": ""
+      }
+    },
+    {
+      "id": "sample_2",
+      "species": "Bald Eagle",
+      "scientific_name": "Haliaeetus leucocephalus",
+      "location": {
+        "name": "Jamaica Bay Wildlife Refuge",
+        "lat": 40.6186,
+        "lng": -73.8240
+      },
+      "date": "2026-01-24T10:15:00",
+      "observer": "Sample Observer",
+      "count": 2,
+      "wikipedia": {
+        "summary": "The bald eagle is a bird of prey found in North America. As both the national bird and national animal of the United States, the bald eagle appears on its seal. Adults have a dark-brown plumage with a white head and tail.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": ""
+      }
+    },
+    {
+      "id": "sample_3",
+      "species": "Peregrine Falcon",
+      "scientific_name": "Falco peregrinus",
+      "location": {
+        "name": "Brooklyn Bridge",
+        "lat": 40.7061,
+        "lng": -73.9969
+      },
+      "date": "2026-01-26T08:45:00",
+      "observer": "Sample Observer",
+      "count": 1,
+      "wikipedia": {
+        "summary": "The peregrine falcon is a widespread bird of prey in the family Falconidae. It is renowned for its speed, reaching over 320 km/h during its hunting stoop, making it the fastest bird in the world. The peregrine's breeding range includes land regions from the Arctic tundra to the tropics.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": ""
+      }
+    }
+  ]
+}

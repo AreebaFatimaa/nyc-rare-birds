@@ -1,0 +1,253 @@
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Header Styles */
+header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    z-index: 1000;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.header-icon {
+    width: 50px;
+    height: 50px;
+    filter: brightness(0) invert(1);
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.subtitle {
+    text-align: center;
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    opacity: 0.95;
+}
+
+/* Map Styles */
+#map {
+    flex: 1;
+    width: 100%;
+    position: relative;
+}
+
+/* Footer Styles */
+footer {
+    background: #2c3e50;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.footer-icon {
+    width: 40px;
+    height: 40px;
+    filter: brightness(0) invert(1);
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #5dade2;
+}
+
+/* Popup Styles */
+.leaflet-popup-content-wrapper {
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+    padding: 0;
+    overflow: hidden;
+}
+
+.leaflet-popup-content {
+    margin: 0;
+    width: 300px !important;
+}
+
+.bird-popup {
+    padding: 0;
+}
+
+.bird-popup img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+}
+
+.bird-popup-content {
+    padding: 1rem;
+}
+
+.bird-popup h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.3rem;
+    color: #2c3e50;
+}
+
+.bird-popup .scientific-name {
+    font-style: italic;
+    color: #7f8c8d;
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
+}
+
+.bird-popup p {
+    margin: 0 0 1rem 0;
+    line-height: 1.5;
+    color: #34495e;
+    font-size: 0.95rem;
+}
+
+.bird-popup .metadata {
+    border-top: 1px solid #ecf0f1;
+    padding-top: 0.75rem;
+    font-size: 0.85rem;
+    color: #7f8c8d;
+}
+
+.bird-popup .metadata div {
+    margin-bottom: 0.25rem;
+}
+
+.bird-popup .metadata strong {
+    color: #2c3e50;
+}
+
+/* Custom Marker Styles */
+.bird-marker {
+    background-color: #e74c3c;
+    border: 3px solid white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+/* Marker Cluster Styles */
+.marker-cluster-small {
+    background-color: rgba(110, 204, 57, 0.6);
+}
+
+.marker-cluster-small div {
+    background-color: rgba(110, 204, 57, 0.8);
+}
+
+.marker-cluster-medium {
+    background-color: rgba(241, 211, 87, 0.6);
+}
+
+.marker-cluster-medium div {
+    background-color: rgba(241, 211, 87, 0.8);
+}
+
+.marker-cluster-large {
+    background-color: rgba(253, 156, 115, 0.6);
+}
+
+.marker-cluster-large div {
+    background-color: rgba(253, 156, 115, 0.8);
+}
+
+/* Loading Indicator */
+.loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+.loading-spinner {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #667eea;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto 1rem auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    .header-icon {
+        width: 35px;
+        height: 35px;
+    }
+
+    .subtitle {
+        font-size: 0.85rem;
+    }
+
+    .footer-icon {
+        width: 30px;
+        height: 30px;
+    }
+
+    footer p {
+        font-size: 0.8rem;
+    }
+
+    .leaflet-popup-content {
+        width: 250px !important;
+    }
+
+    .bird-popup img {
+        height: 150px;
+    }
+}

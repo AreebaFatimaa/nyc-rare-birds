@@ -1,0 +1,43 @@
+name: Update Bird Sightings
+
+on:
+  schedule:
+    # Run daily at 4am EST (9am UTC in winter, 8am UTC in summer - using 9am UTC)
+    - cron: '0 9 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          cd scraper
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          EBIRD_API_KEY: ${{ secrets.EBIRD_API_KEY }}
+        run: |
+          cd scraper
+          python scrape_ebird.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data/birds.json assets/cache/
+          git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "Update bird sightings - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" && git push)
