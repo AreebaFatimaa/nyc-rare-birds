@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T09:50:48.400455Z",
+  "last_updated": "2026-03-13T09:45:47.455260Z",
   "sightings": [
     {
       "id": "Snow_Goose_Buffalo_River_Ohio_St._Fishing_Access_Site_Erie_New_York_United_States_Mar_07_2026_1451",
@@ -79,7 +79,7 @@
         "lng": -73.9219681
       },
       "date": "Mar 08, 2026 06:53",
-      "observer": "Adam Cunningham",
+      "observer": "Tim Healy",
       "wikipedia": {
         "summary": "The snow goose is a species of goose native to North America. Both white and dark morphs exist, the latter often known as blue goose. Its name derives from the typically white plumage.",
         "image_url": "assets/cache/wikipedia-images/snow-goose.jpg",
@@ -96,11 +96,28 @@
         "lng": -73.9219681
       },
       "date": "Mar 08, 2026 06:53",
-      "observer": "Tim Healy",
+      "observer": "Adam Cunningham",
       "wikipedia": {
         "summary": "The snow goose is a species of goose native to North America. Both white and dark morphs exist, the latter often known as blue goose. Its name derives from the typically white plumage.",
         "image_url": "assets/cache/wikipedia-images/snow-goose.jpg",
         "source": "https://en.wikipedia.org/wiki/Snow_goose"
+      }
+    },
+    {
+      "id": "Ross's_Goose_1674–1704_State_Rd_Webster_USNY_43.20381_77.39415_Monroe_New_York_United_States_Mar_11_2026_1333",
+      "species": "Ross's Goose",
+      "scientific_name": "Anser rossii",
+      "location": {
+        "name": "1674–1704 State Rd, Webster US-NY 43.20381, -77.39415, Monroe, New York, United States",
+        "lat": 43.203808,
+        "lng": -77.394146
+      },
+      "date": "Mar 11, 2026 13:33",
+      "observer": "Alan Bloom",
+      "wikipedia": {
+        "summary": "Ross's goose is a white goose with black wingtips and a relatively short neck. It is the smallest of the three white geese that breed in North America. It is similar in appearance to a white-phase snow goose, but about 40% smaller.",
+        "image_url": "assets/cache/wikipedia-images/rosss-goose.jpg",
+        "source": "https://en.wikipedia.org/wiki/Ross's_goose"
       }
     },
     {
@@ -223,20 +240,37 @@
       }
     },
     {
-      "id": "Greater_Whitefronted_Goose_(Western)_Edgemere_Drive_(1710)_Monroe_New_York_United_States_Mar_07_2026_0825",
-      "species": "Greater White-fronted Goose (Western)",
-      "scientific_name": "Anser albifrons gambelli/sponsa",
+      "id": "Greater_Whitefronted_Goose_Carmen_Rd/Haight_Rd_pond_Niagara_New_York_United_States_Mar_12_2026_1536",
+      "species": "Greater White-fronted Goose",
+      "scientific_name": "Anser albifrons",
       "location": {
-        "name": "Edgemere Drive (1710), Monroe, New York, United States",
-        "lat": 43.2872722,
-        "lng": -77.6685781
+        "name": "Carmen Rd/Haight Rd pond, Niagara, New York, United States",
+        "lat": 43.340975,
+        "lng": -78.496836
       },
-      "date": "Mar 07, 2026 08:25",
-      "observer": "Mitchell Barry",
+      "date": "Mar 12, 2026 15:36",
+      "observer": "Joel Strong",
       "wikipedia": {
-        "summary": "Greater White-fronted Goose (Western) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
+        "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
+        "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
+      }
+    },
+    {
+      "id": "Greater_Whitefronted_Goose_Carmen_Rd/Haight_Rd_private_pond_Niagara_NY_Niagara_New_York_United_States_Mar_12_2026_1743",
+      "species": "Greater White-fronted Goose",
+      "scientific_name": "Anser albifrons",
+      "location": {
+        "name": "Carmen Rd/Haight Rd private pond, Niagara, NY, Niagara, New York, United States",
+        "lat": 43.3407421,
+        "lng": -78.4964558
+      },
+      "date": "Mar 12, 2026 17:43",
+      "observer": "Phil Mills",
+      "wikipedia": {
+        "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
+        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
+        "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
       }
     },
     {
@@ -249,7 +283,7 @@
         "lng": -77.6685781
       },
       "date": "Mar 07, 2026 08:25",
-      "observer": "Ashwin Viswanathan",
+      "observer": "Mitchell Barry",
       "wikipedia": {
         "summary": "Greater White-fronted Goose (Western) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -284,6 +318,23 @@
       },
       "date": "Mar 07, 2026 08:25",
       "observer": "Brian Sullivan",
+      "wikipedia": {
+        "summary": "Greater White-fronted Goose (Western) is a bird species observed in New York.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": ""
+      }
+    },
+    {
+      "id": "Greater_Whitefronted_Goose_(Western)_Edgemere_Drive_(1710)_Monroe_New_York_United_States_Mar_07_2026_0825",
+      "species": "Greater White-fronted Goose (Western)",
+      "scientific_name": "Anser albifrons gambelli/sponsa",
+      "location": {
+        "name": "Edgemere Drive (1710), Monroe, New York, United States",
+        "lat": 43.2872722,
+        "lng": -77.6685781
+      },
+      "date": "Mar 07, 2026 08:25",
+      "observer": "Ashwin Viswanathan",
       "wikipedia": {
         "summary": "Greater White-fronted Goose (Western) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -342,23 +393,6 @@
       }
     },
     {
-      "id": "Greater_Whitefronted_Goose_Montezuma_(NMWMA)Carncross_Rd._Wayne_New_York_United_States_Mar_09_2026_1157",
-      "species": "Greater White-fronted Goose",
-      "scientific_name": "Anser albifrons",
-      "location": {
-        "name": "Montezuma (NMWMA)--Carncross Rd., Wayne, New York, United States",
-        "lat": 43.0787739,
-        "lng": -76.7080184
-      },
-      "date": "Mar 09, 2026 11:57",
-      "observer": "Kevin Murphy",
-      "wikipedia": {
-        "summary": "The greater white-fronted goose is a species of goose, closely related to the smaller lesser white-fronted goose. The greater white-fronted goose is migratory, breeding in northern Canada, Alaska, Greenland, and Russia, and winters farther south in North America, Europe, and Asia. It is named for the patch of white feathers bordering the base of its bill; its specific name albifrons comes from the Latin albus \"white\" and frons \"forehead\".",
-        "image_url": "assets/cache/wikipedia-images/greater-white-fronted-goose.jpg",
-        "source": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose"
-      }
-    },
-    {
       "id": "Greater_Whitefronted_Goose_Murdoch_/_Yates_Center_Rd_Fields_Orleans_New_York_United_States_Mar_11_2026_1821",
       "species": "Greater White-fronted Goose",
       "scientific_name": "Anser albifrons",
@@ -407,6 +441,23 @@
         "summary": "Snow Goose x Brant (hybrid) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": ""
+      }
+    },
+    {
+      "id": "Barnacle_Goose_Nichols_Park_Lake_Spencer_Tioga_New_York_United_States_Mar_11_2026_0815",
+      "species": "Barnacle Goose",
+      "scientific_name": "Branta leucopsis",
+      "location": {
+        "name": "Nichols Park Lake, Spencer, Tioga, New York, United States",
+        "lat": 42.212097,
+        "lng": -76.494751
+      },
+      "date": "Mar 11, 2026 08:15",
+      "observer": "Sandy C",
+      "wikipedia": {
+        "summary": "The barnacle goose is a species of goose that belongs to the genus Branta of black geese, which contains species with extensive black in the plumage, distinguishing them from the grey Anser species. Despite its superficial similarity to the brant goose, genetic analysis has shown its closest relative is the cackling goose.",
+        "image_url": "assets/cache/wikipedia-images/barnacle-goose.jpg",
+        "source": "https://en.wikipedia.org/wiki/Barnacle_goose"
       }
     },
     {
@@ -470,7 +521,7 @@
         "lng": -76.5450659
       },
       "date": "Mar 11, 2026 09:03",
-      "observer": "Mat Gilfedder",
+      "observer": "Jay McGowan",
       "wikipedia": {
         "summary": "The barnacle goose is a species of goose that belongs to the genus Branta of black geese, which contains species with extensive black in the plumage, distinguishing them from the grey Anser species. Despite its superficial similarity to the brant goose, genetic analysis has shown its closest relative is the cackling goose.",
         "image_url": "assets/cache/wikipedia-images/barnacle-goose.jpg",
@@ -487,7 +538,7 @@
         "lng": -76.5450659
       },
       "date": "Mar 11, 2026 09:03",
-      "observer": "Jay McGowan",
+      "observer": "Mat Gilfedder",
       "wikipedia": {
         "summary": "The barnacle goose is a species of goose that belongs to the genus Branta of black geese, which contains species with extensive black in the plumage, distinguishing them from the grey Anser species. Despite its superficial similarity to the brant goose, genetic analysis has shown its closest relative is the cackling goose.",
         "image_url": "assets/cache/wikipedia-images/barnacle-goose.jpg",
@@ -614,6 +665,23 @@
       }
     },
     {
+      "id": "Cackling_Goose_Quinlan_park_Schenectady_New_York_United_States_Mar_12_2026_0730",
+      "species": "Cackling Goose",
+      "scientific_name": "Branta hutchinsii",
+      "location": {
+        "name": "Quinlan park, Schenectady, New York, United States",
+        "lat": 42.8275108,
+        "lng": -73.949791
+      },
+      "date": "Mar 12, 2026 07:30",
+      "observer": "Joseph Zabelicky",
+      "wikipedia": {
+        "summary": "The cackling goose is a species of goose found in North America and East Asia.",
+        "image_url": "assets/cache/wikipedia-images/cackling-goose.jpg",
+        "source": "https://en.wikipedia.org/wiki/Cackling_goose"
+      }
+    },
+    {
       "id": "Cackling_Goose_Ridge_Road_Castorland_Lewis_New_York_United_States_Mar_10_2026_1620",
       "species": "Cackling Goose",
       "scientific_name": "Branta hutchinsii",
@@ -643,74 +711,6 @@
       "observer": "Lindsey Duval",
       "wikipedia": {
         "summary": "Cackling Goose (Richardson's) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "Greater_Whitefronted_x_Canada_Goose_(hybrid)_Emerald_Springs_Apartments_Steuben_New_York_United_States_Mar_11_2026_1020",
-      "species": "Greater White-fronted x Canada Goose (hybrid)",
-      "scientific_name": "Anser albifrons x Branta canadensis",
-      "location": {
-        "name": "Emerald Springs Apartments, Steuben, New York, United States",
-        "lat": 42.1551389,
-        "lng": -77.1135967
-      },
-      "date": "Mar 11, 2026 10:20",
-      "observer": "Eric Sibbald",
-      "wikipedia": {
-        "summary": "Greater White-fronted x Canada Goose (hybrid) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "Greater_Whitefronted_x_Canada_Goose_(hybrid)_Emerald_Springs_Apartments_Steuben_New_York_United_States_Mar_10_2026_1020",
-      "species": "Greater White-fronted x Canada Goose (hybrid)",
-      "scientific_name": "Anser albifrons x Branta canadensis",
-      "location": {
-        "name": "Emerald Springs Apartments, Steuben, New York, United States",
-        "lat": 42.1551389,
-        "lng": -77.1135967
-      },
-      "date": "Mar 10, 2026 10:20",
-      "observer": "Eric Sibbald",
-      "wikipedia": {
-        "summary": "Greater White-fronted x Canada Goose (hybrid) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "Greater_Whitefronted_x_Canada_Goose_(hybrid)_Emerald_Springs_Apartments_Steuben_New_York_United_States_Mar_07_2026_1000",
-      "species": "Greater White-fronted x Canada Goose (hybrid)",
-      "scientific_name": "Anser albifrons x Branta canadensis",
-      "location": {
-        "name": "Emerald Springs Apartments, Steuben, New York, United States",
-        "lat": 42.1551389,
-        "lng": -77.1135967
-      },
-      "date": "Mar 07, 2026 10:00",
-      "observer": "Eric Sibbald",
-      "wikipedia": {
-        "summary": "Greater White-fronted x Canada Goose (hybrid) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "Snow_x_Canada_Goose_(hybrid)_2317_Merihew_Road_Marathon_New_York_US_(42.52_76.051)_Cortland_New_York_United_States_Mar_11_2026_1940",
-      "species": "Snow x Canada Goose (hybrid)",
-      "scientific_name": "Anser caerulescens x Branta canadensis",
-      "location": {
-        "name": "2317 Merihew Road, Marathon, New York, US (42.52, -76.051), Cortland, New York, United States",
-        "lat": 42.5200447,
-        "lng": -76.0511901
-      },
-      "date": "Mar 11, 2026 19:40",
-      "observer": "Nikolai Whitson",
-      "wikipedia": {
-        "summary": "Snow x Canada Goose (hybrid) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": ""
       }
@@ -760,6 +760,23 @@
       },
       "date": "Mar 07, 2026 09:00",
       "observer": "Doug Daniels",
+      "wikipedia": {
+        "summary": "Snow x Canada Goose (hybrid) is a bird species observed in New York.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": ""
+      }
+    },
+    {
+      "id": "Snow_x_Canada_Goose_(hybrid)_Braddock_Bay_ParkHawk_Watch_Monroe_New_York_United_States_Mar_07_2026_0758",
+      "species": "Snow x Canada Goose (hybrid)",
+      "scientific_name": "Anser caerulescens x Branta canadensis",
+      "location": {
+        "name": "Braddock Bay Park--Hawk Watch, Monroe, New York, United States",
+        "lat": 43.30365,
+        "lng": -77.7163028
+      },
+      "date": "Mar 07, 2026 07:58",
+      "observer": "Greg Lawrence",
       "wikipedia": {
         "summary": "Snow x Canada Goose (hybrid) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -903,7 +920,7 @@
       }
     },
     {
-      "id": "Trumpeter_Swan_North_5th_Street_Pier_and_Park_Kings_New_York_United_States_Mar_11_2026_1919",
+      "id": "Trumpeter_Swan_North_5th_Street_Pier_and_Park_Kings_New_York_United_States_Mar_12_2026_1649",
       "species": "Trumpeter Swan",
       "scientific_name": "Cygnus buccinator",
       "location": {
@@ -911,8 +928,59 @@
         "lat": 40.7201139,
         "lng": -73.9643432
       },
-      "date": "Mar 11, 2026 19:19",
-      "observer": "Salem Williams",
+      "date": "Mar 12, 2026 16:49",
+      "observer": "Jasmine Briscoe",
+      "wikipedia": {
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
+        "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
+      }
+    },
+    {
+      "id": "Trumpeter_Swan_North_5th_Street_Pier_and_Park_Kings_New_York_United_States_Mar_12_2026_1230",
+      "species": "Trumpeter Swan",
+      "scientific_name": "Cygnus buccinator",
+      "location": {
+        "name": "North 5th Street Pier and Park, Kings, New York, United States",
+        "lat": 40.7201139,
+        "lng": -73.9643432
+      },
+      "date": "Mar 12, 2026 12:30",
+      "observer": "Jessie Hayes",
+      "wikipedia": {
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
+        "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
+      }
+    },
+    {
+      "id": "Trumpeter_Swan_North_5th_Street_Pier_and_Park_Kings_New_York_United_States_Mar_12_2026_1229",
+      "species": "Trumpeter Swan",
+      "scientific_name": "Cygnus buccinator",
+      "location": {
+        "name": "North 5th Street Pier and Park, Kings, New York, United States",
+        "lat": 40.7201139,
+        "lng": -73.9643432
+      },
+      "date": "Mar 12, 2026 12:29",
+      "observer": "Alexis Clements",
+      "wikipedia": {
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
+        "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
+      }
+    },
+    {
+      "id": "Trumpeter_Swan_North_5th_Street_Pier_and_Park_Kings_New_York_United_States_Mar_12_2026_0758",
+      "species": "Trumpeter Swan",
+      "scientific_name": "Cygnus buccinator",
+      "location": {
+        "name": "North 5th Street Pier and Park, Kings, New York, United States",
+        "lat": 40.7201139,
+        "lng": -73.9643432
+      },
+      "date": "Mar 12, 2026 07:58",
+      "observer": "Caroline Quinn",
       "wikipedia": {
         "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
         "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
@@ -937,6 +1005,23 @@
       }
     },
     {
+      "id": "Trumpeter_Swan_North_5th_Street_Pier_and_Park_Kings_New_York_United_States_Mar_11_2026_1919",
+      "species": "Trumpeter Swan",
+      "scientific_name": "Cygnus buccinator",
+      "location": {
+        "name": "North 5th Street Pier and Park, Kings, New York, United States",
+        "lat": 40.7201139,
+        "lng": -73.9643432
+      },
+      "date": "Mar 11, 2026 19:19",
+      "observer": "Salem Williams",
+      "wikipedia": {
+        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
+        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
+        "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
+      }
+    },
+    {
       "id": "Trumpeter_Swan_North_5th_Street_Pier_and_Park_Kings_New_York_United_States_Mar_11_2026_1848",
       "species": "Trumpeter Swan",
       "scientific_name": "Cygnus buccinator",
@@ -947,57 +1032,6 @@
       },
       "date": "Mar 11, 2026 18:48",
       "observer": "Darien Fiorino",
-      "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
-        "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
-      }
-    },
-    {
-      "id": "Trumpeter_Swan_North_5th_Street_Pier_and_Park_Kings_New_York_United_States_Mar_11_2026_1841",
-      "species": "Trumpeter Swan",
-      "scientific_name": "Cygnus buccinator",
-      "location": {
-        "name": "North 5th Street Pier and Park, Kings, New York, United States",
-        "lat": 40.7201139,
-        "lng": -73.9643432
-      },
-      "date": "Mar 11, 2026 18:41",
-      "observer": "Jack Marsden",
-      "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
-        "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
-      }
-    },
-    {
-      "id": "Trumpeter_Swan_North_5th_Street_Pier_and_Park_Kings_New_York_United_States_Mar_11_2026_1815",
-      "species": "Trumpeter Swan",
-      "scientific_name": "Cygnus buccinator",
-      "location": {
-        "name": "North 5th Street Pier and Park, Kings, New York, United States",
-        "lat": 40.7201139,
-        "lng": -73.9643432
-      },
-      "date": "Mar 11, 2026 18:15",
-      "observer": "Anonymous eBirder",
-      "wikipedia": {
-        "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
-        "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
-        "source": "https://en.wikipedia.org/wiki/Trumpeter_swan"
-      }
-    },
-    {
-      "id": "Trumpeter_Swan_North_5th_Street_Pier_and_Park_Kings_New_York_United_States_Mar_11_2026_1757",
-      "species": "Trumpeter Swan",
-      "scientific_name": "Cygnus buccinator",
-      "location": {
-        "name": "North 5th Street Pier and Park, Kings, New York, United States",
-        "lat": 40.7201139,
-        "lng": -73.9643432
-      },
-      "date": "Mar 11, 2026 17:57",
-      "observer": "Lord Of the Eagles",
       "wikipedia": {
         "summary": "The trumpeter swan, or simply the trumpeter, is a species of swan found in North America. The heaviest living bird native to North America, it is also the largest extant species of waterfowl, with a wingspan of 185 to 304.8 cm. It is the American counterpart and a close relative of the whooper swan of Eurasia and has even been considered the same species by some authorities.",
         "image_url": "assets/cache/wikipedia-images/trumpeter-swan.jpg",
@@ -1056,16 +1090,16 @@
       }
     },
     {
-      "id": "Tundra_Swan_Liberty_Loop_Trail_Pine_Island_USNY_41.28373_74.53180_West_side_of_Liberty_Loop_trail_Orange_New_York_United_States_Mar_10_2026_1321",
+      "id": "Tundra_Swan_New_York_7_Afton_New_York_US_(42.212_75.58)_Chenango_New_York_United_States_Mar_12_2026_1129",
       "species": "Tundra Swan",
       "scientific_name": "Cygnus columbianus",
       "location": {
-        "name": "Liberty Loop Trail, Pine Island US-NY 41.28373, -74.53180 West side of Liberty Loop trail, Orange, New York, United States",
-        "lat": 41.283734,
-        "lng": -74.5318
+        "name": "New York 7, Afton, New York, US (42.212, -75.58), Chenango, New York, United States",
+        "lat": 42.2120246,
+        "lng": -75.579958
       },
-      "date": "Mar 10, 2026 13:21",
-      "observer": "Susan Cagney",
+      "date": "Mar 12, 2026 11:29",
+      "observer": "Michael DeWispelaere",
       "wikipedia": {
         "summary": "The tundra swan is a small swan of the Holarctic. The two taxa within it are usually regarded as conspecific, but are also sometimes split into two species: Bewick's swan of the Palaearctic and the whistling swan proper of the Nearctic. Birds from eastern Russia are sometimes separated as the subspecies C.",
         "image_url": "assets/cache/wikipedia-images/tundra-swan.jpg",
@@ -1141,23 +1175,6 @@
       }
     },
     {
-      "id": "Tundra_Swan_Wallkill_River_NWRLiberty_Marsh_(NY)_Orange_New_York_United_States_Mar_10_2026_1727",
-      "species": "Tundra Swan",
-      "scientific_name": "Cygnus columbianus",
-      "location": {
-        "name": "Wallkill River NWR--Liberty Marsh (NY), Orange, New York, United States",
-        "lat": 41.2822012,
-        "lng": -74.5270966
-      },
-      "date": "Mar 10, 2026 17:27",
-      "observer": "Ben Maendel",
-      "wikipedia": {
-        "summary": "The tundra swan is a small swan of the Holarctic. The two taxa within it are usually regarded as conspecific, but are also sometimes split into two species: Bewick's swan of the Palaearctic and the whistling swan proper of the Nearctic. Birds from eastern Russia are sometimes separated as the subspecies C.",
-        "image_url": "assets/cache/wikipedia-images/tundra-swan.jpg",
-        "source": "https://en.wikipedia.org/wiki/Tundra_swan"
-      }
-    },
-    {
       "id": "Bluewinged_Teal_Braddock_Bay_ParkHawk_Watch_Monroe_New_York_United_States_Mar_09_2026_1518",
       "species": "Blue-winged Teal",
       "scientific_name": "Spatula discors",
@@ -1175,16 +1192,33 @@
       }
     },
     {
-      "id": "Bluewinged_Teal_Central_ParkNorth_End_(N_of_97th_St._Transverse)_New_York_New_York_United_States_Mar_11_2026_0815",
+      "id": "Bluewinged_Teal_Conesus_Inlet_WMAEast_Swamp_Rd._(midway_pond)_Livingston_New_York_United_States_Mar_12_2026_1531",
       "species": "Blue-winged Teal",
       "scientific_name": "Spatula discors",
       "location": {
-        "name": "Central Park--North End (N of 97th St. Transverse), New York, New York, United States",
-        "lat": 40.796089,
-        "lng": -73.9558947
+        "name": "Conesus Inlet WMA--East Swamp Rd. (midway pond), Livingston, New York, United States",
+        "lat": 42.7012983,
+        "lng": -77.6982898
       },
-      "date": "Mar 11, 2026 08:15",
-      "observer": "Miriam Rakowski",
+      "date": "Mar 12, 2026 15:31",
+      "observer": "Mike Wasilco",
+      "wikipedia": {
+        "summary": "The blue-winged teal is a species of bird in the duck, goose, and swan family Anatidae. One of the smaller members of the dabbling duck group, it occurs in North America, where it breeds from southern Alaska to Nova Scotia, and south to northern Texas. It winters along the Pacific and Atlantic coasts and south into the Caribbean islands and Central America.",
+        "image_url": "assets/cache/wikipedia-images/blue-winged-teal.jpg",
+        "source": "https://en.wikipedia.org/wiki/Blue-winged_teal"
+      }
+    },
+    {
+      "id": "Bluewinged_Teal_Conesus_Inlet_WMAEast_Swamp_Rd._(midway_pond)_Livingston_New_York_United_States_Mar_12_2026_0941",
+      "species": "Blue-winged Teal",
+      "scientific_name": "Spatula discors",
+      "location": {
+        "name": "Conesus Inlet WMA--East Swamp Rd. (midway pond), Livingston, New York, United States",
+        "lat": 42.7012983,
+        "lng": -77.6982898
+      },
+      "date": "Mar 12, 2026 09:41",
+      "observer": "Terry Bohling",
       "wikipedia": {
         "summary": "The blue-winged teal is a species of bird in the duck, goose, and swan family Anatidae. One of the smaller members of the dabbling duck group, it occurs in North America, where it breeds from southern Alaska to Nova Scotia, and south to northern Texas. It winters along the Pacific and Atlantic coasts and south into the Caribbean islands and Central America.",
         "image_url": "assets/cache/wikipedia-images/blue-winged-teal.jpg",
@@ -1311,6 +1345,23 @@
       }
     },
     {
+      "id": "Northern_Shoveler_Emerald_Springs_Apartments_Steuben_New_York_United_States_Mar_12_2026_1035",
+      "species": "Northern Shoveler",
+      "scientific_name": "Spatula clypeata",
+      "location": {
+        "name": "Emerald Springs Apartments, Steuben, New York, United States",
+        "lat": 42.1551389,
+        "lng": -77.1135967
+      },
+      "date": "Mar 12, 2026 10:35",
+      "observer": "Eric Sibbald",
+      "wikipedia": {
+        "summary": "The northern shoveler, often known simply as the shoveler where other related species do not occur, is a common and widespread duck. It breeds in northern areas of Europe and throughout the Palearctic and across most of North America, and winters in southern Europe, the Indian subcontinent, Southeast Asia, Central America, the Caribbean, and northern South America. It is a rare vagrant to Australia.",
+        "image_url": "assets/cache/wikipedia-images/northern-shoveler.jpg",
+        "source": "https://en.wikipedia.org/wiki/Northern_shoveler"
+      }
+    },
+    {
       "id": "Northern_Shoveler_Emerald_Springs_Apartments_Steuben_New_York_United_States_Mar_11_2026_1020",
       "species": "Northern Shoveler",
       "scientific_name": "Spatula clypeata",
@@ -1321,6 +1372,23 @@
       },
       "date": "Mar 11, 2026 10:20",
       "observer": "Eric Sibbald",
+      "wikipedia": {
+        "summary": "The northern shoveler, often known simply as the shoveler where other related species do not occur, is a common and widespread duck. It breeds in northern areas of Europe and throughout the Palearctic and across most of North America, and winters in southern Europe, the Indian subcontinent, Southeast Asia, Central America, the Caribbean, and northern South America. It is a rare vagrant to Australia.",
+        "image_url": "assets/cache/wikipedia-images/northern-shoveler.jpg",
+        "source": "https://en.wikipedia.org/wiki/Northern_shoveler"
+      }
+    },
+    {
+      "id": "Northern_Shoveler_Perch_River_WMAVaadi_Rd._Jefferson_New_York_United_States_Mar_12_2026_1347",
+      "species": "Northern Shoveler",
+      "scientific_name": "Spatula clypeata",
+      "location": {
+        "name": "Perch River WMA--Vaadi Rd., Jefferson, New York, United States",
+        "lat": 44.094397,
+        "lng": -75.9575415
+      },
+      "date": "Mar 12, 2026 13:47",
+      "observer": "John McKay",
       "wikipedia": {
         "summary": "The northern shoveler, often known simply as the shoveler where other related species do not occur, is a common and widespread duck. It breeds in northern areas of Europe and throughout the Palearctic and across most of North America, and winters in southern Europe, the Indian subcontinent, Southeast Asia, Central America, the Caribbean, and northern South America. It is a rare vagrant to Australia.",
         "image_url": "assets/cache/wikipedia-images/northern-shoveler.jpg",
@@ -1413,6 +1481,23 @@
       }
     },
     {
+      "id": "Eurasian_Wigeon_Montezuma_(NMWMA)Railroad_Rd._Marshes_Wayne_New_York_United_States_Mar_12_2026_1550",
+      "species": "Eurasian Wigeon",
+      "scientific_name": "Mareca penelope",
+      "location": {
+        "name": "Montezuma (NMWMA)--Railroad Rd. Marshes, Wayne, New York, United States",
+        "lat": 43.0572241,
+        "lng": -76.7246532
+      },
+      "date": "Mar 12, 2026 15:50",
+      "observer": "Carmen Gumina",
+      "wikipedia": {
+        "summary": "The Eurasian wigeon or European wigeon, also known as the widgeon or wigeon, is one of three extant species of wigeon in the dabbling duck genus Mareca. It is common and widespread within its Palearctic range.",
+        "image_url": "assets/cache/wikipedia-images/eurasian-wigeon.jpg",
+        "source": "https://en.wikipedia.org/wiki/Eurasian_wigeon"
+      }
+    },
+    {
       "id": "Eurasian_Wigeon_Montezuma_NWR_(general_area)__New_York_United_States_Mar_10_2026_0930",
       "species": "Eurasian Wigeon",
       "scientific_name": "Mareca penelope",
@@ -1481,6 +1566,23 @@
       }
     },
     {
+      "id": "American_Wigeon_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_07_2026_0810",
+      "species": "American Wigeon",
+      "scientific_name": "Mareca americana",
+      "location": {
+        "name": "Governors Island (N.Y. County), New York, New York, United States",
+        "lat": 40.6885372,
+        "lng": -74.0189759
+      },
+      "date": "Mar 07, 2026 08:10",
+      "observer": "Loyan Beausoleil",
+      "wikipedia": {
+        "summary": "The American wigeon, also known as the baldpate, is a species of dabbling duck found in North America. Formerly assigned to Anas, this species is classified with the other wigeons in the dabbling duck genus Mareca. It is the New World counterpart of the Eurasian wigeon.",
+        "image_url": "assets/cache/wikipedia-images/american-wigeon.jpg",
+        "source": "https://en.wikipedia.org/wiki/American_wigeon"
+      }
+    },
+    {
       "id": "American_Wigeon_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_06_2026_1314",
       "species": "American Wigeon",
       "scientific_name": "Mareca americana",
@@ -1524,23 +1626,6 @@
         "lng": -74.0189759
       },
       "date": "Mar 06, 2026 06:43",
-      "observer": "Lane Theander",
-      "wikipedia": {
-        "summary": "The American wigeon, also known as the baldpate, is a species of dabbling duck found in North America. Formerly assigned to Anas, this species is classified with the other wigeons in the dabbling duck genus Mareca. It is the New World counterpart of the Eurasian wigeon.",
-        "image_url": "assets/cache/wikipedia-images/american-wigeon.jpg",
-        "source": "https://en.wikipedia.org/wiki/American_wigeon"
-      }
-    },
-    {
-      "id": "American_Wigeon_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_06_2026_0643",
-      "species": "American Wigeon",
-      "scientific_name": "Mareca americana",
-      "location": {
-        "name": "Governors Island (N.Y. County), New York, New York, United States",
-        "lat": 40.6885372,
-        "lng": -74.0189759
-      },
-      "date": "Mar 06, 2026 06:43",
       "observer": "Alexander Tepper",
       "wikipedia": {
         "summary": "The American wigeon, also known as the baldpate, is a species of dabbling duck found in North America. Formerly assigned to Anas, this species is classified with the other wigeons in the dabbling duck genus Mareca. It is the New World counterpart of the Eurasian wigeon.",
@@ -1561,6 +1646,23 @@
       "observer": "John Gluth",
       "wikipedia": {
         "summary": "Eurasian x American Wigeon (hybrid) is a bird species observed in New York.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": ""
+      }
+    },
+    {
+      "id": "American_Wigeon_x_Mallard_(hybrid)_Wrights_Loop_Stillwater_NY_Saratoga_New_York_United_States_Mar_12_2026_1402",
+      "species": "American Wigeon x Mallard (hybrid)",
+      "scientific_name": "Mareca americana x Anas platyrhynchos",
+      "location": {
+        "name": "Wrights Loop, Stillwater, NY, Saratoga, New York, United States",
+        "lat": 42.9904191,
+        "lng": -73.6139894
+      },
+      "date": "Mar 12, 2026 14:02",
+      "observer": "Lindsey Duval",
+      "wikipedia": {
+        "summary": "American Wigeon x Mallard (hybrid) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": ""
       }
@@ -1651,6 +1753,23 @@
       }
     },
     {
+      "id": "Greenwinged_Teal_(Eurasian)_Rockland_Psychiatric_Pond_&_environs_Rockland_New_York_United_States_Mar_11_2026_1618",
+      "species": "Green-winged Teal (Eurasian)",
+      "scientific_name": "Anas crecca crecca",
+      "location": {
+        "name": "Rockland Psychiatric Pond & environs, Rockland, New York, United States",
+        "lat": 41.0488787,
+        "lng": -73.9736229
+      },
+      "date": "Mar 11, 2026 16:18",
+      "observer": "Sarah Seiglie",
+      "wikipedia": {
+        "summary": "Green-winged Teal (Eurasian) is a bird species observed in New York.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": ""
+      }
+    },
+    {
       "id": "Canvasback_Shirley_Chisholm_SP_(Fountain_Ave._Landfill)_Kings_New_York_United_States_Mar_07_2026_0945",
       "species": "Canvasback",
       "scientific_name": "Aythya valisineria",
@@ -1728,7 +1847,7 @@
         "lng": -77.2803949
       },
       "date": "Mar 10, 2026 11:14",
-      "observer": "margaret gage",
+      "observer": "Kyle Gage",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
         "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
@@ -1745,7 +1864,7 @@
         "lng": -77.2803949
       },
       "date": "Mar 10, 2026 11:14",
-      "observer": "Kyle Gage",
+      "observer": "margaret gage",
       "wikipedia": {
         "summary": "The tufted duck is a small diving duck with a population of nearly one million birds, found in northern Eurasia. They are partially migratory. The scientific name is derived from Ancient Greek aithuia, an unidentified seabird mentioned by authors such as Hesychius and Aristotle, and Latin fuligo 'soot' and gula 'throat'.",
         "image_url": "assets/cache/wikipedia-images/tufted-duck.jpg",
@@ -1770,16 +1889,50 @@
       }
     },
     {
-      "id": "Greater_Scaup_Fort_Washington_ParkS_of_GWB_(Little_Red_Lighthouse155th_St.)_New_York_New_York_United_States_Mar_11_2026_0835",
+      "id": "Greater_Scaup_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_12_2026_1235",
       "species": "Greater Scaup",
       "scientific_name": "Aythya marila",
       "location": {
-        "name": "Fort Washington Park--S of GWB (Little Red Lighthouse-155th St.), New York, New York, United States",
-        "lat": 40.8420426,
-        "lng": -73.9467445
+        "name": "Governors Island (N.Y. County), New York, New York, United States",
+        "lat": 40.6885372,
+        "lng": -74.0189759
       },
-      "date": "Mar 11, 2026 08:35",
-      "observer": "Kelsey Lagunas Sanchez",
+      "date": "Mar 12, 2026 12:35",
+      "observer": "Michael Waldron",
+      "wikipedia": {
+        "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
+        "source": "https://en.wikipedia.org/wiki/Greater_scaup"
+      }
+    },
+    {
+      "id": "Greater_Scaup_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_12_2026_0718",
+      "species": "Greater Scaup",
+      "scientific_name": "Aythya marila",
+      "location": {
+        "name": "Governors Island (N.Y. County), New York, New York, United States",
+        "lat": 40.6885372,
+        "lng": -74.0189759
+      },
+      "date": "Mar 12, 2026 07:18",
+      "observer": "Deborra Mullins",
+      "wikipedia": {
+        "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
+        "source": "https://en.wikipedia.org/wiki/Greater_scaup"
+      }
+    },
+    {
+      "id": "Greater_Scaup_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_12_2026_0639",
+      "species": "Greater Scaup",
+      "scientific_name": "Aythya marila",
+      "location": {
+        "name": "Governors Island (N.Y. County), New York, New York, United States",
+        "lat": 40.6885372,
+        "lng": -74.0189759
+      },
+      "date": "Mar 12, 2026 06:39",
+      "observer": "Mary Beth Kooper",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
         "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
@@ -1804,40 +1957,6 @@
       }
     },
     {
-      "id": "Greater_Scaup_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_11_2026_1010",
-      "species": "Greater Scaup",
-      "scientific_name": "Aythya marila",
-      "location": {
-        "name": "Governors Island (N.Y. County), New York, New York, United States",
-        "lat": 40.6885372,
-        "lng": -74.0189759
-      },
-      "date": "Mar 11, 2026 10:10",
-      "observer": "Colby Baker",
-      "wikipedia": {
-        "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
-        "source": "https://en.wikipedia.org/wiki/Greater_scaup"
-      }
-    },
-    {
-      "id": "Greater_Scaup_Hudson_River_Greenway145th155th_St._New_York_New_York_United_States_Mar_11_2026_0715",
-      "species": "Greater Scaup",
-      "scientific_name": "Aythya marila",
-      "location": {
-        "name": "Hudson River Greenway--145th-155th St., New York, New York, United States",
-        "lat": 40.8303434,
-        "lng": -73.952501
-      },
-      "date": "Mar 11, 2026 07:15",
-      "observer": "Matthew DeGulis",
-      "wikipedia": {
-        "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
-        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
-        "source": "https://en.wikipedia.org/wiki/Greater_scaup"
-      }
-    },
-    {
       "id": "Greater_Scaup_Randalls_Island_New_York_New_York_United_States_Mar_11_2026_1719",
       "species": "Greater Scaup",
       "scientific_name": "Aythya marila",
@@ -1848,6 +1967,23 @@
       },
       "date": "Mar 11, 2026 17:19",
       "observer": "Alexander Tepper",
+      "wikipedia": {
+        "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
+        "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
+        "source": "https://en.wikipedia.org/wiki/Greater_scaup"
+      }
+    },
+    {
+      "id": "Greater_Scaup_Riverside_ParkNorth_of_96th_St._New_York_New_York_United_States_Mar_11_2026_1731",
+      "species": "Greater Scaup",
+      "scientific_name": "Aythya marila",
+      "location": {
+        "name": "Riverside Park--North of 96th St., New York, New York, United States",
+        "lat": 40.8073616,
+        "lng": -73.9684904
+      },
+      "date": "Mar 11, 2026 17:31",
+      "observer": "Augie Kramer",
       "wikipedia": {
         "summary": "The greater scaup, just scaup in Europe or, colloquially, \"bluebill\" in North America, is a mid-sized diving duck, larger than the closely related lesser scaup and tufted duck. It spends the summer months breeding in Iceland, east across Scandinavia, northern Russia and Siberia, Alaska, and northern Canada. During the winter, it migrates south to the coasts of Europe, eastern Asia, and North America.",
         "image_url": "assets/cache/wikipedia-images/greater-scaup.jpg",
@@ -1889,16 +2025,33 @@
       }
     },
     {
-      "id": "Lesser_Scaup_East_River_Pier_11_to_Pier_6_New_York_New_York_United_States_Mar_07_2026_0736",
+      "id": "Lesser_Scaup_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_12_2026_0718",
       "species": "Lesser Scaup",
       "scientific_name": "Aythya affinis",
       "location": {
-        "name": "East River, Pier 11 to Pier 6, New York, New York, United States",
-        "lat": 40.7026581,
-        "lng": -74.0080499
+        "name": "Governors Island (N.Y. County), New York, New York, United States",
+        "lat": 40.6885372,
+        "lng": -74.0189759
       },
-      "date": "Mar 07, 2026 07:36",
-      "observer": "Loyan Beausoleil",
+      "date": "Mar 12, 2026 07:18",
+      "observer": "Deborra Mullins",
+      "wikipedia": {
+        "summary": "The lesser scaup is a small North American diving duck that migrates south as far as Central America in winter. It is colloquially known as the little bluebill or broadbill because of its distinctive blue bill. The origin of the name scaup may stem from the bird's preference for feeding on scalp—the Scottish word for clams, oysters, and mussels; however, some credit it to the female's discordant scaup call as the name's source.",
+        "image_url": "assets/cache/wikipedia-images/lesser-scaup.jpg",
+        "source": "https://en.wikipedia.org/wiki/Lesser_scaup"
+      }
+    },
+    {
+      "id": "Lesser_Scaup_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_12_2026_0639",
+      "species": "Lesser Scaup",
+      "scientific_name": "Aythya affinis",
+      "location": {
+        "name": "Governors Island (N.Y. County), New York, New York, United States",
+        "lat": 40.6885372,
+        "lng": -74.0189759
+      },
+      "date": "Mar 12, 2026 06:39",
+      "observer": "Mary Beth Kooper",
       "wikipedia": {
         "summary": "The lesser scaup is a small North American diving duck that migrates south as far as Central America in winter. It is colloquially known as the little bluebill or broadbill because of its distinctive blue bill. The origin of the name scaup may stem from the bird's preference for feeding on scalp—the Scottish word for clams, oysters, and mussels; however, some credit it to the female's discordant scaup call as the name's source.",
         "image_url": "assets/cache/wikipedia-images/lesser-scaup.jpg",
@@ -1950,23 +2103,6 @@
       },
       "date": "Mar 08, 2026 06:53",
       "observer": "Tim Healy",
-      "wikipedia": {
-        "summary": "The lesser scaup is a small North American diving duck that migrates south as far as Central America in winter. It is colloquially known as the little bluebill or broadbill because of its distinctive blue bill. The origin of the name scaup may stem from the bird's preference for feeding on scalp—the Scottish word for clams, oysters, and mussels; however, some credit it to the female's discordant scaup call as the name's source.",
-        "image_url": "assets/cache/wikipedia-images/lesser-scaup.jpg",
-        "source": "https://en.wikipedia.org/wiki/Lesser_scaup"
-      }
-    },
-    {
-      "id": "Lesser_Scaup_Riverside_Park79th_St._Boat_Basin_and_vicinity_New_York_New_York_United_States_Mar_06_2026_1004",
-      "species": "Lesser Scaup",
-      "scientific_name": "Aythya affinis",
-      "location": {
-        "name": "Riverside Park--79th St. Boat Basin and vicinity, New York, New York, United States",
-        "lat": 40.7856331,
-        "lng": -73.9853751
-      },
-      "date": "Mar 06, 2026 10:04",
-      "observer": "Karen Fung",
       "wikipedia": {
         "summary": "The lesser scaup is a small North American diving duck that migrates south as far as Central America in winter. It is colloquially known as the little bluebill or broadbill because of its distinctive blue bill. The origin of the name scaup may stem from the bird's preference for feeding on scalp—the Scottish word for clams, oysters, and mussels; however, some credit it to the female's discordant scaup call as the name's source.",
         "image_url": "assets/cache/wikipedia-images/lesser-scaup.jpg",
@@ -2034,7 +2170,7 @@
         "lng": -73.5881413
       },
       "date": "Mar 08, 2026 15:51",
-      "observer": "colleen lesoine",
+      "observer": "Georgia Fitzpatrick",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
         "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
@@ -2051,7 +2187,24 @@
         "lng": -73.5881413
       },
       "date": "Mar 08, 2026 15:51",
-      "observer": "Georgia Fitzpatrick",
+      "observer": "colleen lesoine",
+      "wikipedia": {
+        "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
+        "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
+        "source": "https://en.wikipedia.org/wiki/Harlequin_duck"
+      }
+    },
+    {
+      "id": "Harlequin_Duck_Ft._Edward_Yacht_Basin_Washington_New_York_United_States_Mar_08_2026_1500",
+      "species": "Harlequin Duck",
+      "scientific_name": "Histrionicus histrionicus",
+      "location": {
+        "name": "Ft. Edward Yacht Basin, Washington, New York, United States",
+        "lat": 43.2682951,
+        "lng": -73.5881413
+      },
+      "date": "Mar 08, 2026 15:00",
+      "observer": "Denise Adams",
       "wikipedia": {
         "summary": "The harlequin duck is a small sea duck. It takes its name from Harlequin, a colourfully dressed character in Commedia dell'arte. The species name comes from the Latin word histrio, meaning \"actor\".",
         "image_url": "assets/cache/wikipedia-images/harlequin-duck.jpg",
@@ -2093,16 +2246,16 @@
       }
     },
     {
-      "id": "Longtailed_Duck_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_08_2026_1326",
+      "id": "Longtailed_Duck_Elmira_Dam_Chemung_New_York_United_States_Mar_12_2026_1916",
       "species": "Long-tailed Duck",
       "scientific_name": "Clangula hyemalis",
       "location": {
-        "name": "Governors Island (N.Y. County), New York, New York, United States",
-        "lat": 40.6885372,
-        "lng": -74.0189759
+        "name": "Elmira Dam, Chemung, New York, United States",
+        "lat": 42.0864692,
+        "lng": -76.8096739
       },
-      "date": "Mar 08, 2026 13:26",
-      "observer": "Jim Delfino",
+      "date": "Mar 12, 2026 19:16",
+      "observer": "Jonus Miles",
       "wikipedia": {
         "summary": "The long-tailed duck is a medium-sized sea duck that breeds in the tundra and taiga regions of the arctic and winters along the northern coastlines of the Atlantic and Pacific Oceans. It is the only member of the genus Clangula.",
         "image_url": "assets/cache/wikipedia-images/long-tailed-duck.jpg",
@@ -2110,7 +2263,7 @@
       }
     },
     {
-      "id": "Longtailed_Duck_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_08_2026_1326",
+      "id": "Longtailed_Duck_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_12_2026_0847",
       "species": "Long-tailed Duck",
       "scientific_name": "Clangula hyemalis",
       "location": {
@@ -2118,8 +2271,42 @@
         "lat": 40.6885372,
         "lng": -74.0189759
       },
-      "date": "Mar 08, 2026 13:26",
-      "observer": "Charlie Delfino",
+      "date": "Mar 12, 2026 08:47",
+      "observer": "Radu Udrea",
+      "wikipedia": {
+        "summary": "The long-tailed duck is a medium-sized sea duck that breeds in the tundra and taiga regions of the arctic and winters along the northern coastlines of the Atlantic and Pacific Oceans. It is the only member of the genus Clangula.",
+        "image_url": "assets/cache/wikipedia-images/long-tailed-duck.jpg",
+        "source": "https://en.wikipedia.org/wiki/Long-tailed_duck"
+      }
+    },
+    {
+      "id": "Longtailed_Duck_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_12_2026_0718",
+      "species": "Long-tailed Duck",
+      "scientific_name": "Clangula hyemalis",
+      "location": {
+        "name": "Governors Island (N.Y. County), New York, New York, United States",
+        "lat": 40.6885372,
+        "lng": -74.0189759
+      },
+      "date": "Mar 12, 2026 07:18",
+      "observer": "Deborra Mullins",
+      "wikipedia": {
+        "summary": "The long-tailed duck is a medium-sized sea duck that breeds in the tundra and taiga regions of the arctic and winters along the northern coastlines of the Atlantic and Pacific Oceans. It is the only member of the genus Clangula.",
+        "image_url": "assets/cache/wikipedia-images/long-tailed-duck.jpg",
+        "source": "https://en.wikipedia.org/wiki/Long-tailed_duck"
+      }
+    },
+    {
+      "id": "Longtailed_Duck_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_12_2026_0639",
+      "species": "Long-tailed Duck",
+      "scientific_name": "Clangula hyemalis",
+      "location": {
+        "name": "Governors Island (N.Y. County), New York, New York, United States",
+        "lat": 40.6885372,
+        "lng": -74.0189759
+      },
+      "date": "Mar 12, 2026 06:39",
+      "observer": "Mary Beth Kooper",
       "wikipedia": {
         "summary": "The long-tailed duck is a medium-sized sea duck that breeds in the tundra and taiga regions of the arctic and winters along the northern coastlines of the Atlantic and Pacific Oceans. It is the only member of the genus Clangula.",
         "image_url": "assets/cache/wikipedia-images/long-tailed-duck.jpg",
@@ -2154,23 +2341,6 @@
       },
       "date": "Mar 08, 2026 17:25",
       "observer": "Drew Weber",
-      "wikipedia": {
-        "summary": "The long-tailed duck is a medium-sized sea duck that breeds in the tundra and taiga regions of the arctic and winters along the northern coastlines of the Atlantic and Pacific Oceans. It is the only member of the genus Clangula.",
-        "image_url": "assets/cache/wikipedia-images/long-tailed-duck.jpg",
-        "source": "https://en.wikipedia.org/wiki/Long-tailed_duck"
-      }
-    },
-    {
-      "id": "Longtailed_Duck_Spencer_Lake_Tioga_New_York_United_States_Mar_08_2026_1359",
-      "species": "Long-tailed Duck",
-      "scientific_name": "Clangula hyemalis",
-      "location": {
-        "name": "Spencer Lake, Tioga, New York, United States",
-        "lat": 42.2473269,
-        "lng": -76.5017509
-      },
-      "date": "Mar 08, 2026 13:59",
-      "observer": "Wes Blauvelt",
       "wikipedia": {
         "summary": "The long-tailed duck is a medium-sized sea duck that breeds in the tundra and taiga regions of the arctic and winters along the northern coastlines of the Atlantic and Pacific Oceans. It is the only member of the genus Clangula.",
         "image_url": "assets/cache/wikipedia-images/long-tailed-duck.jpg",
@@ -2229,16 +2399,16 @@
       }
     },
     {
-      "id": "Common_Goldeneye_Hudson_River_ParkTribeca_Upland_(Chambers_to_W_Houston_St.)_New_York_New_York_United_States_Mar_08_2026_1452",
+      "id": "Common_Goldeneye_Randalls_Island_New_York_New_York_United_States_Mar_10_2026_0712",
       "species": "Common Goldeneye",
       "scientific_name": "Bucephala clangula",
       "location": {
-        "name": "Hudson River Park--Tribeca Upland (Chambers to W Houston St.), New York, New York, United States",
-        "lat": 40.7238322,
-        "lng": -74.0116863
+        "name": "Randalls Island, New York, New York, United States",
+        "lat": 40.7887808,
+        "lng": -73.9219681
       },
-      "date": "Mar 08, 2026 14:52",
-      "observer": "Stacy Livingston",
+      "date": "Mar 10, 2026 07:12",
+      "observer": "Lane Theander",
       "wikipedia": {
         "summary": "The common goldeneye or simply goldeneye is a medium-sized sea duck of the genus Bucephala, the goldeneyes. Its closest relative is the similar Barrow's goldeneye. The genus name is derived from the Ancient Greek boukephalos, a reference to the bulbous head shape of the bufflehead.",
         "image_url": "assets/cache/wikipedia-images/common-goldeneye.jpg",
@@ -2340,7 +2510,7 @@
         "lng": -73.6894618
       },
       "date": "Mar 08, 2026 16:03",
-      "observer": "stephen johnson  🦜",
+      "observer": "Lynn Rafferty",
       "wikipedia": {
         "summary": "Barrow's goldeneye is a medium-sized sea duck of the genus Bucephala, the goldeneyes. This bird was named after Sir John Barrow. The genus name is derived from Ancient Greek boukephalos, \"bullheaded\", from bous, \"bull\" and kephale, \"head\", a reference to the bulbous head shape of the bufflehead.",
         "image_url": "assets/cache/wikipedia-images/barrows-goldeneye.jpg",
@@ -2357,7 +2527,7 @@
         "lng": -73.6894618
       },
       "date": "Mar 08, 2026 16:03",
-      "observer": "Lynn Rafferty",
+      "observer": "stephen johnson  🦜",
       "wikipedia": {
         "summary": "Barrow's goldeneye is a medium-sized sea duck of the genus Bucephala, the goldeneyes. This bird was named after Sir John Barrow. The genus name is derived from Ancient Greek boukephalos, \"bullheaded\", from bous, \"bull\" and kephale, \"head\", a reference to the bulbous head shape of the bufflehead.",
         "image_url": "assets/cache/wikipedia-images/barrows-goldeneye.jpg",
@@ -2459,23 +2629,6 @@
         "lng": -73.6567423
       },
       "date": "Mar 06, 2026 08:07",
-      "observer": "Lindsey Duval",
-      "wikipedia": {
-        "summary": "Common x Barrow's Goldeneye (hybrid) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "Common_x_Barrow's_Goldeneye_(hybrid)_Stillwater_Blockhouse_Park_Saratoga_New_York_United_States_Mar_05_2026_1052",
-      "species": "Common x Barrow's Goldeneye (hybrid)",
-      "scientific_name": "Bucephala clangula x islandica",
-      "location": {
-        "name": "Stillwater Blockhouse Park, Saratoga, New York, United States",
-        "lat": 42.9372008,
-        "lng": -73.6567423
-      },
-      "date": "Mar 05, 2026 10:52",
       "observer": "Lindsey Duval",
       "wikipedia": {
         "summary": "Common x Barrow's Goldeneye (hybrid) is a bird species observed in New York.",
@@ -2586,6 +2739,23 @@
       }
     },
     {
+      "id": "Common_Merganser_Prospect_Park_Kings_New_York_United_States_Mar_12_2026_0722",
+      "species": "Common Merganser",
+      "scientific_name": "Mergus merganser",
+      "location": {
+        "name": "Prospect Park, Kings, New York, United States",
+        "lat": 40.6602841,
+        "lng": -73.9689534
+      },
+      "date": "Mar 12, 2026 07:22",
+      "observer": "Asher Fusco",
+      "wikipedia": {
+        "summary": "The common merganser or goosander is a large sea duck of rivers and lakes in forested areas of Europe, Asia, and North America. The common merganser eats mainly fish. It nests in holes in trees.",
+        "image_url": "assets/cache/wikipedia-images/common-merganser.jpg",
+        "source": "https://en.wikipedia.org/wiki/Common_merganser"
+      }
+    },
+    {
       "id": "Common_Merganser_Prospect_Park_Kings_New_York_United_States_Mar_11_2026_1610",
       "species": "Common Merganser",
       "scientific_name": "Mergus merganser",
@@ -2612,7 +2782,7 @@
         "lng": -73.9219681
       },
       "date": "Mar 08, 2026 06:53",
-      "observer": "Adam Cunningham",
+      "observer": "Tim Healy",
       "wikipedia": {
         "summary": "Common Merganser (North American) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -2629,7 +2799,7 @@
         "lng": -73.9219681
       },
       "date": "Mar 08, 2026 06:53",
-      "observer": "Tim Healy",
+      "observer": "Adam Cunningham",
       "wikipedia": {
         "summary": "Common Merganser (North American) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -2663,7 +2833,7 @@
         "lng": -73.9124419
       },
       "date": "Mar 08, 2026 09:38",
-      "observer": "Ryan Mandelbaum",
+      "observer": "Julian Batista",
       "wikipedia": {
         "summary": "Common Merganser (North American) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -2680,11 +2850,28 @@
         "lng": -73.9124419
       },
       "date": "Mar 08, 2026 09:38",
-      "observer": "Julian Batista",
+      "observer": "Ryan Mandelbaum",
       "wikipedia": {
         "summary": "Common Merganser (North American) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": ""
+      }
+    },
+    {
+      "id": "Redbreasted_Merganser_Blauvelt_Road_Bridge_(Hackensack_River/Lake_Tappan)_Rockland_New_York_United_States_Mar_12_2026_1056",
+      "species": "Red-breasted Merganser",
+      "scientific_name": "Mergus serrator",
+      "location": {
+        "name": "Blauvelt Road Bridge (Hackensack River/Lake Tappan), Rockland, New York, United States",
+        "lat": 41.060574,
+        "lng": -73.985846
+      },
+      "date": "Mar 12, 2026 10:56",
+      "observer": "John Dow",
+      "wikipedia": {
+        "summary": "The red-breasted merganser is a duck species that is native to much of the temperate to subarctic Northern Hemisphere. The red breast that gives the species its common name is only displayed by males in breeding plumage. Individuals fly rapidly, and feed by diving from the surface to pursue aquatic animals underwater, using serrated bills to capture slippery fish.",
+        "image_url": "assets/cache/wikipedia-images/red-breasted-merganser.jpg",
+        "source": "https://en.wikipedia.org/wiki/Red-breasted_merganser"
       }
     },
     {
@@ -2749,23 +2936,6 @@
       },
       "date": "Mar 08, 2026 06:46",
       "observer": "Zach Schwartz-Weinstein",
-      "wikipedia": {
-        "summary": "The red-breasted merganser is a duck species that is native to much of the temperate to subarctic Northern Hemisphere. The red breast that gives the species its common name is only displayed by males in breeding plumage. Individuals fly rapidly, and feed by diving from the surface to pursue aquatic animals underwater, using serrated bills to capture slippery fish.",
-        "image_url": "assets/cache/wikipedia-images/red-breasted-merganser.jpg",
-        "source": "https://en.wikipedia.org/wiki/Red-breasted_merganser"
-      }
-    },
-    {
-      "id": "Redbreasted_Merganser_Piermont_Pier_Rockland_New_York_United_States_Mar_05_2026_0757",
-      "species": "Red-breasted Merganser",
-      "scientific_name": "Mergus serrator",
-      "location": {
-        "name": "Piermont Pier, Rockland, New York, United States",
-        "lat": 41.0427778,
-        "lng": -73.8975
-      },
-      "date": "Mar 05, 2026 07:57",
-      "observer": "Linda Pistolesi",
       "wikipedia": {
         "summary": "The red-breasted merganser is a duck species that is native to much of the temperate to subarctic Northern Hemisphere. The red breast that gives the species its common name is only displayed by males in breeding plumage. Individuals fly rapidly, and feed by diving from the surface to pursue aquatic animals underwater, using serrated bills to capture slippery fish.",
         "image_url": "assets/cache/wikipedia-images/red-breasted-merganser.jpg",
@@ -2875,16 +3045,50 @@
       }
     },
     {
-      "id": "Wild_Turkey_Home_Nassau_New_York_United_States_Mar_09_2026_1400",
+      "id": "Ruddy_Duck_Nichols_Park_Lake_Spencer_Tioga_New_York_United_States_Mar_09_2026_1121",
+      "species": "Ruddy Duck",
+      "scientific_name": "Oxyura jamaicensis",
+      "location": {
+        "name": "Nichols Park Lake, Spencer, Tioga, New York, United States",
+        "lat": 42.212097,
+        "lng": -76.494751
+      },
+      "date": "Mar 09, 2026 11:21",
+      "observer": "David McCartt",
+      "wikipedia": {
+        "summary": "The ruddy duck is a species of duck in the family Anatidae. The ruddy duck is one of six species within the stiff-tailed ducks. Stiff-tailed ducks occupy heavily vegetated habitats in North and South America as well as the British Isles, France, and Spain.",
+        "image_url": "assets/cache/wikipedia-images/ruddy-duck.jpg",
+        "source": "https://en.wikipedia.org/wiki/Ruddy_duck"
+      }
+    },
+    {
+      "id": "Wild_Turkey_The_Battery_Manhattan_New_York_New_York_United_States_Mar_12_2026_1155",
       "species": "Wild Turkey",
       "scientific_name": "Meleagris gallopavo",
       "location": {
-        "name": "Home, Nassau, New York, United States",
-        "lat": 40.6956578,
-        "lng": -73.4982798
+        "name": "The Battery, Manhattan, New York, New York, United States",
+        "lat": 40.7035452,
+        "lng": -74.0159751
       },
-      "date": "Mar 09, 2026 14:00",
-      "observer": "Shane Etter",
+      "date": "Mar 12, 2026 11:55",
+      "observer": "Michael Waldron",
+      "wikipedia": {
+        "summary": "A wild turkey is a heavy North American gamebird.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Wild_Turkey"
+      }
+    },
+    {
+      "id": "Wild_Turkey_The_Battery_Manhattan_New_York_New_York_United_States_Mar_12_2026_1024",
+      "species": "Wild Turkey",
+      "scientific_name": "Meleagris gallopavo",
+      "location": {
+        "name": "The Battery, Manhattan, New York, New York, United States",
+        "lat": 40.7035452,
+        "lng": -74.0159751
+      },
+      "date": "Mar 12, 2026 10:24",
+      "observer": "Anonymous eBirder",
       "wikipedia": {
         "summary": "A wild turkey is a heavy North American gamebird.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -2918,7 +3122,7 @@
         "lng": -74.0159751
       },
       "date": "Mar 11, 2026 11:04",
-      "observer": "Gary Chapin",
+      "observer": "David Harrison",
       "wikipedia": {
         "summary": "A wild turkey is a heavy North American gamebird.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -2935,24 +3139,7 @@
         "lng": -74.0159751
       },
       "date": "Mar 11, 2026 11:04",
-      "observer": "David Harrison",
-      "wikipedia": {
-        "summary": "A wild turkey is a heavy North American gamebird.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Wild_Turkey"
-      }
-    },
-    {
-      "id": "Wild_Turkey_The_Battery_Manhattan_New_York_New_York_United_States_Mar_09_2026_1738",
-      "species": "Wild Turkey",
-      "scientific_name": "Meleagris gallopavo",
-      "location": {
-        "name": "The Battery, Manhattan, New York, New York, United States",
-        "lat": 40.7035452,
-        "lng": -74.0159751
-      },
-      "date": "Mar 09, 2026 17:38",
-      "observer": "Noemi Shum",
+      "observer": "Gary Chapin",
       "wikipedia": {
         "summary": "A wild turkey is a heavy North American gamebird.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -2977,6 +3164,23 @@
       }
     },
     {
+      "id": "Wild_Turkey_The_Battery_Manhattan_New_York_New_York_United_States_Mar_09_2026_1738",
+      "species": "Wild Turkey",
+      "scientific_name": "Meleagris gallopavo",
+      "location": {
+        "name": "The Battery, Manhattan, New York, New York, United States",
+        "lat": 40.7035452,
+        "lng": -74.0159751
+      },
+      "date": "Mar 09, 2026 17:38",
+      "observer": "Noemi Shum",
+      "wikipedia": {
+        "summary": "A wild turkey is a heavy North American gamebird.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Wild_Turkey"
+      }
+    },
+    {
       "id": "Ringnecked_Pheasant_Berkshire_Rd._Dover_Dutchess_USNY_Dutchess_New_York_United_States_Mar_09_2026_1145",
       "species": "Ring-necked Pheasant",
       "scientific_name": "Phasianus colchicus",
@@ -2987,40 +3191,6 @@
       },
       "date": "Mar 09, 2026 11:45",
       "observer": "Kevin McGrath",
-      "wikipedia": {
-        "summary": "The common pheasant, ring-necked pheasant, or blue-headed pheasant, is a bird in the pheasant family (Phasianidae). The genus name comes from Latin phasianus 'pheasant'. The species name colchicus is Latin for 'of Colchis', a country on the Black Sea where pheasants became known to Europeans.",
-        "image_url": "assets/cache/wikipedia-images/ring-necked-pheasant.jpg",
-        "source": "https://en.wikipedia.org/wiki/Common_pheasant"
-      }
-    },
-    {
-      "id": "Ringnecked_Pheasant_Berkshire_Rd._Dover_Dutchess_USNY_Dutchess_New_York_United_States_Mar_05_2026_1409",
-      "species": "Ring-necked Pheasant",
-      "scientific_name": "Phasianus colchicus",
-      "location": {
-        "name": "Berkshire Rd., Dover, Dutchess, US-NY, Dutchess, New York, United States",
-        "lat": 41.715811,
-        "lng": -73.5596826
-      },
-      "date": "Mar 05, 2026 14:09",
-      "observer": "David Snider",
-      "wikipedia": {
-        "summary": "The common pheasant, ring-necked pheasant, or blue-headed pheasant, is a bird in the pheasant family (Phasianidae). The genus name comes from Latin phasianus 'pheasant'. The species name colchicus is Latin for 'of Colchis', a country on the Black Sea where pheasants became known to Europeans.",
-        "image_url": "assets/cache/wikipedia-images/ring-necked-pheasant.jpg",
-        "source": "https://en.wikipedia.org/wiki/Common_pheasant"
-      }
-    },
-    {
-      "id": "Ringnecked_Pheasant_Fishkill_Creek_/_Clove_Mountain_Rd_Dutchess_New_York_United_States_Mar_05_2026_1320",
-      "species": "Ring-necked Pheasant",
-      "scientific_name": "Phasianus colchicus",
-      "location": {
-        "name": "Fishkill Creek / Clove Mountain Rd, Dutchess, New York, United States",
-        "lat": 41.673047,
-        "lng": -73.675819
-      },
-      "date": "Mar 05, 2026 13:20",
-      "observer": "David Snider",
       "wikipedia": {
         "summary": "The common pheasant, ring-necked pheasant, or blue-headed pheasant, is a bird in the pheasant family (Phasianidae). The genus name comes from Latin phasianus 'pheasant'. The species name colchicus is Latin for 'of Colchis', a country on the Black Sea where pheasants became known to Europeans.",
         "image_url": "assets/cache/wikipedia-images/ring-necked-pheasant.jpg",
@@ -3054,7 +3224,7 @@
         "lng": -76.4577198
       },
       "date": "Mar 08, 2026 13:23",
-      "observer": "Livia Santana",
+      "observer": "Jay McGowan",
       "wikipedia": {
         "summary": "Sandhill Crane (Greater) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -3071,7 +3241,7 @@
         "lng": -76.4577198
       },
       "date": "Mar 08, 2026 13:23",
-      "observer": "Jay McGowan",
+      "observer": "Livia Santana",
       "wikipedia": {
         "summary": "Sandhill Crane (Greater) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -3089,6 +3259,23 @@
       },
       "date": "Mar 09, 2026 10:24",
       "observer": "Diane Morton",
+      "wikipedia": {
+        "summary": "The sandhill crane is a species complex of large cranes of North America and extreme northeastern Siberia. The common name of this bird refers to its habitat, such as the Platte River, on the edge of Nebraska's Sandhills on the American Great Plains. Sandhill cranes are known to frequent the edges of bodies of water.",
+        "image_url": "assets/cache/wikipedia-images/sandhill-crane.jpg",
+        "source": "https://en.wikipedia.org/wiki/Sandhill_crane"
+      }
+    },
+    {
+      "id": "Sandhill_Crane_Cornell_UniversityBeebe_Lake_Tompkins_New_York_United_States_Mar_08_2026_1615",
+      "species": "Sandhill Crane",
+      "scientific_name": "Antigone canadensis",
+      "location": {
+        "name": "Cornell University--Beebe Lake, Tompkins, New York, United States",
+        "lat": 42.4512932,
+        "lng": -76.4767515
+      },
+      "date": "Mar 08, 2026 16:15",
+      "observer": "Rajan Rao",
       "wikipedia": {
         "summary": "The sandhill crane is a species complex of large cranes of North America and extreme northeastern Siberia. The common name of this bird refers to its habitat, such as the Platte River, on the edge of Nebraska's Sandhills on the American Great Plains. Sandhill cranes are known to frequent the edges of bodies of water.",
         "image_url": "assets/cache/wikipedia-images/sandhill-crane.jpg",
@@ -3241,7 +3428,7 @@
         "lng": -73.5514346
       },
       "date": "Mar 08, 2026 11:24",
-      "observer": "Emmily Bottari",
+      "observer": "Ethan Crane",
       "wikipedia": {
         "summary": "The piping plover is a sand-colored, sparrow-sized shorebird that nests and feeds along coastal sand and gravel beaches in North America. The adult has yellow-orange-red legs, a black band across the forehead from eye to eye, and a black stripe running along the breast line. This chest band is usually thicker in males during the breeding season, and it is the only reliable way to tell the sexes apart.",
         "image_url": "assets/cache/wikipedia-images/piping-plover.jpg",
@@ -3258,7 +3445,7 @@
         "lng": -73.5514346
       },
       "date": "Mar 08, 2026 11:24",
-      "observer": "Ethan Crane",
+      "observer": "Emmily Bottari",
       "wikipedia": {
         "summary": "The piping plover is a sand-colored, sparrow-sized shorebird that nests and feeds along coastal sand and gravel beaches in North America. The adult has yellow-orange-red legs, a black band across the forehead from eye to eye, and a black stripe running along the breast line. This chest band is usually thicker in males during the breeding season, and it is the only reliable way to tell the sexes apart.",
         "image_url": "assets/cache/wikipedia-images/piping-plover.jpg",
@@ -3343,7 +3530,7 @@
         "lng": -73.9557961
       },
       "date": "Mar 09, 2026 09:09",
-      "observer": "John Dow",
+      "observer": "Moe Lehmann",
       "wikipedia": {
         "summary": "Wilson's snipe is a small, stocky shorebird. The generic name Gallinago is Neo-Latin for a woodcock or snipe from Latin gallina, \"hen\" and the suffix -ago, \"resembling\". The specific name delicata is Latin for \"dainty\".",
         "image_url": "assets/cache/wikipedia-images/wilsons-snipe.jpg",
@@ -3360,7 +3547,7 @@
         "lng": -73.9557961
       },
       "date": "Mar 09, 2026 09:09",
-      "observer": "Moe Lehmann",
+      "observer": "John Dow",
       "wikipedia": {
         "summary": "Wilson's snipe is a small, stocky shorebird. The generic name Gallinago is Neo-Latin for a woodcock or snipe from Latin gallina, \"hen\" and the suffix -ago, \"resembling\". The specific name delicata is Latin for \"dainty\".",
         "image_url": "assets/cache/wikipedia-images/wilsons-snipe.jpg",
@@ -3487,57 +3674,6 @@
       }
     },
     {
-      "id": "Purple_Sandpiper_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_05_2026_1130",
-      "species": "Purple Sandpiper",
-      "scientific_name": "Calidris maritima",
-      "location": {
-        "name": "Governors Island (N.Y. County), New York, New York, United States",
-        "lat": 40.6885372,
-        "lng": -74.0189759
-      },
-      "date": "Mar 05, 2026 11:30",
-      "observer": "Louis Wong",
-      "wikipedia": {
-        "summary": "The purple sandpiper is a small shorebird in the sandpiper family Scolopacidae. This is a hardy sandpiper that breeds in the arctic and subarctic regions of Eurasia and North America and winters further south on the Atlantic coast.",
-        "image_url": "assets/cache/wikipedia-images/purple-sandpiper.jpg",
-        "source": "https://en.wikipedia.org/wiki/Purple_sandpiper"
-      }
-    },
-    {
-      "id": "Purple_Sandpiper_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_05_2026_1038",
-      "species": "Purple Sandpiper",
-      "scientific_name": "Calidris maritima",
-      "location": {
-        "name": "Governors Island (N.Y. County), New York, New York, United States",
-        "lat": 40.6885372,
-        "lng": -74.0189759
-      },
-      "date": "Mar 05, 2026 10:38",
-      "observer": "David Anderson",
-      "wikipedia": {
-        "summary": "The purple sandpiper is a small shorebird in the sandpiper family Scolopacidae. This is a hardy sandpiper that breeds in the arctic and subarctic regions of Eurasia and North America and winters further south on the Atlantic coast.",
-        "image_url": "assets/cache/wikipedia-images/purple-sandpiper.jpg",
-        "source": "https://en.wikipedia.org/wiki/Purple_sandpiper"
-      }
-    },
-    {
-      "id": "Purple_Sandpiper_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_05_2026_1038",
-      "species": "Purple Sandpiper",
-      "scientific_name": "Calidris maritima",
-      "location": {
-        "name": "Governors Island (N.Y. County), New York, New York, United States",
-        "lat": 40.6885372,
-        "lng": -74.0189759
-      },
-      "date": "Mar 05, 2026 10:38",
-      "observer": "Matthew Brandel",
-      "wikipedia": {
-        "summary": "The purple sandpiper is a small shorebird in the sandpiper family Scolopacidae. This is a hardy sandpiper that breeds in the arctic and subarctic regions of Eurasia and North America and winters further south on the Atlantic coast.",
-        "image_url": "assets/cache/wikipedia-images/purple-sandpiper.jpg",
-        "source": "https://en.wikipedia.org/wiki/Purple_sandpiper"
-      }
-    },
-    {
       "id": "Purple_Sandpiper_Randalls_Island_New_York_New_York_United_States_Mar_11_2026_1355",
       "species": "Purple Sandpiper",
       "scientific_name": "Calidris maritima",
@@ -3598,7 +3734,7 @@
         "lng": -72.4781388
       },
       "date": "Mar 07, 2026 07:55",
-      "observer": "Elias Markee-Ratner",
+      "observer": "Patrick Markee",
       "wikipedia": {
         "summary": "The common murre or common guillemot is a large auk, one of several species called murre or guillemot. It has a circumpolar distribution, occurring in low-Arctic and boreal waters in the North Atlantic and North Pacific. It spends most of its time at sea, only coming to land to breed on rocky cliff shores or islands.",
         "image_url": "assets/cache/wikipedia-images/common-murre.jpg",
@@ -3615,7 +3751,7 @@
         "lng": -72.4781388
       },
       "date": "Mar 07, 2026 07:55",
-      "observer": "Patrick Markee",
+      "observer": "Elias Markee-Ratner",
       "wikipedia": {
         "summary": "The common murre or common guillemot is a large auk, one of several species called murre or guillemot. It has a circumpolar distribution, occurring in low-Arctic and boreal waters in the North Atlantic and North Pacific. It spends most of its time at sea, only coming to land to breed on rocky cliff shores or islands.",
         "image_url": "assets/cache/wikipedia-images/common-murre.jpg",
@@ -3632,24 +3768,7 @@
         "lng": -77.6685781
       },
       "date": "Mar 07, 2026 08:25",
-      "observer": "Chris Wood",
-      "wikipedia": {
-        "summary": "The black-legged kittiwake is a seabird species in the gull family Laridae. This species was first described by Carl Linnaeus in his landmark 1758 10th edition of Systema Naturae as Larus tridactylus. The English name is derived from its call, a shrill 'kittee-wa-aaake, kitte-wa-aaake'.",
-        "image_url": "assets/cache/wikipedia-images/black-legged-kittiwake.jpg",
-        "source": "https://en.wikipedia.org/wiki/Black-legged_kittiwake"
-      }
-    },
-    {
-      "id": "Blacklegged_Kittiwake_Edgemere_Drive_(1710)_Monroe_New_York_United_States_Mar_07_2026_0825",
-      "species": "Black-legged Kittiwake",
-      "scientific_name": "Rissa tridactyla",
-      "location": {
-        "name": "Edgemere Drive (1710), Monroe, New York, United States",
-        "lat": 43.2872722,
-        "lng": -77.6685781
-      },
-      "date": "Mar 07, 2026 08:25",
-      "observer": "Ashwin Viswanathan",
+      "observer": "Mitchell Barry",
       "wikipedia": {
         "summary": "The black-legged kittiwake is a seabird species in the gull family Laridae. This species was first described by Carl Linnaeus in his landmark 1758 10th edition of Systema Naturae as Larus tridactylus. The English name is derived from its call, a shrill 'kittee-wa-aaake, kitte-wa-aaake'.",
         "image_url": "assets/cache/wikipedia-images/black-legged-kittiwake.jpg",
@@ -3683,7 +3802,24 @@
         "lng": -77.6685781
       },
       "date": "Mar 07, 2026 08:25",
-      "observer": "Mitchell Barry",
+      "observer": "Chris Wood",
+      "wikipedia": {
+        "summary": "The black-legged kittiwake is a seabird species in the gull family Laridae. This species was first described by Carl Linnaeus in his landmark 1758 10th edition of Systema Naturae as Larus tridactylus. The English name is derived from its call, a shrill 'kittee-wa-aaake, kitte-wa-aaake'.",
+        "image_url": "assets/cache/wikipedia-images/black-legged-kittiwake.jpg",
+        "source": "https://en.wikipedia.org/wiki/Black-legged_kittiwake"
+      }
+    },
+    {
+      "id": "Blacklegged_Kittiwake_Edgemere_Drive_(1710)_Monroe_New_York_United_States_Mar_07_2026_0825",
+      "species": "Black-legged Kittiwake",
+      "scientific_name": "Rissa tridactyla",
+      "location": {
+        "name": "Edgemere Drive (1710), Monroe, New York, United States",
+        "lat": 43.2872722,
+        "lng": -77.6685781
+      },
+      "date": "Mar 07, 2026 08:25",
+      "observer": "Ashwin Viswanathan",
       "wikipedia": {
         "summary": "The black-legged kittiwake is a seabird species in the gull family Laridae. This species was first described by Carl Linnaeus in his landmark 1758 10th edition of Systema Naturae as Larus tridactylus. The English name is derived from its call, a shrill 'kittee-wa-aaake, kitte-wa-aaake'.",
         "image_url": "assets/cache/wikipedia-images/black-legged-kittiwake.jpg",
@@ -3759,23 +3895,6 @@
       }
     },
     {
-      "id": "Laughing_Gull_Islip_Town_Beach_Suffolk_New_York_United_States_Mar_11_2026_1100",
-      "species": "Laughing Gull",
-      "scientific_name": "Leucophaeus atricilla",
-      "location": {
-        "name": "Islip Town Beach, Suffolk, New York, United States",
-        "lat": 40.7064988,
-        "lng": -73.2142387
-      },
-      "date": "Mar 11, 2026 11:00",
-      "observer": "Ken Feustel",
-      "wikipedia": {
-        "summary": "The laughing gull is a medium-sized gull of North and South America. Named from its laugh-like call, it is an opportunistic omnivore and scavenger. It breeds in large colonies mostly along the Atlantic coast of North America, the Caribbean, and northern South America.",
-        "image_url": "assets/cache/wikipedia-images/laughing-gull.jpg",
-        "source": "https://en.wikipedia.org/wiki/Laughing_gull"
-      }
-    },
-    {
       "id": "Laughing_Gull_Jamaica_Bay_Wildlife_Refuge_Queens_New_York_United_States_Mar_11_2026_1551",
       "species": "Laughing Gull",
       "scientific_name": "Leucophaeus atricilla",
@@ -3786,6 +3905,23 @@
       },
       "date": "Mar 11, 2026 15:51",
       "observer": "Drew B",
+      "wikipedia": {
+        "summary": "The laughing gull is a medium-sized gull of North and South America. Named from its laugh-like call, it is an opportunistic omnivore and scavenger. It breeds in large colonies mostly along the Atlantic coast of North America, the Caribbean, and northern South America.",
+        "image_url": "assets/cache/wikipedia-images/laughing-gull.jpg",
+        "source": "https://en.wikipedia.org/wiki/Laughing_gull"
+      }
+    },
+    {
+      "id": "Laughing_Gull_Jamaica_Bay_Wildlife_RefugeTerrapin_Point_Brooklyn_Kings_New_York_United_States_Mar_12_2026_0709",
+      "species": "Laughing Gull",
+      "scientific_name": "Leucophaeus atricilla",
+      "location": {
+        "name": "Jamaica Bay Wildlife Refuge--Terrapin Point, Brooklyn, Kings, New York, United States",
+        "lat": 40.6157648,
+        "lng": -73.8349968
+      },
+      "date": "Mar 12, 2026 07:09",
+      "observer": "Richard Fleming",
       "wikipedia": {
         "summary": "The laughing gull is a medium-sized gull of North and South America. Named from its laugh-like call, it is an opportunistic omnivore and scavenger. It breeds in large colonies mostly along the Atlantic coast of North America, the Caribbean, and northern South America.",
         "image_url": "assets/cache/wikipedia-images/laughing-gull.jpg",
@@ -3820,6 +3956,23 @@
       },
       "date": "Mar 11, 2026 13:08",
       "observer": "Jennifer Wilson-Pines",
+      "wikipedia": {
+        "summary": "The laughing gull is a medium-sized gull of North and South America. Named from its laugh-like call, it is an opportunistic omnivore and scavenger. It breeds in large colonies mostly along the Atlantic coast of North America, the Caribbean, and northern South America.",
+        "image_url": "assets/cache/wikipedia-images/laughing-gull.jpg",
+        "source": "https://en.wikipedia.org/wiki/Laughing_gull"
+      }
+    },
+    {
+      "id": "Laughing_Gull_Tanner_Park_Copiague_Suffolk_New_York_United_States_Mar_12_2026_1035",
+      "species": "Laughing Gull",
+      "scientific_name": "Leucophaeus atricilla",
+      "location": {
+        "name": "Tanner Park, Copiague, Suffolk, New York, United States",
+        "lat": 40.6584003,
+        "lng": -73.3958458
+      },
+      "date": "Mar 12, 2026 10:35",
+      "observer": "Gale Athan",
       "wikipedia": {
         "summary": "The laughing gull is a medium-sized gull of North and South America. Named from its laugh-like call, it is an opportunistic omnivore and scavenger. It breeds in large colonies mostly along the Atlantic coast of North America, the Caribbean, and northern South America.",
         "image_url": "assets/cache/wikipedia-images/laughing-gull.jpg",
@@ -3895,6 +4048,23 @@
       }
     },
     {
+      "id": "Glaucous_Gull_Brooklyn_Army_Terminal_Pier_4_Kings_New_York_United_States_Mar_08_2026_1201",
+      "species": "Glaucous Gull",
+      "scientific_name": "Larus hyperboreus",
+      "location": {
+        "name": "Brooklyn Army Terminal Pier 4, Kings, New York, United States",
+        "lat": 40.646519,
+        "lng": -74.026074
+      },
+      "date": "Mar 08, 2026 12:01",
+      "observer": "Casey Ferio",
+      "wikipedia": {
+        "summary": "The glaucous gull is a large gull, the second-largest gull in the world. The genus name is from Latin larus, which appears to have referred to a gull or other large seabird. The specific name hyperboreus is Latin for \"northern\" from the Ancient Greek Huperboreoi people from the far north \"Glaucous\" is from Latin glaucus and denotes the grey colour of the gull.",
+        "image_url": "assets/cache/wikipedia-images/glaucous-gull.jpg",
+        "source": "https://en.wikipedia.org/wiki/Glaucous_gull"
+      }
+    },
+    {
       "id": "Glaucous_Gull_Bush_Terminal_Piers_Park_Kings_New_York_United_States_Mar_09_2026_1322",
       "species": "Glaucous Gull",
       "scientific_name": "Larus hyperboreus",
@@ -3946,20 +4116,37 @@
       }
     },
     {
-      "id": "Glaucous_Gull_Central_ParkJacqueline_Kennedy_Onassis_Reservoir_New_York_New_York_United_States_Mar_11_2026_1604",
+      "id": "Glaucous_Gull_Cumberland_Head_Ferry_Dock_Clinton_New_York_United_States_Mar_06_2026_1421",
       "species": "Glaucous Gull",
       "scientific_name": "Larus hyperboreus",
       "location": {
-        "name": "Central Park--Jacqueline Kennedy Onassis Reservoir, New York, New York, United States",
-        "lat": 40.786003,
-        "lng": -73.96196
+        "name": "Cumberland Head Ferry Dock, Clinton, New York, United States",
+        "lat": 44.6984258,
+        "lng": -73.3806843
       },
-      "date": "Mar 11, 2026 16:04",
-      "observer": "Anonymous eBirder",
+      "date": "Mar 06, 2026 14:21",
+      "observer": "Richard MacDonald",
       "wikipedia": {
         "summary": "The glaucous gull is a large gull, the second-largest gull in the world. The genus name is from Latin larus, which appears to have referred to a gull or other large seabird. The specific name hyperboreus is Latin for \"northern\" from the Ancient Greek Huperboreoi people from the far north \"Glaucous\" is from Latin glaucus and denotes the grey colour of the gull.",
         "image_url": "assets/cache/wikipedia-images/glaucous-gull.jpg",
         "source": "https://en.wikipedia.org/wiki/Glaucous_gull"
+      }
+    },
+    {
+      "id": "Lesser_Blackbacked_Gull_Brooklyn_Army_Terminal_Pier_4_Kings_New_York_United_States_Mar_09_2026_0838",
+      "species": "Lesser Black-backed Gull",
+      "scientific_name": "Larus fuscus",
+      "location": {
+        "name": "Brooklyn Army Terminal Pier 4, Kings, New York, United States",
+        "lat": 40.646519,
+        "lng": -74.026074
+      },
+      "date": "Mar 09, 2026 08:38",
+      "observer": "Austin Johnson",
+      "wikipedia": {
+        "summary": "The lesser black-backed gull is a large gull that breeds on the Atlantic and Arctic coasts of Europe. It is migratory, wintering from the British Isles south to West Africa. However, it has increased dramatically in North America, especially along the east coast.",
+        "image_url": "assets/cache/wikipedia-images/lesser-black-backed-gull.jpg",
+        "source": "https://en.wikipedia.org/wiki/Lesser_black-backed_gull"
       }
     },
     {
@@ -4006,24 +4193,7 @@
         "lng": -73.4414417
       },
       "date": "Mar 10, 2026 11:17",
-      "observer": "Mar Bodine",
-      "wikipedia": {
-        "summary": "The lesser black-backed gull is a large gull that breeds on the Atlantic and Arctic coasts of Europe. It is migratory, wintering from the British Isles south to West Africa. However, it has increased dramatically in North America, especially along the east coast.",
-        "image_url": "assets/cache/wikipedia-images/lesser-black-backed-gull.jpg",
-        "source": "https://en.wikipedia.org/wiki/Lesser_black-backed_gull"
-      }
-    },
-    {
-      "id": "Lesser_Blackbacked_Gull_Plattsburgh_Boat_Basin_and_Marina_Clinton_New_York_United_States_Mar_10_2026_1117",
-      "species": "Lesser Black-backed Gull",
-      "scientific_name": "Larus fuscus",
-      "location": {
-        "name": "Plattsburgh Boat Basin and Marina, Clinton, New York, United States",
-        "lat": 44.6971333,
-        "lng": -73.4414417
-      },
-      "date": "Mar 10, 2026 11:17",
-      "observer": "Patricia Chartier",
+      "observer": "Jennie Sausville",
       "wikipedia": {
         "summary": "The lesser black-backed gull is a large gull that breeds on the Atlantic and Arctic coasts of Europe. It is migratory, wintering from the British Isles south to West Africa. However, it has increased dramatically in North America, especially along the east coast.",
         "image_url": "assets/cache/wikipedia-images/lesser-black-backed-gull.jpg",
@@ -4057,7 +4227,7 @@
         "lng": -73.4414417
       },
       "date": "Mar 10, 2026 11:17",
-      "observer": "Jennie Sausville",
+      "observer": "Mar Bodine",
       "wikipedia": {
         "summary": "The lesser black-backed gull is a large gull that breeds on the Atlantic and Arctic coasts of Europe. It is migratory, wintering from the British Isles south to West Africa. However, it has increased dramatically in North America, especially along the east coast.",
         "image_url": "assets/cache/wikipedia-images/lesser-black-backed-gull.jpg",
@@ -4065,54 +4235,20 @@
       }
     },
     {
-      "id": "American_Herring_x_Lesser_Blackbacked_Gull_(hybrid)_Stevenson_Rd._Game_Farm_and_Compost_Tompkins_New_York_United_States_Mar_05_2026_1508",
-      "species": "American Herring x Lesser Black-backed Gull (hybrid)",
-      "scientific_name": "Larus smithsonianus x fuscus",
+      "id": "Lesser_Blackbacked_Gull_Plattsburgh_Boat_Basin_and_Marina_Clinton_New_York_United_States_Mar_10_2026_1117",
+      "species": "Lesser Black-backed Gull",
+      "scientific_name": "Larus fuscus",
       "location": {
-        "name": "Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",
-        "lat": 42.4467995,
-        "lng": -76.4406126
+        "name": "Plattsburgh Boat Basin and Marina, Clinton, New York, United States",
+        "lat": 44.6971333,
+        "lng": -73.4414417
       },
-      "date": "Mar 05, 2026 15:08",
-      "observer": "John Askildsen",
+      "date": "Mar 10, 2026 11:17",
+      "observer": "Patricia Chartier",
       "wikipedia": {
-        "summary": "American Herring x Lesser Black-backed Gull (hybrid) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "American_Herring_x_Lesser_Blackbacked_Gull_(hybrid)_Stevenson_Rd._Game_Farm_and_Compost_Tompkins_New_York_United_States_Mar_05_2026_1508",
-      "species": "American Herring x Lesser Black-backed Gull (hybrid)",
-      "scientific_name": "Larus smithsonianus x fuscus",
-      "location": {
-        "name": "Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",
-        "lat": 42.4467995,
-        "lng": -76.4406126
-      },
-      "date": "Mar 05, 2026 15:08",
-      "observer": "Chris Tessaglia-Hymes",
-      "wikipedia": {
-        "summary": "American Herring x Lesser Black-backed Gull (hybrid) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "American_Herring_x_Lesser_Blackbacked_Gull_(hybrid)_Stevenson_Rd._Game_Farm_and_Compost_Tompkins_New_York_United_States_Mar_05_2026_0848",
-      "species": "American Herring x Lesser Black-backed Gull (hybrid)",
-      "scientific_name": "Larus smithsonianus x fuscus",
-      "location": {
-        "name": "Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",
-        "lat": 42.4467995,
-        "lng": -76.4406126
-      },
-      "date": "Mar 05, 2026 08:48",
-      "observer": "Stephen Menzie",
-      "wikipedia": {
-        "summary": "American Herring x Lesser Black-backed Gull (hybrid) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
+        "summary": "The lesser black-backed gull is a large gull that breeds on the Atlantic and Arctic coasts of Europe. It is migratory, wintering from the British Isles south to West Africa. However, it has increased dramatically in North America, especially along the east coast.",
+        "image_url": "assets/cache/wikipedia-images/lesser-black-backed-gull.jpg",
+        "source": "https://en.wikipedia.org/wiki/Lesser_black-backed_gull"
       }
     },
     {
@@ -4159,7 +4295,7 @@
         "lng": -76.4406126
       },
       "date": "Mar 06, 2026 09:19",
-      "observer": "Alison Van Keuren",
+      "observer": "Jane Graves",
       "wikipedia": {
         "summary": "The glaucous-winged gull is a large, white-headed gull. The genus name is from Latin Larus which appears to have referred to a gull or other large seabird. The specific glaucescens is Neo-Latin for \"glaucous\" from the Ancient Greek, glaukos, denoting the grey color of its wings.",
         "image_url": "assets/cache/wikipedia-images/glaucous-winged-gull.jpg",
@@ -4176,7 +4312,7 @@
         "lng": -76.4406126
       },
       "date": "Mar 06, 2026 09:19",
-      "observer": "Jane Graves",
+      "observer": "Alison Van Keuren",
       "wikipedia": {
         "summary": "The glaucous-winged gull is a large, white-headed gull. The genus name is from Latin Larus which appears to have referred to a gull or other large seabird. The specific glaucescens is Neo-Latin for \"glaucous\" from the Ancient Greek, glaukos, denoting the grey color of its wings.",
         "image_url": "assets/cache/wikipedia-images/glaucous-winged-gull.jpg",
@@ -4184,37 +4320,20 @@
       }
     },
     {
-      "id": "Glaucouswinged_Gull_Stevenson_Rd._Game_Farm_and_Compost_Tompkins_New_York_United_States_Mar_05_2026_1041",
-      "species": "Glaucous-winged Gull",
-      "scientific_name": "Larus glaucescens",
+      "id": "Iceland_Gull_Brooklyn_Army_Terminal_Pier_4_Kings_New_York_United_States_Mar_12_2026_0738",
+      "species": "Iceland Gull",
+      "scientific_name": "Larus glaucoides",
       "location": {
-        "name": "Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",
-        "lat": 42.4467995,
-        "lng": -76.4406126
+        "name": "Brooklyn Army Terminal Pier 4, Kings, New York, United States",
+        "lat": 40.646519,
+        "lng": -74.026074
       },
-      "date": "Mar 05, 2026 10:41",
-      "observer": "Omyia Damaj",
+      "date": "Mar 12, 2026 07:38",
+      "observer": "Tom Preston",
       "wikipedia": {
-        "summary": "The glaucous-winged gull is a large, white-headed gull. The genus name is from Latin Larus which appears to have referred to a gull or other large seabird. The specific glaucescens is Neo-Latin for \"glaucous\" from the Ancient Greek, glaukos, denoting the grey color of its wings.",
-        "image_url": "assets/cache/wikipedia-images/glaucous-winged-gull.jpg",
-        "source": "https://en.wikipedia.org/wiki/Glaucous-winged_gull"
-      }
-    },
-    {
-      "id": "Glaucouswinged_Gull_Stevenson_Rd._Game_Farm_and_Compost_Tompkins_New_York_United_States_Mar_05_2026_1041",
-      "species": "Glaucous-winged Gull",
-      "scientific_name": "Larus glaucescens",
-      "location": {
-        "name": "Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",
-        "lat": 42.4467995,
-        "lng": -76.4406126
-      },
-      "date": "Mar 05, 2026 10:41",
-      "observer": "Tyler Olson",
-      "wikipedia": {
-        "summary": "The glaucous-winged gull is a large, white-headed gull. The genus name is from Latin Larus which appears to have referred to a gull or other large seabird. The specific glaucescens is Neo-Latin for \"glaucous\" from the Ancient Greek, glaukos, denoting the grey color of its wings.",
-        "image_url": "assets/cache/wikipedia-images/glaucous-winged-gull.jpg",
-        "source": "https://en.wikipedia.org/wiki/Glaucous-winged_gull"
+        "summary": "The Iceland gull is a medium-sized gull that breeds in the Arctic regions of Canada and Greenland, but not in Iceland, where it is only seen during winter. The genus name is from Latin larus, which appears to have referred to a gull or other large seabird. The specific name glaucoides denotes its resemblance to Larus glaucus, a synonym of Larus hyperboreus, the glaucous gull; -oides is Ancient Greek and means \"resembling\".",
+        "image_url": "assets/cache/wikipedia-images/iceland-gull.jpg",
+        "source": "https://en.wikipedia.org/wiki/Iceland_gull"
       }
     },
     {
@@ -4371,40 +4490,6 @@
       }
     },
     {
-      "id": "Iceland_Gull_(kumlieni)_Ceasar's_Bay_Bazaar_Kings_New_York_United_States_Mar_05_2026_0818",
-      "species": "Iceland Gull (kumlieni)",
-      "scientific_name": "Larus glaucoides kumlieni",
-      "location": {
-        "name": "Ceasar's Bay Bazaar, Kings, New York, United States",
-        "lat": 40.5942621,
-        "lng": -74.0017768
-      },
-      "date": "Mar 05, 2026 08:18",
-      "observer": "Jenn Lodi-Smith Hebrank",
-      "wikipedia": {
-        "summary": "Iceland Gull (kumlieni) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "Iceland_Gull_(kumlieni)_Ceasar's_Bay_Bazaar_Kings_New_York_United_States_Mar_05_2026_0818",
-      "species": "Iceland Gull (kumlieni)",
-      "scientific_name": "Larus glaucoides kumlieni",
-      "location": {
-        "name": "Ceasar's Bay Bazaar, Kings, New York, United States",
-        "lat": 40.5942621,
-        "lng": -74.0017768
-      },
-      "date": "Mar 05, 2026 08:18",
-      "observer": "Joseph Trezza",
-      "wikipedia": {
-        "summary": "Iceland Gull (kumlieni) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
       "id": "Iceland_Gull_(kumlieni)_Conesus_Lake_Livingston_New_York_United_States_Mar_10_2026_1405",
       "species": "Iceland Gull (kumlieni)",
       "scientific_name": "Larus glaucoides kumlieni",
@@ -4419,23 +4504,6 @@
         "summary": "Iceland Gull (kumlieni) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": ""
-      }
-    },
-    {
-      "id": "Iceland_Gull_Dockside_Park_Putnam_New_York_United_States_Mar_09_2026_0721",
-      "species": "Iceland Gull",
-      "scientific_name": "Larus glaucoides",
-      "location": {
-        "name": "Dockside Park, Putnam, New York, United States",
-        "lat": 41.4181766,
-        "lng": -73.9615133
-      },
-      "date": "Mar 09, 2026 07:21",
-      "observer": "Charlie Roberto",
-      "wikipedia": {
-        "summary": "The Iceland gull is a medium-sized gull that breeds in the Arctic regions of Canada and Greenland, but not in Iceland, where it is only seen during winter. The genus name is from Latin larus, which appears to have referred to a gull or other large seabird. The specific name glaucoides denotes its resemblance to Larus glaucus, a synonym of Larus hyperboreus, the glaucous gull; -oides is Ancient Greek and means \"resembling\".",
-        "image_url": "assets/cache/wikipedia-images/iceland-gull.jpg",
-        "source": "https://en.wikipedia.org/wiki/Iceland_gull"
       }
     },
     {
@@ -4490,23 +4558,6 @@
       }
     },
     {
-      "id": "Iceland_Gull_(Thayer's)_Stevenson_Rd._Game_Farm_and_Compost_Tompkins_New_York_United_States_Mar_08_2026_0808",
-      "species": "Iceland Gull (Thayer's)",
-      "scientific_name": "Larus glaucoides thayeri",
-      "location": {
-        "name": "Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",
-        "lat": 42.4467995,
-        "lng": -76.4406126
-      },
-      "date": "Mar 08, 2026 08:08",
-      "observer": "Menachem Goldstein",
-      "wikipedia": {
-        "summary": "Iceland Gull (Thayer's) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
       "id": "Iceland_Gull_(Thayer's)_Stevenson_Rd._Game_Farm_and_Compost_Tompkins_New_York_United_States_Mar_06_2026_0905",
       "species": "Iceland Gull (Thayer's)",
       "scientific_name": "Larus glaucoides thayeri",
@@ -4533,7 +4584,7 @@
         "lng": -76.4406126
       },
       "date": "Mar 06, 2026 08:56",
-      "observer": "Mat Gilfedder",
+      "observer": "Jay McGowan",
       "wikipedia": {
         "summary": "Iceland Gull (thayeri/kumlieni) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -4567,58 +4618,7 @@
         "lng": -76.4406126
       },
       "date": "Mar 06, 2026 08:56",
-      "observer": "Jay McGowan",
-      "wikipedia": {
-        "summary": "Iceland Gull (thayeri/kumlieni) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "Iceland_Gull_(Thayer's)_Stevenson_Rd._Game_Farm_and_Compost_Tompkins_New_York_United_States_Mar_05_2026_1318",
-      "species": "Iceland Gull (Thayer's)",
-      "scientific_name": "Larus glaucoides thayeri",
-      "location": {
-        "name": "Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",
-        "lat": 42.4467995,
-        "lng": -76.4406126
-      },
-      "date": "Mar 05, 2026 13:18",
-      "observer": "Andrew Whetten",
-      "wikipedia": {
-        "summary": "Iceland Gull (Thayer's) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "Iceland_Gull_(Thayer's)_Stevenson_Rd._Game_Farm_and_Compost_Tompkins_New_York_United_States_Mar_05_2026_1055",
-      "species": "Iceland Gull (Thayer's)",
-      "scientific_name": "Larus glaucoides thayeri",
-      "location": {
-        "name": "Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",
-        "lat": 42.4467995,
-        "lng": -76.4406126
-      },
-      "date": "Mar 05, 2026 10:55",
-      "observer": "J Gary Kohlenberg",
-      "wikipedia": {
-        "summary": "Iceland Gull (Thayer's) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "Iceland_Gull_(thayeri/kumlieni)_Stevenson_Rd._Game_Farm_and_Compost_Tompkins_New_York_United_States_Mar_05_2026_0848",
-      "species": "Iceland Gull (thayeri/kumlieni)",
-      "scientific_name": "Larus glaucoides thayeri/kumlieni",
-      "location": {
-        "name": "Stevenson Rd. Game Farm and Compost, Tompkins, New York, United States",
-        "lat": 42.4467995,
-        "lng": -76.4406126
-      },
-      "date": "Mar 05, 2026 08:48",
-      "observer": "Stephen Menzie",
+      "observer": "Mat Gilfedder",
       "wikipedia": {
         "summary": "Iceland Gull (thayeri/kumlieni) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -4706,7 +4706,7 @@
       "observer": "Heydi Lopes",
       "wikipedia": {
         "summary": "The red-necked grebe is an aquatic bird found in the temperate regions of the northern hemisphere. A migratory bird, its wintering habitat is largely restricted to calm waters just beyond the waves around ocean coasts, although some birds may winter on large lakes. Grebes prefer shallow bodies of fresh water such as lakes, marshes or fish-ponds as breeding sites.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/red-necked-grebe.jpg",
         "source": "https://en.wikipedia.org/wiki/Red-necked_grebe"
       }
     },
@@ -4723,24 +4723,7 @@
       "observer": "Tom Preston",
       "wikipedia": {
         "summary": "The red-necked grebe is an aquatic bird found in the temperate regions of the northern hemisphere. A migratory bird, its wintering habitat is largely restricted to calm waters just beyond the waves around ocean coasts, although some birds may winter on large lakes. Grebes prefer shallow bodies of fresh water such as lakes, marshes or fish-ponds as breeding sites.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Red-necked_grebe"
-      }
-    },
-    {
-      "id": "Rednecked_Grebe_Floyd_Bennett_Field_Kings_New_York_United_States_Mar_08_2026_1544",
-      "species": "Red-necked Grebe",
-      "scientific_name": "Podiceps grisegena",
-      "location": {
-        "name": "Floyd Bennett Field, Kings, New York, United States",
-        "lat": 40.5923453,
-        "lng": -73.8914328
-      },
-      "date": "Mar 08, 2026 15:44",
-      "observer": "Gab C",
-      "wikipedia": {
-        "summary": "The red-necked grebe is an aquatic bird found in the temperate regions of the northern hemisphere. A migratory bird, its wintering habitat is largely restricted to calm waters just beyond the waves around ocean coasts, although some birds may winter on large lakes. Grebes prefer shallow bodies of fresh water such as lakes, marshes or fish-ponds as breeding sites.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/red-necked-grebe.jpg",
         "source": "https://en.wikipedia.org/wiki/Red-necked_grebe"
       }
     },
@@ -4757,24 +4740,24 @@
       "observer": "Ant Tab",
       "wikipedia": {
         "summary": "The red-necked grebe is an aquatic bird found in the temperate regions of the northern hemisphere. A migratory bird, its wintering habitat is largely restricted to calm waters just beyond the waves around ocean coasts, although some birds may winter on large lakes. Grebes prefer shallow bodies of fresh water such as lakes, marshes or fish-ponds as breeding sites.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/red-necked-grebe.jpg",
         "source": "https://en.wikipedia.org/wiki/Red-necked_grebe"
       }
     },
     {
-      "id": "Rednecked_Grebe_Old_Field_Point_and_Lighthouse_Suffolk_New_York_United_States_Mar_10_2026_0936",
+      "id": "Rednecked_Grebe_Floyd_Bennett_Field_Kings_New_York_United_States_Mar_08_2026_1544",
       "species": "Red-necked Grebe",
       "scientific_name": "Podiceps grisegena",
       "location": {
-        "name": "Old Field Point and Lighthouse, Suffolk, New York, United States",
-        "lat": 40.9773181,
-        "lng": -73.1186217
+        "name": "Floyd Bennett Field, Kings, New York, United States",
+        "lat": 40.5923453,
+        "lng": -73.8914328
       },
-      "date": "Mar 10, 2026 09:36",
-      "observer": "Hanyang Ye",
+      "date": "Mar 08, 2026 15:44",
+      "observer": "Gab C",
       "wikipedia": {
         "summary": "The red-necked grebe is an aquatic bird found in the temperate regions of the northern hemisphere. A migratory bird, its wintering habitat is largely restricted to calm waters just beyond the waves around ocean coasts, although some birds may winter on large lakes. Grebes prefer shallow bodies of fresh water such as lakes, marshes or fish-ponds as breeding sites.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/red-necked-grebe.jpg",
         "source": "https://en.wikipedia.org/wiki/Red-necked_grebe"
       }
     },
@@ -4791,25 +4774,42 @@
       "observer": "Aidan Perkins",
       "wikipedia": {
         "summary": "The red-necked grebe is an aquatic bird found in the temperate regions of the northern hemisphere. A migratory bird, its wintering habitat is largely restricted to calm waters just beyond the waves around ocean coasts, although some birds may winter on large lakes. Grebes prefer shallow bodies of fresh water such as lakes, marshes or fish-ponds as breeding sites.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/red-necked-grebe.jpg",
         "source": "https://en.wikipedia.org/wiki/Red-necked_grebe"
       }
     },
     {
-      "id": "Pacific_Loon_Jones_Beach_SPCoast_Guard_Station_Nassau_New_York_United_States_Mar_07_2026_1100",
-      "species": "Pacific Loon",
-      "scientific_name": "Gavia pacifica",
+      "id": "Rednecked_Grebe_Old_Field_Point_and_Lighthouse_Suffolk_New_York_United_States_Mar_10_2026_0936",
+      "species": "Red-necked Grebe",
+      "scientific_name": "Podiceps grisegena",
       "location": {
-        "name": "Jones Beach SP--Coast Guard Station, Nassau, New York, United States",
-        "lat": 40.5888889,
-        "lng": -73.5566667
+        "name": "Old Field Point and Lighthouse, Suffolk, New York, United States",
+        "lat": 40.9773181,
+        "lng": -73.1186217
       },
-      "date": "Mar 07, 2026 11:00",
-      "observer": "Larry Gaugler",
+      "date": "Mar 10, 2026 09:36",
+      "observer": "Hanyang Ye",
       "wikipedia": {
-        "summary": "The Pacific loon or Pacific diver is a medium-sized member of the loon, or diver, family.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Pacific_loon"
+        "summary": "The red-necked grebe is an aquatic bird found in the temperate regions of the northern hemisphere. A migratory bird, its wintering habitat is largely restricted to calm waters just beyond the waves around ocean coasts, although some birds may winter on large lakes. Grebes prefer shallow bodies of fresh water such as lakes, marshes or fish-ponds as breeding sites.",
+        "image_url": "assets/cache/wikipedia-images/red-necked-grebe.jpg",
+        "source": "https://en.wikipedia.org/wiki/Red-necked_grebe"
+      }
+    },
+    {
+      "id": "Redthroated_Loon_Silver_Lake_(Wyoming_Co.)_south_Wyoming_New_York_United_States_Mar_12_2026_1625",
+      "species": "Red-throated Loon",
+      "scientific_name": "Gavia stellata",
+      "location": {
+        "name": "Silver Lake (Wyoming Co.), south, Wyoming, New York, United States",
+        "lat": 42.6814259,
+        "lng": -78.0434418
+      },
+      "date": "Mar 12, 2026 16:25",
+      "observer": "Rick Stevens",
+      "wikipedia": {
+        "summary": "The red-throated loon or red-throated diver is a migratory aquatic bird found in the Northern Hemisphere. The most widely distributed member of the loon or diver family, it breeds primarily in Arctic regions, and it winters in northern coastal waters. Ranging from 55 to 67 centimetres in length, the red-throated loon is the smallest and lightest of the world's loons.",
+        "image_url": "assets/cache/wikipedia-images/red-throated-loon.jpg",
+        "source": "https://en.wikipedia.org/wiki/Red-throated_loon"
       }
     },
     {
@@ -4912,23 +4912,6 @@
         "summary": "The Pacific loon or Pacific diver is a medium-sized member of the loon, or diver, family.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Pacific_loon"
-      }
-    },
-    {
-      "id": "American_Bittern_Ramp_Suffolk_New_York_United_States_Mar_08_2026_1935",
-      "species": "American Bittern",
-      "scientific_name": "Botaurus lentiginosus",
-      "location": {
-        "name": "Ramp, Suffolk, New York, United States",
-        "lat": 40.7492722,
-        "lng": -72.9972725
-      },
-      "date": "Mar 08, 2026 19:35",
-      "observer": "Christina DeVito",
-      "wikipedia": {
-        "summary": "The American bittern is a species of wading bird in the heron family. It has a Nearctic distribution, breeding in Canada and the northern and central parts of the United States, and wintering in the U.S. Gulf Coast states, all of Florida into the Everglades, the Caribbean islands and parts of Central America.",
-        "image_url": "assets/cache/wikipedia-images/american-bittern.jpg",
-        "source": "https://en.wikipedia.org/wiki/American_bittern"
       }
     },
     {
@@ -5153,16 +5136,16 @@
       }
     },
     {
-      "id": "Osprey_Flushing_Meadows_Corona_ParkMeadow_Lake_Queens_New_York_United_States_Mar_10_2026_1200",
+      "id": "Osprey_Anthony_F._Veteran_Park_Westchester_New_York_United_States_Mar_12_2026_1646",
       "species": "Osprey",
       "scientific_name": "Pandion haliaetus",
       "location": {
-        "name": "Flushing Meadows Corona Park--Meadow Lake, Queens, New York, United States",
-        "lat": 40.7351876,
-        "lng": -73.8404751
+        "name": "Anthony F. Veteran Park, Westchester, New York, United States",
+        "lat": 41.0201531,
+        "lng": -73.8245945
       },
-      "date": "Mar 10, 2026 12:00",
-      "observer": "terry VP",
+      "date": "Mar 12, 2026 16:46",
+      "observer": "Christopher Eliot",
       "wikipedia": {
         "summary": "The osprey, historically known as sea hawk, river hawk, and fish hawk, is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60 cm (24 in) in length and a wingspan of 180 cm (71 in). It is brown on the upperparts and predominantly greyish on the head and underparts.",
         "image_url": "assets/cache/wikipedia-images/osprey.jpg",
@@ -5170,16 +5153,16 @@
       }
     },
     {
-      "id": "Osprey_Jamaica_Bay_North_Channel_Bridge_Queens_New_York_United_States_Mar_10_2026_1015",
+      "id": "Osprey_KLT’s_Forest_Sanctuary_Ulster_New_York_United_States_Mar_12_2026_1749",
       "species": "Osprey",
       "scientific_name": "Pandion haliaetus",
       "location": {
-        "name": "Jamaica Bay, North Channel Bridge, Queens, New York, United States",
-        "lat": 40.638525,
-        "lng": -73.8325786
+        "name": "KLT’s Forest Sanctuary, Ulster, New York, United States",
+        "lat": 41.924763,
+        "lng": -73.982138
       },
-      "date": "Mar 10, 2026 10:15",
-      "observer": "Jonathan Green",
+      "date": "Mar 12, 2026 17:49",
+      "observer": "Tom O'Dowd",
       "wikipedia": {
         "summary": "The osprey, historically known as sea hawk, river hawk, and fish hawk, is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60 cm (24 in) in length and a wingspan of 180 cm (71 in). It is brown on the upperparts and predominantly greyish on the head and underparts.",
         "image_url": "assets/cache/wikipedia-images/osprey.jpg",
@@ -5187,16 +5170,16 @@
       }
     },
     {
-      "id": "Osprey_Marine_Nature_Study_Area_Nassau_New_York_United_States_Mar_11_2026_1310",
+      "id": "Osprey_Oceanside_Marine_Nature_Study_Area_Nassau_New_York_United_States_Mar_12_2026_1046",
       "species": "Osprey",
       "scientific_name": "Pandion haliaetus",
       "location": {
-        "name": "Marine Nature Study Area, Nassau, New York, United States",
-        "lat": 40.622594,
-        "lng": -73.622089
+        "name": "Oceanside Marine Nature Study Area, Nassau, New York, United States",
+        "lat": 40.6233726,
+        "lng": -73.6242225
       },
-      "date": "Mar 11, 2026 13:10",
-      "observer": "Joseph Paolino",
+      "date": "Mar 12, 2026 10:46",
+      "observer": "Richard Haimes",
       "wikipedia": {
         "summary": "The osprey, historically known as sea hawk, river hawk, and fish hawk, is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60 cm (24 in) in length and a wingspan of 180 cm (71 in). It is brown on the upperparts and predominantly greyish on the head and underparts.",
         "image_url": "assets/cache/wikipedia-images/osprey.jpg",
@@ -5238,33 +5221,16 @@
       }
     },
     {
-      "id": "Osprey_Oceanside_Marine_Nature_Study_Area_Nassau_New_York_United_States_Mar_11_2026_1200",
+      "id": "Osprey_Tomhannock_Reservoir_Otter_Creek_Inlet_Rensselaer_New_York_United_States_Mar_12_2026_1744",
       "species": "Osprey",
       "scientific_name": "Pandion haliaetus",
       "location": {
-        "name": "Oceanside Marine Nature Study Area, Nassau, New York, United States",
-        "lat": 40.6233726,
-        "lng": -73.6242225
+        "name": "Tomhannock Reservoir, Otter Creek Inlet, Rensselaer, New York, United States",
+        "lat": 42.8678496,
+        "lng": -73.5566425
       },
-      "date": "Mar 11, 2026 12:00",
-      "observer": "Tom Fesolowich",
-      "wikipedia": {
-        "summary": "The osprey, historically known as sea hawk, river hawk, and fish hawk, is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60 cm (24 in) in length and a wingspan of 180 cm (71 in). It is brown on the upperparts and predominantly greyish on the head and underparts.",
-        "image_url": "assets/cache/wikipedia-images/osprey.jpg",
-        "source": "https://en.wikipedia.org/wiki/Osprey"
-      }
-    },
-    {
-      "id": "Osprey_Old_Erie_Canal_SHPFayetteville_Widewaters_Onondaga_New_York_United_States_Mar_09_2026_1320",
-      "species": "Osprey",
-      "scientific_name": "Pandion haliaetus",
-      "location": {
-        "name": "Old Erie Canal SHP--Fayetteville Widewaters, Onondaga, New York, United States",
-        "lat": 43.0443506,
-        "lng": -76.0099733
-      },
-      "date": "Mar 09, 2026 13:20",
-      "observer": "Scott  Trefz",
+      "date": "Mar 12, 2026 17:44",
+      "observer": "Tim Case",
       "wikipedia": {
         "summary": "The osprey, historically known as sea hawk, river hawk, and fish hawk, is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60 cm (24 in) in length and a wingspan of 180 cm (71 in). It is brown on the upperparts and predominantly greyish on the head and underparts.",
         "image_url": "assets/cache/wikipedia-images/osprey.jpg",
@@ -5282,23 +5248,6 @@
       },
       "date": "Mar 08, 2026 15:15",
       "observer": "Nicole Richardson",
-      "wikipedia": {
-        "summary": "The golden eagle is a bird of prey living in the Northern Hemisphere. It is the most widely distributed species of eagle. Like all eagles, it belongs to the family Accipitridae.",
-        "image_url": "assets/cache/wikipedia-images/golden-eagle.jpg",
-        "source": "https://en.wikipedia.org/wiki/Golden_eagle"
-      }
-    },
-    {
-      "id": "Golden_Eagle_Aurora_Brewing_Company_Cayuga_New_York_United_States_Mar_08_2026_1515",
-      "species": "Golden Eagle",
-      "scientific_name": "Aquila chrysaetos",
-      "location": {
-        "name": "Aurora Brewing Company, Cayuga, New York, United States",
-        "lat": 42.7099132,
-        "lng": -76.6824879
-      },
-      "date": "Mar 08, 2026 15:15",
-      "observer": "Brian Sullivan",
       "wikipedia": {
         "summary": "The golden eagle is a bird of prey living in the Northern Hemisphere. It is the most widely distributed species of eagle. Like all eagles, it belongs to the family Accipitridae.",
         "image_url": "assets/cache/wikipedia-images/golden-eagle.jpg",
@@ -5367,6 +5316,23 @@
       },
       "date": "Mar 10, 2026 17:00",
       "observer": "David Nicosia",
+      "wikipedia": {
+        "summary": "The golden eagle is a bird of prey living in the Northern Hemisphere. It is the most widely distributed species of eagle. Like all eagles, it belongs to the family Accipitridae.",
+        "image_url": "assets/cache/wikipedia-images/golden-eagle.jpg",
+        "source": "https://en.wikipedia.org/wiki/Golden_eagle"
+      }
+    },
+    {
+      "id": "Golden_Eagle_Tupper_Lake_OverlookSouth_Franklin_New_York_United_States_Mar_12_2026_1347",
+      "species": "Golden Eagle",
+      "scientific_name": "Aquila chrysaetos",
+      "location": {
+        "name": "Tupper Lake Overlook--South, Franklin, New York, United States",
+        "lat": 44.201224,
+        "lng": -74.470881
+      },
+      "date": "Mar 12, 2026 13:47",
+      "observer": "Nicolas Main",
       "wikipedia": {
         "summary": "The golden eagle is a bird of prey living in the Northern Hemisphere. It is the most widely distributed species of eagle. Like all eagles, it belongs to the family Accipitridae.",
         "image_url": "assets/cache/wikipedia-images/golden-eagle.jpg",
@@ -5488,7 +5454,7 @@
       "observer": "John Gluth",
       "wikipedia": {
         "summary": "The red-shouldered hawk is a medium-sized buteo. Its breeding range spans eastern North America and along the coast of California and northern to northeastern-central Mexico. It is a permanent resident throughout most of its range, though northern birds do migrate, mostly to central Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/red-shouldered-hawk.jpg",
         "source": "https://en.wikipedia.org/wiki/Red-shouldered_hawk"
       }
     },
@@ -5505,7 +5471,7 @@
       "observer": "Reet Tagger",
       "wikipedia": {
         "summary": "The red-shouldered hawk is a medium-sized buteo. Its breeding range spans eastern North America and along the coast of California and northern to northeastern-central Mexico. It is a permanent resident throughout most of its range, though northern birds do migrate, mostly to central Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/red-shouldered-hawk.jpg",
         "source": "https://en.wikipedia.org/wiki/Red-shouldered_hawk"
       }
     },
@@ -5522,7 +5488,7 @@
       "observer": "Reet Tagger",
       "wikipedia": {
         "summary": "The red-shouldered hawk is a medium-sized buteo. Its breeding range spans eastern North America and along the coast of California and northern to northeastern-central Mexico. It is a permanent resident throughout most of its range, though northern birds do migrate, mostly to central Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/red-shouldered-hawk.jpg",
         "source": "https://en.wikipedia.org/wiki/Red-shouldered_hawk"
       }
     },
@@ -5539,7 +5505,7 @@
       "observer": "Andrew Leidig",
       "wikipedia": {
         "summary": "The red-shouldered hawk is a medium-sized buteo. Its breeding range spans eastern North America and along the coast of California and northern to northeastern-central Mexico. It is a permanent resident throughout most of its range, though northern birds do migrate, mostly to central Mexico.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/red-shouldered-hawk.jpg",
         "source": "https://en.wikipedia.org/wiki/Red-shouldered_hawk"
       }
     },
@@ -5646,23 +5612,6 @@
       }
     },
     {
-      "id": "Snowy_Owl_Boughton_Park_East_Bloomfield_Ontario_New_York_United_States_Mar_05_2026_0929",
-      "species": "Snowy Owl",
-      "scientific_name": "Bubo scandiacus",
-      "location": {
-        "name": "Boughton Park, East Bloomfield, Ontario, New York, United States",
-        "lat": 42.9374488,
-        "lng": -77.4408245
-      },
-      "date": "Mar 05, 2026 09:29",
-      "observer": "Claudia Walsh",
-      "wikipedia": {
-        "summary": "The snowy owl, also known as the polar owl, the white owl and the Arctic owl, is a large, white owl of the true owl family. Snowy owls are native to the Arctic regions of both North America and the Palearctic, breeding mostly on the tundra. It has a number of unique adaptations to its habitat and lifestyle, which are quite distinct from other extant owls.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Snowy_owl"
-      }
-    },
-    {
       "id": "Shorteared_Owl_Tifft_Nature_Preserve_Erie_New_York_United_States_Mar_10_2026_1834",
       "species": "Short-eared Owl",
       "scientific_name": "Asio flammeus",
@@ -5728,23 +5677,6 @@
         "summary": "The northern saw-whet owl is a species of small owl in the family Strigidae. The species is native to North America. Saw-whet owls of the genus Aegolius are some of the smallest owl species in North America.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Northern_saw-whet_owl"
-      }
-    },
-    {
-      "id": "Yellowbellied_Sapsucker_Hamilton_College_(Campus_Grounds)_Oneida_New_York_United_States_Mar_05_2026_1219",
-      "species": "Yellow-bellied Sapsucker",
-      "scientific_name": "Sphyrapicus varius",
-      "location": {
-        "name": "Hamilton College (Campus Grounds), Oneida, New York, United States",
-        "lat": 43.051435,
-        "lng": -75.407146
-      },
-      "date": "Mar 05, 2026 12:19",
-      "observer": "J.D. Ross",
-      "wikipedia": {
-        "summary": "The yellow-bellied sapsucker is a medium-sized woodpecker that breeds in Canada and the northeastern United States.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Yellow-bellied_sapsucker"
       }
     },
     {
@@ -5867,6 +5799,23 @@
       }
     },
     {
+      "id": "Redheaded_Woodpecker_Marshlands_Conservancy_Westchester_New_York_United_States_Mar_10_2026_1239",
+      "species": "Red-headed Woodpecker",
+      "scientific_name": "Melanerpes erythrocephalus",
+      "location": {
+        "name": "Marshlands Conservancy, Westchester, New York, United States",
+        "lat": 40.9560952,
+        "lng": -73.7037651
+      },
+      "date": "Mar 10, 2026 12:39",
+      "observer": "Barry Capella",
+      "wikipedia": {
+        "summary": "The red-headed woodpecker is a mid-sized woodpecker found in temperate North America. Its breeding habitat is open country across southern Canada and the east-central United States. It is rated as least concern on the International Union for Conservation of Nature (IUCN)'s Red List of Endangered species, having been down-listed from near threatened in 2018.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Red-headed_woodpecker"
+      }
+    },
+    {
       "id": "Redheaded_Woodpecker_Marshlands_Conservancy_Rye_USNY_40.95593_73.70380_Westchester_New_York_United_States_Mar_10_2026_1652",
       "species": "Red-headed Woodpecker",
       "scientific_name": "Melanerpes erythrocephalus",
@@ -5918,33 +5867,16 @@
       }
     },
     {
-      "id": "Monk_Parakeet_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_08_2026_1222",
-      "species": "Monk Parakeet",
-      "scientific_name": "Myiopsitta monachus",
-      "location": {
-        "name": "Governors Island (N.Y. County), New York, New York, United States",
-        "lat": 40.6885372,
-        "lng": -74.0189759
-      },
-      "date": "Mar 08, 2026 12:22",
-      "observer": "Matthew Eisenson",
-      "wikipedia": {
-        "summary": "The monk parakeet, also known as the monk parrot or Quaker parrot, is a species of true parrot in the family Psittacidae. It is a small to medium, bright-green parrot with a greyish breast and greenish-yellow abdomen. Its average lifespan is approximately 15 years.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Monk_parakeet"
-      }
-    },
-    {
-      "id": "Eastern_Phoebe_Central_Park_New_York_New_York_United_States_Mar_11_2026_1442",
+      "id": "Eastern_Phoebe_309_Knickerbocker_Rd_Schaghticoke_USNY_(42.915373.6487)_Rensselaer_New_York_United_States_Mar_12_2026_0842",
       "species": "Eastern Phoebe",
       "scientific_name": "Sayornis phoebe",
       "location": {
-        "name": "Central Park, New York, New York, United States",
-        "lat": 40.7715482,
-        "lng": -73.9724819
+        "name": "309 Knickerbocker Rd, Schaghticoke US-NY (42.9153,-73.6487), Rensselaer, New York, United States",
+        "lat": 42.915277,
+        "lng": -73.64875
       },
-      "date": "Mar 11, 2026 14:42",
-      "observer": "D. Bruce Yolton",
+      "date": "Mar 12, 2026 08:42",
+      "observer": "Jim de Waal Malefyt",
       "wikipedia": {
         "summary": "The eastern phoebe is a small passerine bird. The genus name Sayornis is constructed from the specific part of Charles Lucien Bonaparte's name for Say's phoebe, Muscicapa saya, and Ancient Greek ornis, \"bird\". Phoebe is an alternative name for the Roman moon-goddess Diana, but it may also have been chosen to imitate the bird's call.",
         "image_url": "assets/cache/wikipedia-images/eastern-phoebe.jpg",
@@ -5952,16 +5884,16 @@
       }
     },
     {
-      "id": "Eastern_Phoebe_Central_Park_New_York_USNY_40.78533_73.96648_New_York_New_York_United_States_Mar_11_2026_1602",
+      "id": "Eastern_Phoebe_51_Edie_Road_Saratoga_Springs_New_York_US_(43.109_73.704)_Saratoga_New_York_United_States_Mar_12_2026_1344",
       "species": "Eastern Phoebe",
       "scientific_name": "Sayornis phoebe",
       "location": {
-        "name": "Central Park, New York US-NY 40.78533, -73.96648, New York, New York, United States",
-        "lat": 40.785327,
-        "lng": -73.96648
+        "name": "51 Edie Road, Saratoga Springs, New York, US (43.109, -73.704), Saratoga, New York, United States",
+        "lat": 43.1092168,
+        "lng": -73.7040863
       },
-      "date": "Mar 11, 2026 16:02",
-      "observer": "Anonymous eBirder",
+      "date": "Mar 12, 2026 13:44",
+      "observer": "Karen Miller",
       "wikipedia": {
         "summary": "The eastern phoebe is a small passerine bird. The genus name Sayornis is constructed from the specific part of Charles Lucien Bonaparte's name for Say's phoebe, Muscicapa saya, and Ancient Greek ornis, \"bird\". Phoebe is an alternative name for the Roman moon-goddess Diana, but it may also have been chosen to imitate the bird's call.",
         "image_url": "assets/cache/wikipedia-images/eastern-phoebe.jpg",
@@ -5986,16 +5918,16 @@
       }
     },
     {
-      "id": "Eastern_Phoebe_Jones_Beach_SPCoast_Guard_Station_Nassau_New_York_United_States_Mar_11_2026_1647",
+      "id": "Eastern_Phoebe_Hudson_Crossing_Park_Saratoga_New_York_United_States_Mar_12_2026_1149",
       "species": "Eastern Phoebe",
       "scientific_name": "Sayornis phoebe",
       "location": {
-        "name": "Jones Beach SP--Coast Guard Station, Nassau, New York, United States",
-        "lat": 40.5888889,
-        "lng": -73.5566667
+        "name": "Hudson Crossing Park, Saratoga, New York, United States",
+        "lat": 43.1155261,
+        "lng": -73.577908
       },
-      "date": "Mar 11, 2026 16:47",
-      "observer": "Jared P",
+      "date": "Mar 12, 2026 11:49",
+      "observer": "Richard DeMartino",
       "wikipedia": {
         "summary": "The eastern phoebe is a small passerine bird. The genus name Sayornis is constructed from the specific part of Charles Lucien Bonaparte's name for Say's phoebe, Muscicapa saya, and Ancient Greek ornis, \"bird\". Phoebe is an alternative name for the Roman moon-goddess Diana, but it may also have been chosen to imitate the bird's call.",
         "image_url": "assets/cache/wikipedia-images/eastern-phoebe.jpg",
@@ -6020,16 +5952,16 @@
       }
     },
     {
-      "id": "Eastern_Phoebe_Prestons_Pond_CalvertonNY_Suffolk_New_York_United_States_Mar_11_2026_1505",
+      "id": "Eastern_Phoebe_Jones_Beach_SPCoast_Guard_Station_Nassau_New_York_United_States_Mar_11_2026_1647",
       "species": "Eastern Phoebe",
       "scientific_name": "Sayornis phoebe",
       "location": {
-        "name": "Prestons Pond, Calverton,NY, Suffolk, New York, United States",
-        "lat": 40.9032475,
-        "lng": -72.819938
+        "name": "Jones Beach SP--Coast Guard Station, Nassau, New York, United States",
+        "lat": 40.5888889,
+        "lng": -73.5566667
       },
-      "date": "Mar 11, 2026 15:05",
-      "observer": "michael walter",
+      "date": "Mar 11, 2026 16:47",
+      "observer": "Jared P",
       "wikipedia": {
         "summary": "The eastern phoebe is a small passerine bird. The genus name Sayornis is constructed from the specific part of Charles Lucien Bonaparte's name for Say's phoebe, Muscicapa saya, and Ancient Greek ornis, \"bird\". Phoebe is an alternative name for the Roman moon-goddess Diana, but it may also have been chosen to imitate the bird's call.",
         "image_url": "assets/cache/wikipedia-images/eastern-phoebe.jpg",
@@ -6054,33 +5986,16 @@
       }
     },
     {
-      "id": "Northern_Shrike_13569_Railroad_Rd_Savannah_USNY_(43.060476.7420)_Wayne_New_York_United_States_Mar_06_2026_1338",
+      "id": "Northern_Shrike_Montezuma_(NMWMA)Carncross_Rd._Wayne_New_York_United_States_Mar_12_2026_1700",
       "species": "Northern Shrike",
       "scientific_name": "Lanius borealis",
       "location": {
-        "name": "13569 Railroad Rd, Savannah US-NY (43.0604,-76.7420), Wayne, New York, United States",
-        "lat": 43.060385,
-        "lng": -76.741968
+        "name": "Montezuma (NMWMA)--Carncross Rd., Wayne, New York, United States",
+        "lat": 43.0787739,
+        "lng": -76.7080184
       },
-      "date": "Mar 06, 2026 13:38",
-      "observer": "Chris Tessaglia-Hymes",
-      "wikipedia": {
-        "summary": "The northern shrike is a large songbird species in the shrike family (Laniidae) native to North America and Siberia. Long considered a subspecies of the great grey shrike, it was classified as a distinct species in 2017. Six subspecies are recognised.",
-        "image_url": "assets/cache/wikipedia-images/northern-shrike.jpg",
-        "source": "https://en.wikipedia.org/wiki/Northern_shrike"
-      }
-    },
-    {
-      "id": "Northern_Shrike_Chaphe_Hill_Rd_area_Madison_New_York_United_States_Mar_07_2026_1402",
-      "species": "Northern Shrike",
-      "scientific_name": "Lanius borealis",
-      "location": {
-        "name": "Chaphe Hill Rd area, Madison, New York, United States",
-        "lat": 42.8599343,
-        "lng": -75.7322574
-      },
-      "date": "Mar 07, 2026 14:02",
-      "observer": "Kevin Pace",
+      "date": "Mar 12, 2026 17:00",
+      "observer": "Carmen Gumina",
       "wikipedia": {
         "summary": "The northern shrike is a large songbird species in the shrike family (Laniidae) native to North America and Siberia. Long considered a subspecies of the great grey shrike, it was classified as a distinct species in 2017. Six subspecies are recognised.",
         "image_url": "assets/cache/wikipedia-images/northern-shrike.jpg",
@@ -6139,6 +6054,23 @@
       }
     },
     {
+      "id": "Northern_Shrike_Tillman_Rd._WMA_Erie_New_York_United_States_Mar_12_2026_1335",
+      "species": "Northern Shrike",
+      "scientific_name": "Lanius borealis",
+      "location": {
+        "name": "Tillman Rd. WMA, Erie, New York, United States",
+        "lat": 42.9656289,
+        "lng": -78.6090731
+      },
+      "date": "Mar 12, 2026 13:35",
+      "observer": "Jennifer Caughel",
+      "wikipedia": {
+        "summary": "The northern shrike is a large songbird species in the shrike family (Laniidae) native to North America and Siberia. Long considered a subspecies of the great grey shrike, it was classified as a distinct species in 2017. Six subspecies are recognised.",
+        "image_url": "assets/cache/wikipedia-images/northern-shrike.jpg",
+        "source": "https://en.wikipedia.org/wiki/Northern_shrike"
+      }
+    },
+    {
       "id": "Fish_Crow_Actual_home_1_Herkimer_New_York_United_States_Mar_09_2026_1005",
       "species": "Fish Crow",
       "scientific_name": "Corvus ossifragus",
@@ -6149,6 +6081,40 @@
       },
       "date": "Mar 09, 2026 10:05",
       "observer": "Roberta Sampere",
+      "wikipedia": {
+        "summary": "The fish crow is a species of crow associated with wetland habitats in the eastern and southeastern United States.",
+        "image_url": "assets/cache/wikipedia-images/fish-crow.jpg",
+        "source": "https://en.wikipedia.org/wiki/Fish_crow"
+      }
+    },
+    {
+      "id": "Fish_Crow_Beaver_Island_SP_Erie_New_York_United_States_Mar_12_2026_1337",
+      "species": "Fish Crow",
+      "scientific_name": "Corvus ossifragus",
+      "location": {
+        "name": "Beaver Island SP, Erie, New York, United States",
+        "lat": 42.9643762,
+        "lng": -78.9500361
+      },
+      "date": "Mar 12, 2026 13:37",
+      "observer": "Rick Thomas",
+      "wikipedia": {
+        "summary": "The fish crow is a species of crow associated with wetland habitats in the eastern and southeastern United States.",
+        "image_url": "assets/cache/wikipedia-images/fish-crow.jpg",
+        "source": "https://en.wikipedia.org/wiki/Fish_crow"
+      }
+    },
+    {
+      "id": "Fish_Crow_Beaver_Island_SPBeaver_Island_Beach_Erie_New_York_United_States_Mar_12_2026_1307",
+      "species": "Fish Crow",
+      "scientific_name": "Corvus ossifragus",
+      "location": {
+        "name": "Beaver Island SP--Beaver Island Beach, Erie, New York, United States",
+        "lat": 42.9596625,
+        "lng": -78.9514475
+      },
+      "date": "Mar 12, 2026 13:07",
+      "observer": "Rebecca Ploeger",
       "wikipedia": {
         "summary": "The fish crow is a species of crow associated with wetland habitats in the eastern and southeastern United States.",
         "image_url": "assets/cache/wikipedia-images/fish-crow.jpg",
@@ -6217,23 +6183,6 @@
       },
       "date": "Mar 09, 2026 13:38",
       "observer": "Dave Nutter",
-      "wikipedia": {
-        "summary": "The fish crow is a species of crow associated with wetland habitats in the eastern and southeastern United States.",
-        "image_url": "assets/cache/wikipedia-images/fish-crow.jpg",
-        "source": "https://en.wikipedia.org/wiki/Fish_crow"
-      }
-    },
-    {
-      "id": "Fish_Crow_Woodlawn_Beach_SP_Erie_New_York_United_States_Mar_08_2026_0800",
-      "species": "Fish Crow",
-      "scientific_name": "Corvus ossifragus",
-      "location": {
-        "name": "Woodlawn Beach SP, Erie, New York, United States",
-        "lat": 42.790592,
-        "lng": -78.850687
-      },
-      "date": "Mar 08, 2026 08:00",
-      "observer": "Charlie Kaars",
       "wikipedia": {
         "summary": "The fish crow is a species of crow associated with wetland habitats in the eastern and southeastern United States.",
         "image_url": "assets/cache/wikipedia-images/fish-crow.jpg",
@@ -6343,6 +6292,23 @@
       }
     },
     {
+      "id": "Tree_Swallow_Stewart_Park_Tompkins_New_York_United_States_Mar_10_2026_1700",
+      "species": "Tree Swallow",
+      "scientific_name": "Tachycineta bicolor",
+      "location": {
+        "name": "Stewart Park, Tompkins, New York, United States",
+        "lat": 42.460791,
+        "lng": -76.5068525
+      },
+      "date": "Mar 10, 2026 17:00",
+      "observer": "Kevin Ebert",
+      "wikipedia": {
+        "summary": "The tree swallow is a migratory bird of the family Hirundinidae. Found in the Americas, the tree swallow was first described in 1807 by French ornithologist Louis Vieillot as Hirundo bicolor. It has since been moved to its current genus, Tachycineta, within which its phylogenetic placement is debated.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Tree_swallow"
+      }
+    },
+    {
       "id": "Barn_Swallow_Derby_Hill_Hawk_WatchNorth_Lookout_Oswego_New_York_United_States_Mar_07_2026_1154",
       "species": "Barn Swallow",
       "scientific_name": "Hirundo rustica",
@@ -6369,7 +6335,7 @@
         "lng": -76.2393397
       },
       "date": "Mar 07, 2026 11:54",
-      "observer": "Kayla Fisk",
+      "observer": "Melinda Fisk",
       "wikipedia": {
         "summary": "The barn swallow is the most widespread species of swallow in the world, occurring on all continents, with vagrants reported even in Antarctica. It is a distinctive passerine bird with blue upperparts and a long, deeply forked tail. In Anglophone Europe, it is just called the swallow; in northern Europe, it is the only member of family Hirundinidae called a \"swallow\" rather than a \"martin\".",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -6386,7 +6352,7 @@
         "lng": -76.2393397
       },
       "date": "Mar 07, 2026 11:54",
-      "observer": "Melinda Fisk",
+      "observer": "Kayla Fisk",
       "wikipedia": {
         "summary": "The barn swallow is the most widespread species of swallow in the world, occurring on all continents, with vagrants reported even in Antarctica. It is a distinctive passerine bird with blue upperparts and a long, deeply forked tail. In Anglophone Europe, it is just called the swallow; in northern Europe, it is the only member of family Hirundinidae called a \"swallow\" rather than a \"martin\".",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -6479,40 +6445,6 @@
       }
     },
     {
-      "id": "Marsh_Wren_Leeds_Pond_Preserve_Nassau_New_York_United_States_Mar_11_2026_1124",
-      "species": "Marsh Wren",
-      "scientific_name": "Cistothorus palustris",
-      "location": {
-        "name": "Leeds Pond Preserve, Nassau, New York, United States",
-        "lat": 40.8148604,
-        "lng": -73.7008044
-      },
-      "date": "Mar 11, 2026 11:24",
-      "observer": "Richard Haimes",
-      "wikipedia": {
-        "summary": "The marsh wren is a small North American songbird of the wren family. It was formerly called the long-billed marsh wren to distinguish it from the sedge wren, then known as the short-billed marsh wren.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Marsh_wren"
-      }
-    },
-    {
-      "id": "Marsh_Wren_Smith_Point_County_Park_Suffolk_New_York_United_States_Mar_11_2026_1002",
-      "species": "Marsh Wren",
-      "scientific_name": "Cistothorus palustris",
-      "location": {
-        "name": "Smith Point County Park, Suffolk, New York, United States",
-        "lat": 40.7352017,
-        "lng": -72.8641286
-      },
-      "date": "Mar 11, 2026 10:02",
-      "observer": "Richard Haimes",
-      "wikipedia": {
-        "summary": "The marsh wren is a small North American songbird of the wren family. It was formerly called the long-billed marsh wren to distinguish it from the sedge wren, then known as the short-billed marsh wren.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Marsh_wren"
-      }
-    },
-    {
       "id": "Marsh_Wren_Snyder_Dr._powerlines_Niagara_New_York_United_States_Mar_07_2026_1522",
       "species": "Marsh Wren",
       "scientific_name": "Cistothorus palustris",
@@ -6581,6 +6513,23 @@
       }
     },
     {
+      "id": "Brown_Thrasher_House_Cattaraugus_New_York_United_States_Mar_12_2026_0900",
+      "species": "Brown Thrasher",
+      "scientific_name": "Toxostoma rufum",
+      "location": {
+        "name": "House, Cattaraugus, New York, United States",
+        "lat": 42.295541,
+        "lng": -78.783215
+      },
+      "date": "Mar 12, 2026 09:00",
+      "observer": "Milo Pike",
+      "wikipedia": {
+        "summary": "The brown thrasher, sometimes erroneously called the brown thrush or fox-coloured thrush, is a bird in the family Mimidae, which also includes the New World catbirds and mockingbirds. The brown thrasher is abundant throughout the eastern and central United States and southern and central Canada, and it is the only thrasher to live primarily east of the Rockies and central Texas. It is the state bird of Georgia.",
+        "image_url": "assets/cache/wikipedia-images/brown-thrasher.jpg",
+        "source": "https://en.wikipedia.org/wiki/Brown_thrasher"
+      }
+    },
+    {
       "id": "Northern_Mockingbird_31_Macomb_Street_Plattsburgh_New_York_US_(44.695_73.445)_Clinton_New_York_United_States_Mar_10_2026_1045",
       "species": "Northern Mockingbird",
       "scientific_name": "Mimus polyglottos",
@@ -6590,7 +6539,7 @@
         "lng": -73.445139
       },
       "date": "Mar 10, 2026 10:45",
-      "observer": "Patricia Chartier",
+      "observer": "Betsy Miner",
       "wikipedia": {
         "summary": "The northern mockingbird is a mockingbird commonly found in North America, of the family Mimidae. The species is also found in some parts of the Caribbean, as well as on the Hawaiian Islands. It is typically a permanent resident across much of its range, but northern mockingbirds may move farther south during inclement weather or prior to the onset of winter.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -6607,7 +6556,7 @@
         "lng": -73.445139
       },
       "date": "Mar 10, 2026 10:45",
-      "observer": "Betsy Miner",
+      "observer": "Patricia Chartier",
       "wikipedia": {
         "summary": "The northern mockingbird is a mockingbird commonly found in North America, of the family Mimidae. The species is also found in some parts of the Caribbean, as well as on the Hawaiian Islands. It is typically a permanent resident across much of its range, but northern mockingbirds may move farther south during inclement weather or prior to the onset of winter.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -6785,16 +6734,33 @@
       }
     },
     {
-      "id": "Evening_Grosbeak_156_Fox_Hill_Road_Northville_New_York_US_(43.199_74.062)_Saratoga_New_York_United_States_Mar_10_2026_1135",
+      "id": "Evening_Grosbeak_11069_State_Route_12__yard_around_house_Oneida_New_York_United_States_Mar_12_2026_0640",
       "species": "Evening Grosbeak",
       "scientific_name": "Hesperiphona vespertina",
       "location": {
-        "name": "156 Fox Hill Road, Northville, New York, US (43.199, -74.062), Saratoga, New York, United States",
-        "lat": 43.1989162,
-        "lng": -74.0618189
+        "name": "11069 State Route 12 - yard around house, Oneida, New York, United States",
+        "lat": 43.4007357,
+        "lng": -75.2166452
       },
-      "date": "Mar 10, 2026 11:35",
-      "observer": "Danielle Restuccia",
+      "date": "Mar 12, 2026 06:40",
+      "observer": "Doug Batt",
+      "wikipedia": {
+        "summary": "The evening grosbeak is a passerine bird in the finch family Fringillidae found in North America.",
+        "image_url": "assets/cache/wikipedia-images/evening-grosbeak.jpg",
+        "source": "https://en.wikipedia.org/wiki/Evening_grosbeak"
+      }
+    },
+    {
+      "id": "Evening_Grosbeak_2700_Centerline_Road_Varysburg_Wyoming_New_York_United_States_Mar_12_2026_0756",
+      "species": "Evening Grosbeak",
+      "scientific_name": "Hesperiphona vespertina",
+      "location": {
+        "name": "2700 Centerline Road, Varysburg, Wyoming, New York, United States",
+        "lat": 42.736555,
+        "lng": -78.3020117
+      },
+      "date": "Mar 12, 2026 07:56",
+      "observer": "Tom & Laura Somerville",
       "wikipedia": {
         "summary": "The evening grosbeak is a passerine bird in the finch family Fringillidae found in North America.",
         "image_url": "assets/cache/wikipedia-images/evening-grosbeak.jpg",
@@ -6836,40 +6802,6 @@
       }
     },
     {
-      "id": "Evening_Grosbeak_(Eastern_or_type_3)_Dirty_Bird_Ranch_(Private)_Chemung_New_York_United_States_Mar_05_2026_0830",
-      "species": "Evening Grosbeak (Eastern or type 3)",
-      "scientific_name": "Hesperiphona vespertina vespertina",
-      "location": {
-        "name": "Dirty Bird Ranch (Private), Chemung, New York, United States",
-        "lat": 42.2684747,
-        "lng": -76.5388437
-      },
-      "date": "Mar 05, 2026 08:30",
-      "observer": "Jon Corcoran",
-      "wikipedia": {
-        "summary": "Evening Grosbeak (Eastern or type 3) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
-      "id": "Evening_Grosbeak_Grant_Home_Cortland_New_York_United_States_Mar_10_2026_1113",
-      "species": "Evening Grosbeak",
-      "scientific_name": "Hesperiphona vespertina",
-      "location": {
-        "name": "Grant Home, Cortland, New York, United States",
-        "lat": 42.5337152,
-        "lng": -76.1913806
-      },
-      "date": "Mar 10, 2026 11:13",
-      "observer": "Holly Grant",
-      "wikipedia": {
-        "summary": "The evening grosbeak is a passerine bird in the finch family Fringillidae found in North America.",
-        "image_url": "assets/cache/wikipedia-images/evening-grosbeak.jpg",
-        "source": "https://en.wikipedia.org/wiki/Evening_grosbeak"
-      }
-    },
-    {
       "id": "Evening_Grosbeak_Home_Delaware_New_York_United_States_Mar_11_2026_2002",
       "species": "Evening Grosbeak",
       "scientific_name": "Hesperiphona vespertina",
@@ -6904,15 +6836,32 @@
       }
     },
     {
-      "id": "Evening_Grosbeak_(Eastern_or_type_3)_Shindagin_Hollow_SFShindagin_Hollow_Rd._pavement_end_Tompkins_New_York_United_States_Mar_06_2026_0714",
+      "id": "Evening_Grosbeak_Kellie_Road_Medusa_NY_US_Albany_New_York_United_States_Mar_12_2026_0835",
+      "species": "Evening Grosbeak",
+      "scientific_name": "Hesperiphona vespertina",
+      "location": {
+        "name": "Kellie Road, Medusa, NY, US, Albany, New York, United States",
+        "lat": 42.4861076,
+        "lng": -74.1580767
+      },
+      "date": "Mar 12, 2026 08:35",
+      "observer": "Tom Dickens",
+      "wikipedia": {
+        "summary": "The evening grosbeak is a passerine bird in the finch family Fringillidae found in North America.",
+        "image_url": "assets/cache/wikipedia-images/evening-grosbeak.jpg",
+        "source": "https://en.wikipedia.org/wiki/Evening_grosbeak"
+      }
+    },
+    {
+      "id": "Evening_Grosbeak_(Eastern_or_type_3)_Potato_Hill_SFLevel_Green_Rd._Tompkins_New_York_United_States_Mar_12_2026_0802",
       "species": "Evening Grosbeak (Eastern or type 3)",
       "scientific_name": "Hesperiphona vespertina vespertina",
       "location": {
-        "name": "Shindagin Hollow SF--Shindagin Hollow Rd. pavement end, Tompkins, New York, United States",
-        "lat": 42.3481505,
-        "lng": -76.3386656
+        "name": "Potato Hill SF--Level Green Rd., Tompkins, New York, United States",
+        "lat": 42.3427771,
+        "lng": -76.2677195
       },
-      "date": "Mar 06, 2026 07:14",
+      "date": "Mar 12, 2026 08:02",
       "observer": "Jay McGowan",
       "wikipedia": {
         "summary": "Evening Grosbeak (Eastern or type 3) is a bird species observed in New York.",
@@ -6931,6 +6880,23 @@
       },
       "date": "Mar 06, 2026 07:14",
       "observer": "Blaine Carnes",
+      "wikipedia": {
+        "summary": "Evening Grosbeak (Eastern or type 3) is a bird species observed in New York.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": ""
+      }
+    },
+    {
+      "id": "Evening_Grosbeak_(Eastern_or_type_3)_Shindagin_Hollow_SFShindagin_Hollow_Rd._pavement_end_Tompkins_New_York_United_States_Mar_06_2026_0714",
+      "species": "Evening Grosbeak (Eastern or type 3)",
+      "scientific_name": "Hesperiphona vespertina vespertina",
+      "location": {
+        "name": "Shindagin Hollow SF--Shindagin Hollow Rd. pavement end, Tompkins, New York, United States",
+        "lat": 42.3481505,
+        "lng": -76.3386656
+      },
+      "date": "Mar 06, 2026 07:14",
+      "observer": "Jay McGowan",
       "wikipedia": {
         "summary": "Evening Grosbeak (Eastern or type 3) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -6998,7 +6964,7 @@
         "lng": -77.9506068
       },
       "date": "Mar 08, 2026 09:17",
-      "observer": "Chris Wood",
+      "observer": "Ashwin Viswanathan",
       "wikipedia": {
         "summary": "The pine grosbeak is a large member of the true finch family, Fringillidae. It is the only species in the genus Pinicola. It is found in coniferous woods across Alaska, the western mountains of the United States, Canada, and in subarctic Fennoscandia and across the Palearctic to Siberia.",
         "image_url": "assets/cache/wikipedia-images/pine-grosbeak.jpg",
@@ -7032,23 +6998,6 @@
         "lng": -77.9506068
       },
       "date": "Mar 08, 2026 09:17",
-      "observer": "Mitchell Barry",
-      "wikipedia": {
-        "summary": "The pine grosbeak is a large member of the true finch family, Fringillidae. It is the only species in the genus Pinicola. It is found in coniferous woods across Alaska, the western mountains of the United States, Canada, and in subarctic Fennoscandia and across the Palearctic to Siberia.",
-        "image_url": "assets/cache/wikipedia-images/pine-grosbeak.jpg",
-        "source": "https://en.wikipedia.org/wiki/Pine_grosbeak"
-      }
-    },
-    {
-      "id": "Pine_Grosbeak_1163_Moscow_Road_Hamlin_New_York_US_(43.35_77.951)_Monroe_New_York_United_States_Mar_08_2026_0917",
-      "species": "Pine Grosbeak",
-      "scientific_name": "Pinicola enucleator",
-      "location": {
-        "name": "1163 Moscow Road, Hamlin, New York, US (43.35, -77.951), Monroe, New York, United States",
-        "lat": 43.3504333,
-        "lng": -77.9506068
-      },
-      "date": "Mar 08, 2026 09:17",
       "observer": "Nicole Richardson",
       "wikipedia": {
         "summary": "The pine grosbeak is a large member of the true finch family, Fringillidae. It is the only species in the genus Pinicola. It is found in coniferous woods across Alaska, the western mountains of the United States, Canada, and in subarctic Fennoscandia and across the Palearctic to Siberia.",
@@ -7066,7 +7015,7 @@
         "lng": -77.9506068
       },
       "date": "Mar 08, 2026 09:17",
-      "observer": "Ashwin Viswanathan",
+      "observer": "Chris Wood",
       "wikipedia": {
         "summary": "The pine grosbeak is a large member of the true finch family, Fringillidae. It is the only species in the genus Pinicola. It is found in coniferous woods across Alaska, the western mountains of the United States, Canada, and in subarctic Fennoscandia and across the Palearctic to Siberia.",
         "image_url": "assets/cache/wikipedia-images/pine-grosbeak.jpg",
@@ -7074,16 +7023,16 @@
       }
     },
     {
-      "id": "Pine_Grosbeak_Webster_ParkCampground_area_Monroe_New_York_United_States_Mar_05_2026_1057",
+      "id": "Pine_Grosbeak_1163_Moscow_Road_Hamlin_New_York_US_(43.35_77.951)_Monroe_New_York_United_States_Mar_08_2026_0917",
       "species": "Pine Grosbeak",
       "scientific_name": "Pinicola enucleator",
       "location": {
-        "name": "Webster Park--Campground area, Monroe, New York, United States",
-        "lat": 43.2544474,
-        "lng": -77.4600935
+        "name": "1163 Moscow Road, Hamlin, New York, US (43.35, -77.951), Monroe, New York, United States",
+        "lat": 43.3504333,
+        "lng": -77.9506068
       },
-      "date": "Mar 05, 2026 10:57",
-      "observer": "Cindy Kindle",
+      "date": "Mar 08, 2026 09:17",
+      "observer": "Mitchell Barry",
       "wikipedia": {
         "summary": "The pine grosbeak is a large member of the true finch family, Fringillidae. It is the only species in the genus Pinicola. It is found in coniferous woods across Alaska, the western mountains of the United States, Canada, and in subarctic Fennoscandia and across the Palearctic to Siberia.",
         "image_url": "assets/cache/wikipedia-images/pine-grosbeak.jpg",
@@ -7193,20 +7142,20 @@
       }
     },
     {
-      "id": "Redpoll_AviTrail67/68a__3_pts_Tompkins_New_York_United_States_Mar_11_2026_1831",
-      "species": "Redpoll",
-      "scientific_name": "Acanthis flammea",
+      "id": "Purple_Finch_Woodpecker_Hollow_Chautauqua_New_York_United_States_Mar_12_2026_0930",
+      "species": "Purple Finch",
+      "scientific_name": "Haemorhous purpureus",
       "location": {
-        "name": "AviTrail67/68a - 3 pts, Tompkins, New York, United States",
-        "lat": 42.3432808,
-        "lng": -76.2683022
+        "name": "Woodpecker Hollow, Chautauqua, New York, United States",
+        "lat": 42.191899,
+        "lng": -79.2773223
       },
-      "date": "Mar 11, 2026 18:31",
-      "observer": "Colby Merrill",
+      "date": "Mar 12, 2026 09:30",
+      "observer": "R. Stineman",
       "wikipedia": {
-        "summary": "The redpoll is a species of small passerine bird in the finch family Fringillidae. It is the only species placed in the genus Acanthis. It breeds in the Arctic and north temperate Holarctic tundra and taiga.",
+        "summary": "The purple finch is a bird in the finch family, Fringillidae. It breeds in the northern United States, southern Canada, and the west coast of North America.",
         "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Redpoll"
+        "source": "https://en.wikipedia.org/wiki/Purple_finch"
       }
     },
     {
@@ -7227,6 +7176,23 @@
       }
     },
     {
+      "id": "Redpoll_AviTrail67/68a__3_pts_Tompkins_New_York_United_States_Mar_11_2026_1831",
+      "species": "Redpoll",
+      "scientific_name": "Acanthis flammea",
+      "location": {
+        "name": "AviTrail67/68a - 3 pts, Tompkins, New York, United States",
+        "lat": 42.3432808,
+        "lng": -76.2683022
+      },
+      "date": "Mar 11, 2026 18:31",
+      "observer": "Colby Merrill",
+      "wikipedia": {
+        "summary": "The redpoll is a species of small passerine bird in the finch family Fringillidae. It is the only species placed in the genus Acanthis. It breeds in the Arctic and north temperate Holarctic tundra and taiga.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Redpoll"
+      }
+    },
+    {
       "id": "Redpoll_Potato_Hill_SF_Tompkins_New_York_United_States_Mar_11_2026_0832",
       "species": "Redpoll",
       "scientific_name": "Acanthis flammea",
@@ -7237,6 +7203,23 @@
       },
       "date": "Mar 11, 2026 08:32",
       "observer": "Andrew Whetten",
+      "wikipedia": {
+        "summary": "The redpoll is a species of small passerine bird in the finch family Fringillidae. It is the only species placed in the genus Acanthis. It breeds in the Arctic and north temperate Holarctic tundra and taiga.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Redpoll"
+      }
+    },
+    {
+      "id": "Redpoll_Potato_Hill_SFLevel_Green_Rd._Tompkins_New_York_United_States_Mar_12_2026_0802",
+      "species": "Redpoll",
+      "scientific_name": "Acanthis flammea",
+      "location": {
+        "name": "Potato Hill SF--Level Green Rd., Tompkins, New York, United States",
+        "lat": 42.3427771,
+        "lng": -76.2677195
+      },
+      "date": "Mar 12, 2026 08:02",
+      "observer": "Jay McGowan",
       "wikipedia": {
         "summary": "The redpoll is a species of small passerine bird in the finch family Fringillidae. It is the only species placed in the genus Acanthis. It breeds in the Arctic and north temperate Holarctic tundra and taiga.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -7275,23 +7258,6 @@
         "summary": "The red crossbill or common crossbill is a small passerine bird in the finch family Fringillidae. Crossbills have distinctive mandibles, crossed at the tips, which enable them to extract seeds from conifer cones and other fruits.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Red_crossbill"
-      }
-    },
-    {
-      "id": "Red_Crossbill_(Northeastern_or_type_12)_Michigan_Hollow_silo_house_Tioga_New_York_United_States_Mar_05_2026_0743",
-      "species": "Red Crossbill (Northeastern or type 12)",
-      "scientific_name": "Loxia curvirostra (type 12)",
-      "location": {
-        "name": "Michigan Hollow, silo house, Tioga, New York, United States",
-        "lat": 42.2745972,
-        "lng": -76.4925318
-      },
-      "date": "Mar 05, 2026 07:43",
-      "observer": "Drew Weber",
-      "wikipedia": {
-        "summary": "Red Crossbill (Northeastern or type 12) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
       }
     },
     {
@@ -7339,6 +7305,23 @@
       },
       "date": "Mar 09, 2026 08:23",
       "observer": "Zach Timmins",
+      "wikipedia": {
+        "summary": "The red crossbill or common crossbill is a small passerine bird in the finch family Fringillidae. Crossbills have distinctive mandibles, crossed at the tips, which enable them to extract seeds from conifer cones and other fruits.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Red_crossbill"
+      }
+    },
+    {
+      "id": "Red_Crossbill_Potato_Hill_SFLevel_Green_Rd._Tompkins_New_York_United_States_Mar_12_2026_0802",
+      "species": "Red Crossbill",
+      "scientific_name": "Loxia curvirostra",
+      "location": {
+        "name": "Potato Hill SF--Level Green Rd., Tompkins, New York, United States",
+        "lat": 42.3427771,
+        "lng": -76.2677195
+      },
+      "date": "Mar 12, 2026 08:02",
+      "observer": "Jay McGowan",
       "wikipedia": {
         "summary": "The red crossbill or common crossbill is a small passerine bird in the finch family Fringillidae. Crossbills have distinctive mandibles, crossed at the tips, which enable them to extract seeds from conifer cones and other fruits.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -7397,23 +7380,6 @@
       }
     },
     {
-      "id": "Red_Crossbill_(Northeastern_or_type_12)_Webster_ParkCampground_area_Monroe_New_York_United_States_Mar_05_2026_0930",
-      "species": "Red Crossbill (Northeastern or type 12)",
-      "scientific_name": "Loxia curvirostra (type 12)",
-      "location": {
-        "name": "Webster Park--Campground area, Monroe, New York, United States",
-        "lat": 43.2544474,
-        "lng": -77.4600935
-      },
-      "date": "Mar 05, 2026 09:30",
-      "observer": "Cindy Kindle",
-      "wikipedia": {
-        "summary": "Red Crossbill (Northeastern or type 12) is a bird species observed in New York.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": ""
-      }
-    },
-    {
       "id": "European_Goldfinch_New_Creek_Watershed_Graham_Blvd._bridge_Richmond_New_York_United_States_Mar_08_2026_1721",
       "species": "European Goldfinch",
       "scientific_name": "Carduelis carduelis",
@@ -7457,7 +7423,7 @@
         "lng": -76.2393397
       },
       "date": "Mar 09, 2026 07:23",
-      "observer": "David Brown",
+      "observer": "Kim Steininger",
       "wikipedia": {
         "summary": "The Lapland longspur, also known as the Lapland bunting, is a passerine bird in the longspur family Calcariidae. It is a circumpolar arctic breeder and the only member of the genus Calcarius present in Eurasia.",
         "image_url": "assets/cache/wikipedia-images/lapland-longspur.jpg",
@@ -7474,7 +7440,7 @@
         "lng": -76.2393397
       },
       "date": "Mar 09, 2026 07:23",
-      "observer": "Kim Steininger",
+      "observer": "David Brown",
       "wikipedia": {
         "summary": "The Lapland longspur, also known as the Lapland bunting, is a passerine bird in the longspur family Calcariidae. It is a circumpolar arctic breeder and the only member of the genus Calcarius present in Eurasia.",
         "image_url": "assets/cache/wikipedia-images/lapland-longspur.jpg",
@@ -7618,6 +7584,23 @@
       }
     },
     {
+      "id": "Field_Sparrow_Central_Park_New_York_New_York_United_States_Mar_11_2026_1649",
+      "species": "Field Sparrow",
+      "scientific_name": "Spizella pusilla",
+      "location": {
+        "name": "Central Park, New York, New York, United States",
+        "lat": 40.7715482,
+        "lng": -73.9724819
+      },
+      "date": "Mar 11, 2026 16:49",
+      "observer": "Radu Udrea",
+      "wikipedia": {
+        "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140 mm (6 in) long and weighs about 12.5 g (0.4 oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Field_sparrow"
+      }
+    },
+    {
       "id": "Field_Sparrow_Central_Park_New_York_New_York_United_States_Mar_11_2026_1442",
       "species": "Field Sparrow",
       "scientific_name": "Spizella pusilla",
@@ -7645,40 +7628,6 @@
       },
       "date": "Mar 11, 2026 12:27",
       "observer": "Junko Suzuki",
-      "wikipedia": {
-        "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140 mm (6 in) long and weighs about 12.5 g (0.4 oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Field_sparrow"
-      }
-    },
-    {
-      "id": "Field_Sparrow_Central_Park_New_York_New_York_United_States_Mar_11_2026_1108",
-      "species": "Field Sparrow",
-      "scientific_name": "Spizella pusilla",
-      "location": {
-        "name": "Central Park, New York, New York, United States",
-        "lat": 40.7715482,
-        "lng": -73.9724819
-      },
-      "date": "Mar 11, 2026 11:08",
-      "observer": "Will Harcourt-Smith",
-      "wikipedia": {
-        "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140 mm (6 in) long and weighs about 12.5 g (0.4 oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Field_sparrow"
-      }
-    },
-    {
-      "id": "Field_Sparrow_Central_Park_New_York_New_York_United_States_Mar_11_2026_0705",
-      "species": "Field Sparrow",
-      "scientific_name": "Spizella pusilla",
-      "location": {
-        "name": "Central Park, New York, New York, United States",
-        "lat": 40.7715482,
-        "lng": -73.9724819
-      },
-      "date": "Mar 11, 2026 07:05",
-      "observer": "Keith Cronin",
       "wikipedia": {
         "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140 mm (6 in) long and weighs about 12.5 g (0.4 oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -7720,6 +7669,23 @@
       }
     },
     {
+      "id": "Field_Sparrow_Central_ParkThe_Ramble_New_York_New_York_United_States_Mar_11_2026_1545",
+      "species": "Field Sparrow",
+      "scientific_name": "Spizella pusilla",
+      "location": {
+        "name": "Central Park--The Ramble, New York, New York, United States",
+        "lat": 40.7779667,
+        "lng": -73.9697165
+      },
+      "date": "Mar 11, 2026 15:45",
+      "observer": "Alan Drogin",
+      "wikipedia": {
+        "summary": "The field sparrow is a small New World sparrow in the family Passerellidae. It is about 140 mm (6 in) long and weighs about 12.5 g (0.4 oz). The head is grey with a rust-coloured crown, white eye-ring and pink bill.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Field_sparrow"
+      }
+    },
+    {
       "id": "American_Tree_Sparrow_Randalls_Island_New_York_New_York_United_States_Mar_08_2026_0653",
       "species": "American Tree Sparrow",
       "scientific_name": "Spizelloides arborea",
@@ -7732,7 +7698,7 @@
       "observer": "Adam Cunningham",
       "wikipedia": {
         "summary": "The American tree sparrow, also known as the winter sparrow, is a medium-sized New World sparrow. It breeds in Alaska and Northern Canada and winters in Southern Canada and the Contiguous United States. It is the only member of the genus Spizelloides.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/american-tree-sparrow.jpg",
         "source": "https://en.wikipedia.org/wiki/American_tree_sparrow"
       }
     },
@@ -7749,7 +7715,7 @@
       "observer": "Tim Healy",
       "wikipedia": {
         "summary": "The American tree sparrow, also known as the winter sparrow, is a medium-sized New World sparrow. It breeds in Alaska and Northern Canada and winters in Southern Canada and the Contiguous United States. It is the only member of the genus Spizelloides.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/american-tree-sparrow.jpg",
         "source": "https://en.wikipedia.org/wiki/American_tree_sparrow"
       }
     },
@@ -7766,7 +7732,7 @@
       "observer": "Ron Lulov",
       "wikipedia": {
         "summary": "The American tree sparrow, also known as the winter sparrow, is a medium-sized New World sparrow. It breeds in Alaska and Northern Canada and winters in Southern Canada and the Contiguous United States. It is the only member of the genus Spizelloides.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/american-tree-sparrow.jpg",
         "source": "https://en.wikipedia.org/wiki/American_tree_sparrow"
       }
     },
@@ -7802,6 +7768,23 @@
         "summary": "The fox sparrow is a large New World sparrow. It is the only member of the genus Passerella, although some authors split the species into four.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": "https://en.wikipedia.org/wiki/Fox_sparrow"
+      }
+    },
+    {
+      "id": "Darkeyed_Junco_(Oregon)_2457_BerneAltamont_Road_Albany_New_York_United_States_Mar_12_2026_1225",
+      "species": "Dark-eyed Junco (Oregon)",
+      "scientific_name": "Junco hyemalis [oreganus Group]",
+      "location": {
+        "name": "2457 Berne-Altamont Road, Albany, New York, United States",
+        "lat": 42.6568267,
+        "lng": -74.1322667
+      },
+      "date": "Mar 12, 2026 12:25",
+      "observer": "Alex C",
+      "wikipedia": {
+        "summary": "Dark-eyed Junco (Oregon) is a bird species observed in New York.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": ""
       }
     },
     {
@@ -7848,7 +7831,7 @@
         "lng": -76.312011
       },
       "date": "Mar 08, 2026 12:45",
-      "observer": "David McCartt",
+      "observer": "Esther Angert",
       "wikipedia": {
         "summary": "The white-crowned sparrow is a species of passerine bird native to North America. A medium-sized member of the New World sparrow family, this species is marked by a grey face and black and white streaking on the upper head. It breeds in brushy areas in the taiga and tundra of the northernmost parts of the continent and in the Rocky Mountains and Pacific coast.",
         "image_url": "assets/cache/wikipedia-images/white-crowned-sparrow.jpg",
@@ -7865,7 +7848,7 @@
         "lng": -76.312011
       },
       "date": "Mar 08, 2026 12:45",
-      "observer": "Esther Angert",
+      "observer": "David McCartt",
       "wikipedia": {
         "summary": "The white-crowned sparrow is a species of passerine bird native to North America. A medium-sized member of the New World sparrow family, this species is marked by a grey face and black and white streaking on the upper head. It breeds in brushy areas in the taiga and tundra of the northernmost parts of the continent and in the Rocky Mountains and Pacific coast.",
         "image_url": "assets/cache/wikipedia-images/white-crowned-sparrow.jpg",
@@ -7924,6 +7907,40 @@
       }
     },
     {
+      "id": "Savannah_Sparrow_Central_Park_New_York_New_York_United_States_Mar_11_2026_1020",
+      "species": "Savannah Sparrow",
+      "scientific_name": "Passerculus sandwichensis",
+      "location": {
+        "name": "Central Park, New York, New York, United States",
+        "lat": 40.7715482,
+        "lng": -73.9724819
+      },
+      "date": "Mar 11, 2026 10:20",
+      "observer": "Andrea Evans",
+      "wikipedia": {
+        "summary": "The Savannah sparrow is a small New World sparrow that is the only member of the genus Passerculus. It is a widespread and abundant species that occupies open grassland habitats in North America.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Savannah_sparrow"
+      }
+    },
+    {
+      "id": "Savannah_Sparrow_Governors_Island_(N.Y._County)_New_York_New_York_United_States_Mar_12_2026_1235",
+      "species": "Savannah Sparrow",
+      "scientific_name": "Passerculus sandwichensis",
+      "location": {
+        "name": "Governors Island (N.Y. County), New York, New York, United States",
+        "lat": 40.6885372,
+        "lng": -74.0189759
+      },
+      "date": "Mar 12, 2026 12:35",
+      "observer": "Michael Waldron",
+      "wikipedia": {
+        "summary": "The Savannah sparrow is a small New World sparrow that is the only member of the genus Passerculus. It is a widespread and abundant species that occupies open grassland habitats in North America.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Savannah_sparrow"
+      }
+    },
+    {
       "id": "Swamp_Sparrow_Perch_River_WMA_Jefferson_New_York_United_States_Mar_10_2026_1815",
       "species": "Swamp Sparrow",
       "scientific_name": "Melospiza georgiana",
@@ -7970,7 +7987,7 @@
       "observer": "shirley krno",
       "wikipedia": {
         "summary": "The eastern towhee, also known as chewink, joree, or joree bird, is a large New World sparrow. The taxonomy of the towhees has been under debate in recent decades, and formerly this bird and the spotted towhee were considered a single species, the rufous-sided towhee.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eastern-towhee.jpg",
         "source": "https://en.wikipedia.org/wiki/Eastern_towhee"
       }
     },
@@ -7987,7 +8004,7 @@
       "observer": "Dan Watkins",
       "wikipedia": {
         "summary": "The eastern towhee, also known as chewink, joree, or joree bird, is a large New World sparrow. The taxonomy of the towhees has been under debate in recent decades, and formerly this bird and the spotted towhee were considered a single species, the rufous-sided towhee.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eastern-towhee.jpg",
         "source": "https://en.wikipedia.org/wiki/Eastern_towhee"
       }
     },
@@ -8004,24 +8021,24 @@
       "observer": "Matthew Gilbert",
       "wikipedia": {
         "summary": "The eastern towhee, also known as chewink, joree, or joree bird, is a large New World sparrow. The taxonomy of the towhees has been under debate in recent decades, and formerly this bird and the spotted towhee were considered a single species, the rufous-sided towhee.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eastern-towhee.jpg",
         "source": "https://en.wikipedia.org/wiki/Eastern_towhee"
       }
     },
     {
-      "id": "Eastern_Towhee_Cornell_UniversityEcology_House_Tompkins_New_York_United_States_Mar_08_2026_1441",
+      "id": "Eastern_Towhee_Cayuga_HeightsCountry_Club_Rd._Tompkins_New_York_United_States_Mar_06_2026_1815",
       "species": "Eastern Towhee",
       "scientific_name": "Pipilo erythrophthalmus",
       "location": {
-        "name": "Cornell University--Ecology House, Tompkins, New York, United States",
-        "lat": 42.4584285,
-        "lng": -76.4832383
+        "name": "Cayuga Heights--Country Club Rd., Tompkins, New York, United States",
+        "lat": 42.4584097,
+        "lng": -76.4855586
       },
-      "date": "Mar 08, 2026 14:41",
-      "observer": "Eaton Ekarintaragun",
+      "date": "Mar 06, 2026 18:15",
+      "observer": "Andrew Eppedio",
       "wikipedia": {
         "summary": "The eastern towhee, also known as chewink, joree, or joree bird, is a large New World sparrow. The taxonomy of the towhees has been under debate in recent decades, and formerly this bird and the spotted towhee were considered a single species, the rufous-sided towhee.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eastern-towhee.jpg",
         "source": "https://en.wikipedia.org/wiki/Eastern_towhee"
       }
     },
@@ -8038,25 +8055,76 @@
       "observer": "William Buswell",
       "wikipedia": {
         "summary": "The eastern towhee, also known as chewink, joree, or joree bird, is a large New World sparrow. The taxonomy of the towhees has been under debate in recent decades, and formerly this bird and the spotted towhee were considered a single species, the rufous-sided towhee.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eastern-towhee.jpg",
         "source": "https://en.wikipedia.org/wiki/Eastern_towhee"
       }
     },
     {
-      "id": "Eastern_Towhee_Town_of_Aurora_Erie_County_NY_Erie_New_York_United_States_Mar_11_2026_0903",
+      "id": "Eastern_Towhee_Cornell_UniversityEcology_House_Tompkins_New_York_United_States_Mar_08_2026_1441",
       "species": "Eastern Towhee",
       "scientific_name": "Pipilo erythrophthalmus",
       "location": {
-        "name": "Town of Aurora, Erie County, NY, Erie, New York, United States",
-        "lat": 42.7253456,
-        "lng": -78.6086664
+        "name": "Cornell University--Ecology House, Tompkins, New York, United States",
+        "lat": 42.4584285,
+        "lng": -76.4832383
       },
-      "date": "Mar 11, 2026 09:03",
-      "observer": "Laura Szmania",
+      "date": "Mar 08, 2026 14:41",
+      "observer": "Eaton Ekarintaragun",
       "wikipedia": {
         "summary": "The eastern towhee, also known as chewink, joree, or joree bird, is a large New World sparrow. The taxonomy of the towhees has been under debate in recent decades, and formerly this bird and the spotted towhee were considered a single species, the rufous-sided towhee.",
-        "image_url": "assets/images/placeholder-bird.svg",
+        "image_url": "assets/cache/wikipedia-images/eastern-towhee.jpg",
         "source": "https://en.wikipedia.org/wiki/Eastern_towhee"
+      }
+    },
+    {
+      "id": "Eastern_Towhee_NY_Ontario_Home_Ontario_New_York_United_States_Mar_12_2026_0805",
+      "species": "Eastern Towhee",
+      "scientific_name": "Pipilo erythrophthalmus",
+      "location": {
+        "name": "NY Ontario: Home, Ontario, New York, United States",
+        "lat": 42.7894329,
+        "lng": -77.5681436
+      },
+      "date": "Mar 12, 2026 08:05",
+      "observer": "Bill Howe",
+      "wikipedia": {
+        "summary": "The eastern towhee, also known as chewink, joree, or joree bird, is a large New World sparrow. The taxonomy of the towhees has been under debate in recent decades, and formerly this bird and the spotted towhee were considered a single species, the rufous-sided towhee.",
+        "image_url": "assets/cache/wikipedia-images/eastern-towhee.jpg",
+        "source": "https://en.wikipedia.org/wiki/Eastern_towhee"
+      }
+    },
+    {
+      "id": "Eastern_Meadowlark_1823_Judge_Road_Basom_New_York_US_(43.074_78.361)_Genesee_New_York_United_States_Mar_12_2026_1547",
+      "species": "Eastern Meadowlark",
+      "scientific_name": "Sturnella magna",
+      "location": {
+        "name": "1823 Judge Road, Basom, New York, US (43.074, -78.361), Genesee, New York, United States",
+        "lat": 43.0742271,
+        "lng": -78.3605533
+      },
+      "date": "Mar 12, 2026 15:47",
+      "observer": "Stephanie Gilbert",
+      "wikipedia": {
+        "summary": "The eastern meadowlark is a medium-sized icterid bird, very similar in appearance to its sister species, the western meadowlark. It occurs from eastern North America to northern South America, where it is also most widespread in the east. The Chihuahuan meadowlark was formerly considered to be conspecific with the eastern meadowlark.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Eastern_meadowlark"
+      }
+    },
+    {
+      "id": "Yellowshouldered_Blackbird_Stapleton_Richmond_New_York_United_States_Mar_12_2026_1100",
+      "species": "Yellow-shouldered Blackbird",
+      "scientific_name": "Agelaius xanthomus",
+      "location": {
+        "name": "Stapleton, Richmond, New York, United States",
+        "lat": 40.624091,
+        "lng": -74.076342
+      },
+      "date": "Mar 12, 2026 11:00",
+      "observer": "Melissa Preston",
+      "wikipedia": {
+        "summary": "The yellow-shouldered blackbird, known in Puerto Rican Spanish as mariquita de Puerto Rico or capitán, is a species of blackbird endemic to Puerto Rico. It has black plumage with a prominent yellow patch on the wing. Adult males and females are of similar appearance.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Yellow-shouldered_blackbird"
       }
     },
     {
@@ -8077,7 +8145,7 @@
       }
     },
     {
-      "id": "Rusty_Blackbird_Brooklyn_Bridge_Park_Kings_New_York_United_States_Mar_08_2026_0844",
+      "id": "Rusty_Blackbird_Brooklyn_Bridge_Park_Kings_New_York_United_States_Mar_12_2026_1141",
       "species": "Rusty Blackbird",
       "scientific_name": "Euphagus carolinus",
       "location": {
@@ -8085,7 +8153,7 @@
         "lat": 40.6996104,
         "lng": -73.9973745
       },
-      "date": "Mar 08, 2026 08:44",
+      "date": "Mar 12, 2026 11:41",
       "observer": "MI YU",
       "wikipedia": {
         "summary": "The rusty blackbird is a medium-sized New World blackbird, closely related to grackles. It is a bird that prefers wet forested areas, breeding in the boreal forest and muskeg across northern Canada, and migrating southeast to the United States during winter.",
@@ -8162,23 +8230,6 @@
       }
     },
     {
-      "id": "Rusty_Blackbird_Prospect_Park_Kings_New_York_United_States_Mar_08_2026_0936",
-      "species": "Rusty Blackbird",
-      "scientific_name": "Euphagus carolinus",
-      "location": {
-        "name": "Prospect Park, Kings, New York, United States",
-        "lat": 40.6602841,
-        "lng": -73.9689534
-      },
-      "date": "Mar 08, 2026 09:36",
-      "observer": "Paul Merle",
-      "wikipedia": {
-        "summary": "The rusty blackbird is a medium-sized New World blackbird, closely related to grackles. It is a bird that prefers wet forested areas, breeding in the boreal forest and muskeg across northern Canada, and migrating southeast to the United States during winter.",
-        "image_url": "assets/cache/wikipedia-images/rusty-blackbird.jpg",
-        "source": "https://en.wikipedia.org/wiki/Rusty_blackbird"
-      }
-    },
-    {
       "id": "Boattailed_Grackle_Floyd_Bennett_Field_Kings_New_York_United_States_Mar_10_2026_0632",
       "species": "Boat-tailed Grackle",
       "scientific_name": "Quiscalus major",
@@ -8230,23 +8281,6 @@
       }
     },
     {
-      "id": "Orangecrowned_Warbler_Central_ParkThe_Ramble_New_York_New_York_United_States_Mar_07_2026_1631",
-      "species": "Orange-crowned Warbler",
-      "scientific_name": "Leiothlypis celata",
-      "location": {
-        "name": "Central Park--The Ramble, New York, New York, United States",
-        "lat": 40.7779667,
-        "lng": -73.9697165
-      },
-      "date": "Mar 07, 2026 16:31",
-      "observer": "Christian Thanasoulis",
-      "wikipedia": {
-        "summary": "The orange-crowned warbler is a small songbird of the New World warbler family.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Orange-crowned_warbler"
-      }
-    },
-    {
       "id": "Pine_Warbler_Central_Park_New_York_New_York_United_States_Mar_11_2026_1649",
       "species": "Pine Warbler",
       "scientific_name": "Setophaga pinus",
@@ -8257,40 +8291,6 @@
       },
       "date": "Mar 11, 2026 16:49",
       "observer": "Radu Udrea",
-      "wikipedia": {
-        "summary": "The pine warbler is a small songbird of the New World warbler family Parulidae. It is a permanent resident in the southeastern United States and also breeds in southeastern Canada and the northeastern United States, where it is migratory. Unlike other wood-warblers, in addition to insects the pine warbler also sometimes consumes seeds.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Pine_warbler"
-      }
-    },
-    {
-      "id": "Pine_Warbler_Central_Park_New_York_New_York_United_States_Mar_11_2026_1442",
-      "species": "Pine Warbler",
-      "scientific_name": "Setophaga pinus",
-      "location": {
-        "name": "Central Park, New York, New York, United States",
-        "lat": 40.7715482,
-        "lng": -73.9724819
-      },
-      "date": "Mar 11, 2026 14:42",
-      "observer": "D. Bruce Yolton",
-      "wikipedia": {
-        "summary": "The pine warbler is a small songbird of the New World warbler family Parulidae. It is a permanent resident in the southeastern United States and also breeds in southeastern Canada and the northeastern United States, where it is migratory. Unlike other wood-warblers, in addition to insects the pine warbler also sometimes consumes seeds.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Pine_warbler"
-      }
-    },
-    {
-      "id": "Pine_Warbler_Central_Park_New_York_New_York_United_States_Mar_11_2026_1436",
-      "species": "Pine Warbler",
-      "scientific_name": "Setophaga pinus",
-      "location": {
-        "name": "Central Park, New York, New York, United States",
-        "lat": 40.7715482,
-        "lng": -73.9724819
-      },
-      "date": "Mar 11, 2026 14:36",
-      "observer": "Yuxuan Qin",
       "wikipedia": {
         "summary": "The pine warbler is a small songbird of the New World warbler family Parulidae. It is a permanent resident in the southeastern United States and also breeds in southeastern Canada and the northeastern United States, where it is migratory. Unlike other wood-warblers, in addition to insects the pine warbler also sometimes consumes seeds.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -8332,6 +8332,40 @@
       }
     },
     {
+      "id": "Pine_Warbler_Central_ParkThe_Ramble_New_York_New_York_United_States_Mar_11_2026_1545",
+      "species": "Pine Warbler",
+      "scientific_name": "Setophaga pinus",
+      "location": {
+        "name": "Central Park--The Ramble, New York, New York, United States",
+        "lat": 40.7779667,
+        "lng": -73.9697165
+      },
+      "date": "Mar 11, 2026 15:45",
+      "observer": "Alan Drogin",
+      "wikipedia": {
+        "summary": "The pine warbler is a small songbird of the New World warbler family Parulidae. It is a permanent resident in the southeastern United States and also breeds in southeastern Canada and the northeastern United States, where it is migratory. Unlike other wood-warblers, in addition to insects the pine warbler also sometimes consumes seeds.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Pine_warbler"
+      }
+    },
+    {
+      "id": "Pine_Warbler_Leona_Ln_Saranac_Lake_Franklin_New_York_United_States_Mar_12_2026_1307",
+      "species": "Pine Warbler",
+      "scientific_name": "Setophaga pinus",
+      "location": {
+        "name": "Leona Ln, Saranac Lake, Franklin, New York, United States",
+        "lat": 44.326003,
+        "lng": -74.13436
+      },
+      "date": "Mar 12, 2026 13:07",
+      "observer": "Jillian Kern",
+      "wikipedia": {
+        "summary": "The pine warbler is a small songbird of the New World warbler family Parulidae. It is a permanent resident in the southeastern United States and also breeds in southeastern Canada and the northeastern United States, where it is migratory. Unlike other wood-warblers, in addition to insects the pine warbler also sometimes consumes seeds.",
+        "image_url": "assets/images/placeholder-bird.svg",
+        "source": "https://en.wikipedia.org/wiki/Pine_warbler"
+      }
+    },
+    {
       "id": "Pine_Warbler_Marshlands_Conservancy_Westchester_New_York_United_States_Mar_11_2026_1545",
       "species": "Pine Warbler",
       "scientific_name": "Setophaga pinus",
@@ -8342,23 +8376,6 @@
       },
       "date": "Mar 11, 2026 15:45",
       "observer": "Barry Capella",
-      "wikipedia": {
-        "summary": "The pine warbler is a small songbird of the New World warbler family Parulidae. It is a permanent resident in the southeastern United States and also breeds in southeastern Canada and the northeastern United States, where it is migratory. Unlike other wood-warblers, in addition to insects the pine warbler also sometimes consumes seeds.",
-        "image_url": "assets/images/placeholder-bird.svg",
-        "source": "https://en.wikipedia.org/wiki/Pine_warbler"
-      }
-    },
-    {
-      "id": "Pine_Warbler_Marshlands_Conservancy_Westchester_New_York_United_States_Mar_11_2026_1354",
-      "species": "Pine Warbler",
-      "scientific_name": "Setophaga pinus",
-      "location": {
-        "name": "Marshlands Conservancy, Westchester, New York, United States",
-        "lat": 40.9560952,
-        "lng": -73.7037651
-      },
-      "date": "Mar 11, 2026 13:54",
-      "observer": "Gail Benson",
       "wikipedia": {
         "summary": "The pine warbler is a small songbird of the New World warbler family Parulidae. It is a permanent resident in the southeastern United States and also breeds in southeastern Canada and the northeastern United States, where it is migratory. Unlike other wood-warblers, in addition to insects the pine warbler also sometimes consumes seeds.",
         "image_url": "assets/images/placeholder-bird.svg",
@@ -8482,23 +8499,6 @@
         "summary": "Yellow-rumped Warbler (Myrtle) is a bird species observed in New York.",
         "image_url": "assets/images/placeholder-bird.svg",
         "source": ""
-      }
-    },
-    {
-      "id": "Dickcissel_4420_Porter_Center_Rd_Lewiston_USNY_43.19968_78.96805_Niagara_New_York_United_States_Mar_05_2026_0900",
-      "species": "Dickcissel",
-      "scientific_name": "Spiza americana",
-      "location": {
-        "name": "4420 Porter Center Rd, Lewiston US-NY 43.19968, -78.96805, Niagara, New York, United States",
-        "lat": 43.199675,
-        "lng": -78.968052
-      },
-      "date": "Mar 05, 2026 09:00",
-      "observer": "Kim Barto",
-      "wikipedia": {
-        "summary": "The dickcissel is a small seed-eating migratory bird in the family Cardinalidae. It breeds on the prairie grasslands of the Midwestern United States and winters in Central America, northern Colombia, and northern Venezuela. It is the only member of the genus Spiza, though some sources list another supposedly extinct species.",
-        "image_url": "assets/cache/wikipedia-images/dickcissel.jpg",
-        "source": "https://en.wikipedia.org/wiki/Dickcissel"
       }
     }
   ]
